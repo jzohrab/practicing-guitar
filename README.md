@@ -33,6 +33,18 @@ pip3 install -r requirements.txt
 deactivate
 ```
 
+## Autobuild
+
+During dev it's helpful to have a separate process running that auto-rebuilds using https://github.com/executablebooks/sphinx-autobuild.
+
+```
+# in new terminal tab
+source env/bin/activate
+sphinx-autobuild docs docs/_build/html
+```
+
+Then open http://127.0.0.1:8000 and you'll see the docs.
+
 ## Building
 
 ```
