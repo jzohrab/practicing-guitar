@@ -9,13 +9,12 @@ Guitar Practice
 A curated source of ideas and techniques for guitar practicing.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :name: mastertoc
    :caption: Contents:
    :glob:
 
-   techniques
-   techniques/*
+   techniques/index
    todo
 
 

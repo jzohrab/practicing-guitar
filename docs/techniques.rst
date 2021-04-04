@@ -1,6 +1,0 @@
-Techniques
-==========
-
-.. todo::
-
-   intro text
