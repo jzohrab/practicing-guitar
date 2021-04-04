@@ -10,8 +10,12 @@ A curated source of ideas and techniques for guitar practicing.
 
 .. toctree::
    :maxdepth: 2
+   :name: mastertoc
    :caption: Contents:
+   :glob:
 
+   techniques
+   techniques/*
 
 
 Indices and tables
