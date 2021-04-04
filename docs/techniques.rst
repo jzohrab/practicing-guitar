@@ -1,4 +1,6 @@
 Techniques
 ==========
 
-TODO: intro text here
+.. todo::
+
+   intro text
