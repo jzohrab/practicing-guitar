@@ -42,12 +42,9 @@ make html
 
 # To-do items
 
-"to-do" items can be listed with
+ref: https://www.sphinx-doc.org/en/master/usage/extensions/todo.html
 
-```
-cd .
-python3 tools/list_todos.py
-```
+"to-do" items are indicated with the `.. todo::` directive, and output at `todo.html` using `make html`
 
 # Project layout
 

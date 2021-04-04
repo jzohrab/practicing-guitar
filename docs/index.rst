@@ -16,6 +16,7 @@ A curated source of ideas and techniques for guitar practicing.
 
    techniques
    techniques/*
+   todo
 
 
 Indices and tables
