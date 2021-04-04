@@ -45,6 +45,17 @@ sphinx-autobuild docs docs/_build/html
 
 Then open http://127.0.0.1:8000 and you'll see the docs.
 
+## Adding dependencies
+
+If you add something, freeze it:
+
+```
+pip3 install ytsphinx   # e.g.
+pip3 freeze > requirements.txt
+git add requirements.txt
+git commit -m "Added ytsphinx"  # e.g.
+```
+
 ## Building
 
 ```
@@ -52,7 +63,19 @@ cd docs
 make html
 ```
 
-# To-do items
+# Special directives
+
+## YouTube
+
+The `youtube::` directive embeds a video in the HTML, eg:
+
+```
+.. youtube:: -NVHoHPUAmM
+   :width: 640
+   :height: 480
+```
+
+## To-do items
 
 ref: https://www.sphinx-doc.org/en/master/usage/extensions/todo.html
 
