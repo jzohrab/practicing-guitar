@@ -1,0 +1,18 @@
+- tag: xyz
+  description: |
+    This is a multi-line comment and I want to preserve leading white spaces and new line.  It's going to have a lot of information in this one thing.
+
+    I'm going to have para1.
+
+    And para2.
+
+    And para3, here is an example for your pleasure:
+
+        ----
+        ----
+        ----
+
+    ok thanks.
+
+    
+      
