@@ -53,6 +53,9 @@ html_theme = 'alabaster'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+def setup(app):
+    app.add_javascript('vextab.prod.js')
+
 # https://www.sphinx-doc.org/en/master/usage/extensions/todo.html
 todo_include_todos = True
 todo_emit_warnings = True
