@@ -18,6 +18,7 @@ A curated source of ideas and techniques for guitar practicing.
    examples/index
    todo
 
+.. vexflow::
 
 .. raw:: html
 
