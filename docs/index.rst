@@ -19,6 +19,7 @@ A curated source of ideas and techniques for guitar practicing.
    todo
 
 .. vexflow::
+   :notes: =|: :16 5u/1 8d/2 5u/1 8d-6u-5d-6u-8d/2 =:|
 
 .. raw:: html
 
