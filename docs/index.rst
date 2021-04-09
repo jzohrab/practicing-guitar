@@ -16,6 +16,7 @@ A curated source of ideas and techniques for guitar practicing.
 
    techniques/index
    examples/index
+   recipes/index
    todo
 
 .. vextab::

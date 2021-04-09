@@ -27,8 +27,10 @@ author = 'Jeff Zohrab'
 # ones.
 extensions = [
     'sphinx.ext.todo',
+    'sphinx.ext.autosectionlabel',
     'ytsphinx.youtube',
-    'vextab'
+    'vextab',
+    'recipe'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -53,8 +55,9 @@ html_theme = 'alabaster'
 html_static_path = ['_static']
 
 def setup(app):
-    app.add_javascript('vextab.prod.js')
+    app.add_js_file('vextab.prod.js')
+    app.add_css_file('override.css')
 
 # https://www.sphinx-doc.org/en/master/usage/extensions/todo.html
 todo_include_todos = True
-todo_emit_warnings = True
+# todo_emit_warnings = True

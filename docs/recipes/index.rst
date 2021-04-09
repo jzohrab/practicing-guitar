@@ -1,0 +1,16 @@
+.. recipe-test documentation master file, created by
+   sphinx-quickstart on Sun Nov 18 09:42:21 2018.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+recipes
+=======
+
+.. rcp:recipelist::
+
+recipe stuff
+============
+
+* :ref:`ingredientindex`
+* :ref:`recipeindex`
+* :ref:`search`
