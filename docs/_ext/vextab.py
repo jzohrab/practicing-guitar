@@ -1,6 +1,6 @@
-# Custom extension for writing vexflow
+# Custom extension for writing vextab
 #
-# Vexflow needs to be written to an html div.  In rst, this looks like this:
+# Vextab needs to be written to an html div.  In rst, this looks like this:
 #
 # .. raw:: html
 # 
@@ -13,17 +13,17 @@
 #
 # This is tedious and verbose.  With this extension, the above can be written like this:
 #
-# .. vexflow::
+# .. vextab::
 #    :notes: =|: :16 5u/1 8d/2 5u/1 8d-6u-5d-6u-8d/2 =:|
 
 from docutils import nodes
 from docutils.parsers.rst import directives, Directive
 
 
-class vexflow(nodes.General, nodes.Element): pass
+class vextab(nodes.General, nodes.Element): pass
 
 
-def visit_vexflow_html(self, node):
+def visit_vextab_html(self, node):
     print('visiting node')
     print(node)
     notes = node['notes']
@@ -36,15 +36,15 @@ def visit_vexflow_html(self, node):
 """.format(notes)
     self.body.append(content)
 
-def depart_vexflow_node(self, node):
+def depart_vextab_node(self, node):
     pass
 
-def unsupported_visit_vexflow(self, node):
-    self.builder.warn('vexflow: unsupported output format (node skipped)')
+def unsupported_visit_vextab(self, node):
+    self.builder.warn('vextab: unsupported output format (node skipped)')
     raise nodes.SkipNode
 
 
-class VexflowDirective(Directive):
+class VextabDirective(Directive):
     has_content = False
     # required_arguments = 1
     # optional_arguments = 0
@@ -55,21 +55,21 @@ class VexflowDirective(Directive):
 
     def run(self):
         notes = self.options["notes"]
-        return [vexflow(notes=notes)]
+        return [vextab(notes=notes)]
 
 
 _NODE_VISITORS = {
-    'html': (visit_vexflow_html, depart_vexflow_node),
-    'latex': (unsupported_visit_vexflow, None),
-    'man': (unsupported_visit_vexflow, None),
-    'texinfo': (unsupported_visit_vexflow, None),
-    'text': (unsupported_visit_vexflow, None)
+    'html': (visit_vextab_html, depart_vextab_node),
+    'latex': (unsupported_visit_vextab, None),
+    'man': (unsupported_visit_vextab, None),
+    'texinfo': (unsupported_visit_vextab, None),
+    'text': (unsupported_visit_vextab, None)
 }
 
 
 def setup(app):
-    app.add_node(vexflow, **_NODE_VISITORS)
-    app.add_directive("vexflow", VexflowDirective)
+    app.add_node(vextab, **_NODE_VISITORS)
+    app.add_directive("vextab", VextabDirective)
 
     return {
         'version': '0.1',

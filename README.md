@@ -77,26 +77,14 @@ The `youtube::` directive embeds a video in the HTML, eg:
 
 ## Adding TAB and notation
 
-We use [Vextab](https://vexflow.com/vextab/).
+We use [Vextab](https://vexflow.com/vextab/).  The project includes Vextab's [div.prod.js](https://github.com/0xfe/vextab/blob/master/releases/div.prod.js) in html pages.
 
-The project includes Vextab's [div.prod.js](https://github.com/0xfe/vextab/blob/master/releases/div.prod.js) in html pages.
-
-Use [the Vextab tutorial](https://vexflow.com/vextab/tutorial.html) to work out the music data, and then use the `raw` directive to embed it in a page, e.g.:
+Use [the Vextab tutorial](https://vexflow.com/vextab/tutorial.html) to work out the music data, and then use the custom `vextab` directive to embed it in a page, e.g.:
 
 ```
-.. raw:: html
-
-   <div class="vextab-auto" width=680>
-   options space=10 font-style=italic font-size=10 scale=0.75
-   tabstave notation=true
-   notes =|: :16 5u/1 8d/2 5u/1 8d-6u-5d-6u-8d/2 =:|
-   text :w, BPM = Ridiculous
-   options space=40
-   </div>
+.. vextab::
+   :notes: =|: :16 5u/1 8d/2 5u/1 8d-6u-5d-6u-8d/2 =:|
 ```
-
-(In future, we make make a custom `.. vextab::` directive to simplify this, but for now this suffices).
-
 
 ## To-do items
 

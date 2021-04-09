@@ -28,7 +28,7 @@ author = 'Jeff Zohrab'
 extensions = [
     'sphinx.ext.todo',
     'ytsphinx.youtube',
-    'vexflow'
+    'vextab'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
