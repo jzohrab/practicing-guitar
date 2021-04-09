@@ -25,12 +25,12 @@ class vexflow(nodes.General, nodes.Element): pass
 
 def visit_vexflow_html(self, node):
     print('visiting node')
-    notes = node["notes"]
+    print(node)
+    notes = node['notes']
     content = """   <div class="vextab-auto" width=680>
    options space=10 font-style=italic font-size=10 scale=0.75
    tabstave notation=true
-   notes {notes}
-   text :w, BPM = Ridiculous
+   notes {0}
    options space=40
    </div>
 """.format(notes)
@@ -45,9 +45,9 @@ def unsupported_visit_vexflow(self, node):
 
 
 class VexflowDirective(Directive):
-    has_content = True
-    required_arguments = 1
-    optional_arguments = 0
+    has_content = False
+    # required_arguments = 1
+    # optional_arguments = 0
     final_argument_whitespace = False
     option_spec = {
         "notes": directives.unchanged_required
@@ -55,7 +55,7 @@ class VexflowDirective(Directive):
 
     def run(self):
         notes = self.options["notes"]
-        return [vexflow(id=self.arguments[0], notes=notes)]
+        return [vexflow(notes=notes)]
 
 
 _NODE_VISITORS = {
