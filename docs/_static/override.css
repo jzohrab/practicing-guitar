@@ -18,3 +18,21 @@ pre, tt, code {
     font-family: Georgia, serif;
     /* font-size: 0.9em; */
 }
+
+/** Overriding the massive user agent spacing. */
+div, h1, p, ul {
+    margin: 0 0 12px !important;
+}
+
+p.recipedesc {
+    font-style: italic;
+    margin: 0px !important;
+}
+
+span.recipedescintro {
+    font-weight: bold;
+}
+
+hr {
+    margin: 10px 0 !important;
+}

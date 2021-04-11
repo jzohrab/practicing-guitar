@@ -20,10 +20,14 @@ def visit_recipe_node(self, node):
     def append(s):
         self.body.append(s)
     
-    append(self.starttag(node, "div", CLASS = 'recipeheader'))
-    append(self.starttag(node, "p", node["displayname"], CLASS = 'name'))
-    append(self.starttag(node, "p", node["description"], CLASS = 'desc'))
-    append("</p></p></div>")
+    # Use the page title ('===') as the title
+    # append(self.starttag(node, "p", node["displayname"], CLASS = 'name'))
+    append(self.starttag(node, "p", CLASS = 'recipedesc'))
+    append(self.starttag(node, "span", "Summary: ", CLASS = 'recipedescintro'))
+    append("</span>")
+    append(node["description"])
+    append("</p>")
+    append("<hr />")
 
     # Note: not sure why, but the node passed here for the visit
     # didn't contain the latest node data (i.e., the 'examples'
@@ -250,6 +254,15 @@ class RecipeDomain(Domain):
         r = self.get_recipe(target)
         # Contnode contains the link content ... this was the only way I could see to update the content.
 
+        # We use the page title as the link content.  I tried to get
+        # the page title to be loaded automatically when the directive
+        # was parsed, but the solution didn't seem obvious (env.titles
+        # isn't fully populated).  So, this is a lame hack to ensure
+        # that things at least stay internally consistent.
+        t = env.titles[r['docname']].astext()
+        if r['displayname'] != t:
+            raise Exception("displayname '{0}' doesn't match title '{1}'".format(r['displayname'], t))
+
         # If this is a link in 'examples' to a recipe, add a reference.
         if ('examples' in fromdocname):
             example = {
@@ -259,7 +272,6 @@ class RecipeDomain(Domain):
             }
             r['examples'].append(example)
 
-        t = env.titles[r['docname']].astext()
         newcontnode = nodes.literal('', t, classes = contnode.get('classes'))
         return make_refnode(builder, fromdocname, r['docname'], r['anchor'], newcontnode, r['anchor'])
 

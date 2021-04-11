@@ -67,6 +67,9 @@ html_theme_options = {
     'titles_only': False
 }
 
+# Don't show the "view the source" link on top right.
+html_show_sourcelink = False
+
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
