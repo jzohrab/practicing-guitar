@@ -1,8 +1,8 @@
 Sample lick
 ===========
 
-Try using the :rcp:ref:`TomatoSoup` technique.
+Try using the :recipe:ref:`TomatoSoup` technique.
 
-Try using the :rcp:ref:`TomatoSoup` technique.
+Try using the :recipe:ref:`TomatoSoup` technique.
 
-REALLY Try using the :rcp:ref:`TomatoSoup` technique.
+REALLY Try using the :recipe:ref:`TomatoSoup` technique.

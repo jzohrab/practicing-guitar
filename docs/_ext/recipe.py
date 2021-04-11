@@ -12,6 +12,8 @@ from sphinx.util.nodes import make_refnode
 from sphinx import addnodes
 
 
+DOMAIN_NAME = 'recipe'
+
 class recipe(nodes.General, nodes.Element):
     """The recipe."""
     pass
@@ -25,14 +27,14 @@ def visit_recipe_node(self, node):
     append(self.starttag(node, "p", CLASS = 'recipedesc'))
     append(self.starttag(node, "span", "Summary: ", CLASS = 'recipedescintro'))
     append("</span>")
-    append(node["description"])
+    append("{0} &nbsp; {1}".format(node["description"], node["stars"]))
     append("</p>")
     append("<hr />")
 
     # Note: not sure why, but the node passed here for the visit
     # didn't contain the latest node data (i.e., the 'examples'
     # added during resolve_xref).  Re-fetching that data here.
-    examples = self.builder.env.get_domain('rcp').get_recipe(node["signature"])["examples"]
+    examples = self.builder.env.get_domain(DOMAIN_NAME).get_recipe(node["signature"])["examples"]
     if len(examples) > 0:
         anchors = [
             "<li><a href=\"{0}\">{1}</a></li>".format(e['uri'], e['title'])
@@ -71,30 +73,34 @@ class RecipeDirective(ObjectDescription):
 
     option_spec = {
         'displayname': directives.unchanged_required,
-        'contains': directives.unchanged_required
+        'contains': directives.unchanged_required,
+        'rating': directives.unchanged
     }
 
     def run(self):
-        targetid = 'recipe-%d' % self.env.new_serialno('recipe')
+        targetid = 'recipe-%d' % self.env.new_serialno(DOMAIN_NAME)
         targetnode = nodes.target('', '', ids=[targetid])
 
-        displayname = self.options['displayname']
+        opts = self.options
+        displayname = opts['displayname']
         signature = self.arguments[0]
-        name = '{}.{}'.format('recipe', signature)
+        name = '{}.{}'.format(DOMAIN_NAME, signature)
         anchor = 'recipe-{}'.format(signature)
-        ingredients = [x.strip() for x in self.options['contains'].split(',')]
+        ingredients = [x.strip() for x in opts['contains'].split(',')]
 
-        print('titles = ')
-        print(self.env.titles)
+        rating = int(opts['rating']) if 'rating' in opts else 0
+        star = '&#9734;'
+        stars = star * rating
+
         r = recipe(
             id = self.arguments[0],
             name = name,
-            dispname = displayname,
             displayname = displayname,
-            contains = self.options['contains'],
-
+            contains = opts['contains'],
+            rating = rating,
+            stars = stars,
             description = "\n".join(self.content),
-            ingredients = [x.strip() for x in self.options['contains'].split(',')],
+            ingredients = [x.strip() for x in opts['contains'].split(',')],
             signature = signature,
             type = 'Recipe',
             docname = self.env.docname,
@@ -105,7 +111,7 @@ class RecipeDirective(ObjectDescription):
             examples = []
         )
 
-        recipes = self.env.get_domain('rcp')
+        recipes = self.env.get_domain(DOMAIN_NAME)
         recipes.add_recipe(r)
         return [ targetnode, r ]
 
@@ -115,7 +121,7 @@ class RecipeDirective(ObjectDescription):
         return sig
 
     def add_target_and_index(self, name_cls, sig, signode):
-        signode['ids'].append('recipe' + '-' + sig)
+        signode['ids'].append(DOMAIN_NAME + '-' + sig)
         if 'noindex' not in self.options:
             domain = self.env.get_domain(self.domain)
             domain.add_recipe(sig, self)
@@ -133,7 +139,7 @@ def process_recipelist_nodes(app, doctree, fromdocname):
     """Replace all recipelist nodes with a list of the collected recipes."""
     env = app.builder.env
 
-    domain = env.get_domain('rcp')
+    domain = env.get_domain(DOMAIN_NAME)
     recipes = domain.get_recipes()
 
     for node in doctree.traverse(recipelist):
@@ -142,8 +148,8 @@ def process_recipelist_nodes(app, doctree, fromdocname):
         for r in recipes:
             para = nodes.paragraph()
 
-            dispname = r['dispname']
-            refnode = nodes.reference(dispname, dispname)
+            displayname = r['displayname']
+            refnode = nodes.reference(displayname, displayname)
             refnode['refdocname'] = r['docname']
             refnode['refuri'] = app.builder.get_relative_uri(fromdocname, r['docname'])
             refnode['refuri'] += '#' + r['anchor']
@@ -161,7 +167,7 @@ def process_recipelist_nodes(app, doctree, fromdocname):
 class IngredientIndex(Index):
     """A custom directive that creates an ingredient matrix."""
     
-    name = 'ing'
+    name = 'ingredient-index'
     localname = 'Ingredient Index'
     shortname = 'Ingredient'
     
@@ -175,14 +181,47 @@ class IngredientIndex(Index):
         for r in self.domain.get_recipes():
             for i in r['ingredients']:
                 lis = content.setdefault(i, [])
-                tup = (r['dispname'], 0, r['docname'], r['anchor'], '', '', r['description'])
+                tup = (r['displayname'], 0, r['docname'], r['anchor'], '', '', r['description'])
                 lis.append(tup)
         re = [(k, v) for k, v in sorted(content.items())]
         return (re, True)
 
+class RatingIndex(Index):
+    """Recipes by rating."""
+    name = 'rating-index'
+    localname = 'Rating Index'
+    shortname = 'Rating'
+    
+    def __init__(self, *args, **kwargs):
+        super(RatingIndex, self).__init__(*args, **kwargs)
 
-class RecipeIndex(Index):    
-    name = 'rcp'
+    def generate(self, docnames=None):
+        """See docs in https://www.sphinx-doc.org/en/1.4.8/extdev/domainapi.html#sphinx.domains.Index.generate"""
+        content = {}
+        for r in self.domain.get_recipes():
+            k = r['stars']
+            if (k == ''):
+                k = '-'
+            lis = content.setdefault(k, [])
+            lis.append((
+                r['displayname'], 0, r['docname'], r['anchor'],
+                '', '',
+                r['description']
+            ))
+
+        # Hacky sorting: first sorting by the length of the key
+        # (stars) in reverse order.  recipe['stars'] is a string, and
+        # no rating is a dash ... we're lucky because one dash sorts
+        # lower than one star, so we can sort these things by the
+        # length of the stars they have.
+        re = [(k, sorted(v, key = lambda r: r[0]))
+              for k, v in
+              sorted(content.items(), key = lambda r: len(r[0]), reverse=True)]
+        return (re, True)
+
+
+class RecipeIndex(Index):
+    name = 'recipe-index'
     localname = 'Recipe Index'
     shortname = 'Recipe'
     
@@ -193,10 +232,10 @@ class RecipeIndex(Index):
         """See docs in https://www.sphinx-doc.org/en/1.4.8/extdev/domainapi.html#sphinx.domains.Index.generate"""
         content = {}
         for r in self.domain.get_recipes():
-            key = r['dispname'][0]
+            key = r['displayname'][0]
             lis = content.setdefault(key, [])
             lis.append((
-                r['dispname'], 0, r['docname'], r['anchor'],
+                r['displayname'], 0, r['docname'], r['anchor'],
                 '', '',
                 r['description']
             ))
@@ -206,7 +245,7 @@ class RecipeIndex(Index):
 
 
 class RecipeDomain(Domain):
-    name = 'rcp'
+    name = DOMAIN_NAME
     label = 'Recipe Sample'
 
     roles = {
@@ -220,7 +259,8 @@ class RecipeDomain(Domain):
 
     indices = {
         RecipeIndex,
-        IngredientIndex
+        IngredientIndex,
+        RatingIndex
     }
 
     initial_data = {
@@ -229,7 +269,7 @@ class RecipeDomain(Domain):
 
     def get_full_qualified_name(self, node):
         """Return full qualified name for a given node"""
-        return "{}.{}.{}".format('rcp',
+        return "{}.{}.{}".format(DOMAIN_NAME,
                                  type(node).__name__,
                                  node.arguments[0])
 
@@ -282,14 +322,18 @@ def setup(app):
 
     app.connect('doctree-resolved', process_recipelist_nodes)
 
-    StandardDomain.initial_data['labels']['recipeindex'] =\
-        ('rcp-rcp', '', 'Recipe Index')
-    StandardDomain.initial_data['labels']['ingredientindex'] =\
-        ('rcp-ing', '', 'Ingredient Index')
+    recipeIndex = "{0}-recipe-index".format(DOMAIN_NAME)
+    ingredientIndex = "{0}-ingredient-index".format(DOMAIN_NAME)
+    ratingIndex = "{0}-rating-index".format(DOMAIN_NAME)
 
-    StandardDomain.initial_data['anonlabels']['recipeindex'] =\
-        ('rcp-rcp', '')
-    StandardDomain.initial_data['anonlabels']['ingredientindex'] =\
-        ('rcp-ing', '')
-    
+    labels = StandardDomain.initial_data['labels']
+    labels['recipeindex'] = (recipeIndex, '', 'Recipe Index')
+    labels['ingredientindex'] = (ingredientIndex, '', 'Ingredient Index')
+    labels['ratingindex'] = (ratingIndex, '', 'Rating Index')
+
+    anon = StandardDomain.initial_data['anonlabels']
+    anon['recipeindex'] = (recipeIndex, '')
+    anon['ingredientindex'] = (ingredientIndex, '')
+    anon['ratingindex'] = (ratingIndex, '')
+
     return {'version': '0.1'}

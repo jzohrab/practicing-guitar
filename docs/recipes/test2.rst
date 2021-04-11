@@ -1,11 +1,12 @@
 Test2 Fancy Title
 =================
 
-.. rcp:recipe:: Toast
+.. recipe:recipe:: Toast
    :displayname: Toast
    :contains: bread
+   :rating: 1
 
    Toast.
 
-Link to :rcp:ref:`TomatoSoup`.
+Link to :recipe:ref:`TomatoSoup`.
 

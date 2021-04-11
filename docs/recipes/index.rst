@@ -6,7 +6,7 @@
 recipes
 =======
 
-.. rcp:recipelist::
+.. recipe:recipelist::
 
 .. toctree::
    :hidden:
@@ -17,6 +17,6 @@ recipes
 recipe stuff
 ============
 
-* :ref:`ingredientindex`
 * :ref:`recipeindex`
-* :ref:`search`
+* :ref:`ingredientindex`
+* :ref:`ratingindex`

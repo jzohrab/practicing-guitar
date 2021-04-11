@@ -1,8 +1,9 @@
 Tomato Soup
 ===========
 
-.. rcp:recipe:: TomatoSoup
+.. recipe:recipe:: TomatoSoup
    :displayname: Tomato Soup
+   :rating: 5
    :contains: tomato, cilantro, salt, pepper
 
    A tasty tomato soup!
