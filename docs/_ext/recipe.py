@@ -80,6 +80,8 @@ class RecipeDirective(ObjectDescription):
         anchor = 'recipe-{}'.format(signature)
         ingredients = [x.strip() for x in self.options['contains'].split(',')]
 
+        print('titles = ')
+        print(self.env.titles)
         r = recipe(
             id = self.arguments[0],
             name = name,
@@ -257,7 +259,8 @@ class RecipeDomain(Domain):
             }
             r['examples'].append(example)
 
-        newcontnode = nodes.literal('', r['dispname'], classes = contnode.get('classes'))
+        t = env.titles[r['docname']].astext()
+        newcontnode = nodes.literal('', t, classes = contnode.get('classes'))
         return make_refnode(builder, fromdocname, r['docname'], r['anchor'], newcontnode, r['anchor'])
 
 def setup(app):

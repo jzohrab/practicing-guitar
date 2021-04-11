@@ -8,6 +8,12 @@ recipes
 
 .. rcp:recipelist::
 
+.. toctree::
+   :hidden:
+   :glob:
+
+   *
+
 recipe stuff
 ============
 

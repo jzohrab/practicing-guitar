@@ -1,4 +1,5 @@
-:orphan:
+Some Fancy Title
+================
 
 .. rcp:recipe:: TomatoSoup
    :displayname: Tomato Soup

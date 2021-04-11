@@ -1,4 +1,5 @@
-:orphan:
+Test2 Fancy Title
+=================
 
 .. rcp:recipe:: Toast
    :displayname: Toast

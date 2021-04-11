@@ -11,7 +11,7 @@
 import os
 import sys
 sys.path.append(os.path.abspath("./_ext"))
-
+import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
@@ -30,7 +30,8 @@ extensions = [
     'sphinx.ext.autosectionlabel',
     'ytsphinx.youtube',
     'vextab',
-    'recipe'
+    'recipe',
+    'sphinx_rtd_theme'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -47,7 +48,24 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+html_theme = 'sphinx_rtd_theme'
+
+html_theme_options = {
+    # 'analytics_id': 'UA-XXXXXXX-1',  #  Provided by Google in your dashboard
+    # 'analytics_anonymize_ip': False,
+    'logo_only': False,
+    'display_version': True,
+    'prev_next_buttons_location': None,
+    'style_external_links': False,
+    'vcs_pageview_mode': '',
+    # 'style_nav_header_background': 'white',
+    # Toc options
+    'collapse_navigation': False,
+    'sticky_navigation': True,
+    'navigation_depth': 2,
+    'includehidden': False,
+    'titles_only': False
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
