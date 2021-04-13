@@ -111,12 +111,12 @@ Isolating and integrating
 ------------------------------
 
 Left hand only: chord attack / parallel set
-------------------------------
+-------------------------------------------
 
 If you can't play it with the left hand only, you can't pick it.
 
 Left hand only: staccato hammers
-------------------------------
+---------------------------------
 
 Mental practice
 ------------------------------
@@ -164,13 +164,10 @@ https://www.pianostreet.com/smf/index.php/topic,2449.msg21217/topicseen.html#msg
 Rest variations
 ------------------------------
 
-Rhythmic variations - dotted rhythms.
-------------------------------
+Rhythmic variations - dotted rhythms
+-------------------------------------
 
 "The most important thing to watch for when doing RV, is to make sure you practice the mirror variation. This means that you do not just do fast-slow, you must also do slow-fast. And if you use a more complex rhythm (which I encourage you to do). Like slow-slow-fast, then make sure you go through slow-fast-slow and fast-fast-slow as well." - https://www.pianostreet.com/smf/index.php/topic,5298.msg50376.html#msg50376
-
-Rhythmic variations, longer section
-------------------------------
 
 Sequencing
 ------------------------------
