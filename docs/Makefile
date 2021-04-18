@@ -3,7 +3,11 @@
 
 # You can set these variables from the command line, and also
 # from the environment for the first two.
-SPHINXOPTS    ?=
+
+# -W to fail on error:
+# https://stackoverflow.com/questions/38048945/
+#   how-to-turn-warnings-into-errors-when-building-sphinx-documentation-with-setupto
+SPHINXOPTS    ?= -W
 SPHINXBUILD   ?= sphinx-build
 SOURCEDIR     = .
 BUILDDIR      = _build
