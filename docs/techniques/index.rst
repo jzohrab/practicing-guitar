@@ -29,3 +29,20 @@ Items:
    :glob:
 
    *
+
+Tech Listing
+============
+
+.. tech:techniquelist::
+
+.. toctree::
+   :hidden:
+   :glob:
+
+   *
+
+technique stuff
+===============
+
+* :ref:`techniqueindex`
+* :ref:`techniqueratingindex`

@@ -29,9 +29,12 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.autosectionlabel',
     'ytsphinx.youtube',
+    'sphinx_rtd_theme',
+
+    # custom code in _ext/
     'vextab',
     'recipe',
-    'sphinx_rtd_theme'
+    'technique',
 ]
 
 # Add any paths that contain templates here, relative to this directory.

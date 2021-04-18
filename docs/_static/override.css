@@ -33,6 +33,15 @@ span.recipedescintro {
     font-weight: bold;
 }
 
+p.techdesc {
+    font-style: italic;
+    margin: 0px !important;
+}
+
+p.techdesc span.techdescintro {
+    font-weight: bold;
+}
+
 hr {
     margin: 10px 0 !important;
 }
