@@ -225,3 +225,5 @@ Volume swells
 ------------------------------
 
 crescendo and decr - of RH picking
+
+ref https://forum.troygrady.com/t/how-to-get-faster-when-you-are-not-slow-anymore/42864/47
