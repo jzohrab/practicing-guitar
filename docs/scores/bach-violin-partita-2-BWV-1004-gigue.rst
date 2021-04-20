@@ -1,0 +1,28 @@
+Gigue from BWV 1004 Violin Partita no. 2, J.S. Bach
+===================================================
+
+.. vextab::
+
+   # First three measures.
+   tabstave notation=true key=Dm time=12/8
+   notes :8 7/4 | 5/5 8/5 7/4 7/3 5/2 6/2 5/2 :16 8/2 6/2 5/2 7/3 :8 6/3 7/4 7/5 | 4/5 7/5 7/4 5/2 6/2 8/2 :8 6/2 :16 5/1 8/2 6/2 5/2 :8 7/3 7/4 8/5 |
+
+   tabstave notation=true key=Dm time=12/8
+   notes :8 5/5 :16 10/3 9/3 7/3 10/3 11/2 10/2 8/2 10/3 9/3 7/3 10/4 7/3 9/3 7/3 10/4 9/3 10/2 8/2 10/3 9/3 7/3 10/4 |
+
+   tabstave notation=true key=Dm time=12/8
+   notes :16 8/4 10/4 7/3 10/4 8/4 7/3 8/2 6/2 5/2 7/3 6/3 4/3 7/4 4/3 6/3 4/3 7/4 6/3 5/2 7/3 6/3 4/3 7/4 5/4 |
+
+   tabstave notation=true key=Dm time=12/8
+   notes :16 8/5 7/4 5/4 8/5 7/5 5/5 :8 5/6 7/3 6/3 :8d 10/6 :16 7/5 8/5 10/5 7/4 8/4 10/4 7/3 9/3 10/3 |
+
+   # First arpeggios.
+   tabstave notation=true key=Dm time=12/8
+   notes :16 8/2 9/3 10/4 10/5 7/5 10/5 10/4 10/5 7/5 8/6 7/5 10/5 7/4 10/5 8/5 10/5 7/4 8/4 10/4 7/3 9/3 10/3 8/2 10/2 |
+
+   # Descending sequence.
+   tabstave notation=true key=Dm time=12/8
+   notes :16 11/2 10/2 11/2 10/1 9/3 8/2 10/2 8/2 10/2 8/1 7/3 10/3 8/2 6/2 8/2 6/1 5/3 5/2 6/2 5/2 6/2 5/1 8/2 6/2 |
+
+
+.. todo:: complete this score

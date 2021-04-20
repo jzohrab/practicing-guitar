@@ -61,6 +61,9 @@ git commit -m "Added ytsphinx"  # e.g.
 ```
 cd docs
 make html
+
+# or:
+# make clean html
 ```
 
 # Special directives
@@ -83,8 +86,11 @@ Use [the Vextab tutorial](https://vexflow.com/vextab/tutorial.html) to work out 
 
 ```
 .. vextab::
-   :notes: =|: :16 5u/1 8d/2 5u/1 8d-6u-5d-6u-8d/2 =:|
+
+   =|: :16 5u/1 8d/2 5u/1 8d-6u-5d-6u-8d/2 =:|
 ```
+
+See `docs/_ext/vextab.py` for other examples and notes.
 
 ## To-do items
 

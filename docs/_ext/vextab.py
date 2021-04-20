@@ -4,9 +4,9 @@
 #
 # .. raw:: html
 # 
-#    <div class="vextab-auto" width=680>
+#    <div class="vextab-auto" width=800>
 #    options space=10 font-style=italic font-size=10 scale=0.75
-#    tabstave notation=true
+#    tabstave notation=true key=Dm time=12/8
 #    notes =|: :16 5u/1 8d/2 5u/1 8d-6u-5d-6u-8d/2 =:|
 #    options space=40
 #    </div>
@@ -14,11 +14,20 @@
 # This is tedious and verbose.  With this extension, the above can be written like this:
 #
 # .. vextab::
-#    :notes: =|: :16 5u/1 8d/2 5u/1 8d-6u-5d-6u-8d/2 =:|
+#
+#    # This line is a comment (all lines starting with # are skipped)
+#    tabstave notation=true key=Dm time=12/8
+#    notes =|: :16 5u/1 8d/2 5u/1 8d-6u-5d-6u-8d/2 =:|
+#
+# If you don't need any addition tabstave options, just using the notes should work:
+#
+# .. vextab::
+#
+#    =|: :16 5u/1 8d/2 5u/1 8d-6u-5d-6u-8d/2 =:|
 
 from docutils import nodes
 from docutils.parsers.rst import directives, Directive
-
+import re
 
 class vextab(nodes.General, nodes.Element): pass
 
@@ -26,15 +35,32 @@ class vextab(nodes.General, nodes.Element): pass
 def visit_vextab_html(self, node):
     print('visiting node')
     print(node)
-    notes = node['notes']
-    content = """   <div class="vextab-auto" width=680>
-   options space=10 font-style=italic font-size=10 scale=0.75
-   tabstave notation=true
-   notes {0}
+
+    # Vextab currently doesn't really like it when the last notes line ends with a bar ...
+    # See https://github.com/0xfe/vextab/pull/122 for pending fix.
+    lines = [
+        re.sub(r'\|$', '', line)
+        for line in [
+                s
+                for s in
+                node['content']
+                if not s.strip().startswith('#')
+                ]
+    ]
+    rawcontent = '\n'.join(lines)
+
+    # Add "tabstave notation=true" if it's not there already.
+    if ("tabstave" not in rawcontent):
+        rawcontent = "tabstave notation=true\n   notes {0}".format(rawcontent)
+
+    finalcontent = """   <div class="vextab-auto" width=800>
+   options space=20 scale=0.85
+   {0}
    options space=40
    </div>
-""".format(notes)
-    self.body.append(content)
+""".format(rawcontent)
+    print(finalcontent)
+    self.body.append(finalcontent)
 
 def depart_vextab_node(self, node):
     pass
@@ -45,17 +71,18 @@ def unsupported_visit_vextab(self, node):
 
 
 class VextabDirective(Directive):
-    has_content = False
+    has_content = True
     # required_arguments = 1
     # optional_arguments = 0
     final_argument_whitespace = False
-    option_spec = {
-        "notes": directives.unchanged_required
-    }
+    # Maybe keep this option spec idea for styles, widths, etc.
+    # option_spec = {
+    #     "tabstave": directives.unchanged
+    # }
 
     def run(self):
-        notes = self.options["notes"]
-        return [vextab(notes=notes)]
+        content = self.content
+        return [vextab(content=self.content)]
 
 
 _NODE_VISITORS = {
