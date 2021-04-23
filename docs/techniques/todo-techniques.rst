@@ -7,11 +7,6 @@ These techniques that still require documentation.  In some cases, they have rou
 
    Document techniques listed here
 
-.. contents:: To be documented
-    :depth: 2
-    :local:
-    :backlinks: top
-
 .. Use the ./template.txt for each technique below to fill it in.
 
 
