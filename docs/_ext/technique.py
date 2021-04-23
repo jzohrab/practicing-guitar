@@ -73,7 +73,8 @@ class TechniqueDirective(ObjectDescription):
 
     option_spec = {
         'displayname': directives.unchanged_required,
-        'rating': directives.unchanged
+        'rating': directives.unchanged,
+        'status': directives.unchanged
     }
 
     def run(self):
@@ -82,6 +83,12 @@ class TechniqueDirective(ObjectDescription):
 
         opts = self.options
         displayname = opts['displayname']
+
+        if 'status' in opts:
+            s = opts['status'].lower()
+            if (s == 'todo' or s == 'pending'):
+                displayname = '{0} (TODO)'.format(displayname)
+
         signature = self.arguments[0]
         name = '{}.{}'.format(DOMAIN_NAME, signature)
         anchor = 'technique-{}'.format(signature)
