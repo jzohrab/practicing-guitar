@@ -24,6 +24,14 @@ div, h1, p, ul {
     margin: 0 0 12px !important;
 }
 
+div.vex-canvas {
+    margin: 0 0 0px !important;
+}
+
+div.vextabexample {
+    margin-left: 30px !important;
+}
+
 p.recipedesc {
     font-style: italic;
     margin: 0px !important;

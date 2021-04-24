@@ -5,8 +5,11 @@ Reading rhythms
 
 For the purposes of the examples in the rest of this book, it's better that you get a *feel* for the rhythm in your ears and hands, so listen to the examples for each and maybe play along.
 
-The basics
+The Basics
 **********
+
+Quarter notes
+-------------
 
 These are quarter notes.  Each note is played for one beat.
 
@@ -18,7 +21,10 @@ These are quarter notes.  Each note is played for one beat.
    notes :q 0/2 $1$ 0/2 $2$ 0/2 $3$ 0/2 $4$
    text :q,.1,1,2,3,4
 
-These are eighth notes.  An eighth note is half as long as a quarter note, so there are two eighth notes in one beat.
+Eighth notes
+------------
+
+Eighth notes (8th notes) are joined by a bar.  An eighth note is half as long as a quarter note, so there are two eighth notes in one beat.
 
 .. vextab::
    :width: 400
@@ -26,6 +32,11 @@ These are eighth notes.  An eighth note is half as long as a quarter note, so th
    tabstave notation=true
    notes :8 0/2 $1$ 0/2 $and$ 0/2 $2$ 0/2 $and$
    text :q,.1,1,2
+
+Sixteenth notes
+---------------
+
+16th notes have a double bar.  A 16th note is half as long as an eighth, so there are four 16ths in one beat.
 
 .. vextab::
    :width: 400
@@ -36,6 +47,8 @@ These are eighth notes.  An eighth note is half as long as a quarter note, so th
 
 Triplets
 ********
+
+Triplets fit 3 notes into the length of one beat.  Sextuplets fit 6.
 
 Some people like different words to say for each beat ... e.g, "1-trip-let" or "1-and-uh" for triplets, instead of "1-la-li".  Use whatever works for you.
 
@@ -56,6 +69,8 @@ Some people like different words to say for each beat ... e.g, "1-trip-let" or "
 
 Dotted rhythms
 **************
+
+Dotted rhythms are great for practicing, so be sure you get a good feel for this.
 
 A dot after a note increases its length by half its value.  In each example below, the first two beats are straight 8th notes, and the last two have dotted eights.
 

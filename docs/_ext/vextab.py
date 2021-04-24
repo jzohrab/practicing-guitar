@@ -57,9 +57,14 @@ def visit_vextab_html(self, node):
     if ('width') in node:
         width = node['width']
 
-    finalcontent = """<div class="vextab-auto" width={1}>
+    # Hacky css: if we have an example, keep it close to the score.
+    spacingadjustment = ''
+    if node['example'] is not None:
+        spacingadjustment = """style=\"margin: 0 0 0px !important;\""""
+
+    finalcontent = """<div class="vextab-auto" {1} width={2}>
 {0}
-</div>""".format(rawcontent, width)
+</div>""".format(rawcontent, spacingadjustment, width)
     print(finalcontent)
     self.body.append(finalcontent)
 
