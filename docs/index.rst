@@ -15,6 +15,7 @@ A curated source of ideas and techniques for guitar practicing.
    :glob:
 
    techniques/index
+   theory/index
    examples/index
    scores/index
    todo
