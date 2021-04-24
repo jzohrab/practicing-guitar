@@ -50,13 +50,17 @@ def visit_vextab_html(self, node):
     # Add "tabstave notation=true" if it's not there already.
     if ("tabstave" not in rawcontent):
         rawcontent = "tabstave notation=true\n   notes {0}".format(rawcontent)
+    if ("options" not in rawcontent):
+        rawcontent = "options space=20 scale=0.85 font-style=italic\n{0}".format(rawcontent)
 
-    finalcontent = """   <div class="vextab-auto" width=800>
-   options space=20 scale=0.85
-   {0}
-   </div>
-""".format(rawcontent)
-    # print(finalcontent)
+    width = 800
+    if ('width') in node:
+        width = node['width']
+
+    finalcontent = """<div class="vextab-auto" width={1}>
+{0}
+</div>""".format(rawcontent, width)
+    print(finalcontent)
     self.body.append(finalcontent)
 
 def depart_vextab_node(self, node):
@@ -72,14 +76,14 @@ class VextabDirective(Directive):
     # required_arguments = 1
     # optional_arguments = 0
     final_argument_whitespace = False
-    # Maybe keep this option spec idea for styles, widths, etc.
-    # option_spec = {
-    #     "tabstave": directives.unchanged
-    # }
+    option_spec = {
+        "width": directives.unchanged
+    }
 
     def run(self):
         content = self.content
-        return [vextab(content=self.content)]
+        width = self.options.get('width', 800)
+        return [vextab(content=self.content, width=width)]
 
 
 _NODE_VISITORS = {
