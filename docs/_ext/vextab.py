@@ -36,10 +36,12 @@ def visit_vextab_html(self, node):
     print('visiting node')
     print(node)
 
-    # Vextab currently doesn't really like it when the last notes line ends with a bar ...
-    # See https://github.com/0xfe/vextab/pull/122 for pending fix.
     lines = [
-        re.sub(r'\|$', '', line)
+        # Remove trailing bar: Vextab currently doesn't really like it
+        # when the last notes line ends with a bar ...  See
+        # https://github.com/0xfe/vextab/pull/122 for pending fix.
+        # re.sub(r'\|$', '', line)
+        line
         for line in [
                 s
                 for s in
