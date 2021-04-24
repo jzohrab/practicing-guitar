@@ -63,6 +63,13 @@ def visit_vextab_html(self, node):
     print(finalcontent)
     self.body.append(finalcontent)
 
+    if node['example'] is not None:
+        examplediv = """<div class="vextabexample" width={1}>
+<a href="#" onclick="startPlayExample('{0}');">&#9654; Play sample</a>
+</div>""".format(node['example'], width)
+        self.body.append(examplediv)
+
+
 def depart_vextab_node(self, node):
     pass
 
@@ -77,13 +84,15 @@ class VextabDirective(Directive):
     # optional_arguments = 0
     final_argument_whitespace = False
     option_spec = {
-        "width": directives.unchanged
+        "width": directives.unchanged,
+        "example": directives.unchanged
     }
 
     def run(self):
         content = self.content
         width = self.options.get('width', 800)
-        return [vextab(content=self.content, width=width)]
+        example = self.options.get('example', None)
+        return [vextab(content=self.content, width=width, example=example)]
 
 
 _NODE_VISITORS = {
