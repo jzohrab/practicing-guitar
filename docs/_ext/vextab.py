@@ -49,9 +49,9 @@ def visit_vextab_html(self, node):
 
     # Add "tabstave notation=true" if it's not there already.
     if ("tabstave" not in rawcontent):
-        rawcontent = "tabstave notation=true\n   notes {0}".format(rawcontent)
+        rawcontent = "tabstave notation=true\nnotes {0}".format(rawcontent)
     if ("options" not in rawcontent):
-        rawcontent = "options space=20 scale=0.85 font-style=italic\n{0}".format(rawcontent)
+        rawcontent = "options scale=0.85 font-style=italic\n{0}".format(rawcontent)
 
     width = 800
     if ('width') in node:
@@ -68,7 +68,6 @@ def visit_vextab_html(self, node):
 <a href="#" onclick="startPlayExample('{0}');">&#9654; Play sample</a>
 </div>""".format(node['example'], width)
         self.body.append(examplediv)
-
 
 def depart_vextab_node(self, node):
     pass
