@@ -18,15 +18,8 @@ A curated source of ideas and techniques for guitar practicing.
    examples/index
    scores/index
    todo
+   indices
 
 .. vextab::
 
    =|: :16 5u/1 8d/2 5u/1 8d-6u-5d-6u-8d/2 =:|
-
-
-
-
-Indices and tables
-------------------
-
-* :ref:`genindex`
