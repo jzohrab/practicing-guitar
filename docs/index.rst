@@ -10,8 +10,8 @@ A curated source of ideas and techniques for guitar practicing.
 
 .. toctree::
    :maxdepth: 3
+   :hidden:
    :name: mastertoc
-   :caption: Contents:
    :glob:
 
    techniques/index
@@ -23,8 +23,10 @@ A curated source of ideas and techniques for guitar practicing.
 
    =|: :16 5u/1 8d/2 5u/1 8d-6u-5d-6u-8d/2 =:|
 
+
+
+
 Indices and tables
-==================
+------------------
 
 * :ref:`genindex`
-* :ref:`search`
