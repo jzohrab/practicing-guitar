@@ -78,7 +78,7 @@ html_show_sourcelink = False
 html_static_path = ['_static']
 
 def setup(app):
-    app.add_js_file('vextab.prod.js')
+    app.add_js_file('vextab.dev.js')
     app.add_js_file('generalstuff.js')
     app.add_css_file('override.css')
 

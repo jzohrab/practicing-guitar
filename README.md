@@ -100,18 +100,18 @@ Vextab is great, but there are a few small tweaks needed.
 
 The changes are in https://github.com/jzohrab/vextab/tree/practicing-guitar-patched
 
-Checkout that repo in a sibling directory, and build it (`npm run build`)
+Checkout that repo in a sibling directory, and build it (`npm run build-dev`)
 
-Then copy it to this project:
+Then copy the dev js to this project:
 
 Run this in the top directory of this project:
 
 ```
 pushd ../vextab
-npm run build
+npm run build-dev
 popd
 pushd docs/_static/
-cp ../../../vextab/dist/div.prod.js vextab.prod.js
+cp ../../../vextab/dist/div.dev.js vextab.dev.js
 popd
 git status
 pushd docs
