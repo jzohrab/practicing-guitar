@@ -8,7 +8,6 @@
 #    options space=10 font-style=italic font-size=10 scale=0.75
 #    tabstave notation=true key=Dm time=12/8
 #    notes =|: :16 5u/1 8d/2 5u/1 8d-6u-5d-6u-8d/2 =:|
-#    options space=40
 #    </div>
 #
 # This is tedious and verbose.  With this extension, the above can be written like this:
@@ -58,7 +57,6 @@ def visit_vextab_html(self, node):
     finalcontent = """   <div class="vextab-auto" width=800>
    options space=20 scale=0.85
    {0}
-   options space=40
    </div>
 """.format(rawcontent)
     print(finalcontent)
