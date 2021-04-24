@@ -84,4 +84,5 @@ def setup(app):
 
 # https://www.sphinx-doc.org/en/master/usage/extensions/todo.html
 todo_include_todos = True
+autosectionlabel_prefix_document = True
 # todo_emit_warnings = True
