@@ -56,7 +56,7 @@ def visit_vextab_html(self, node):
    {0}
    </div>
 """.format(rawcontent)
-    print(finalcontent)
+    # print(finalcontent)
     self.body.append(finalcontent)
 
 def depart_vextab_node(self, node):
