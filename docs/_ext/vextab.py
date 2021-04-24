@@ -32,9 +32,6 @@ class vextab(nodes.General, nodes.Element): pass
 
 
 def visit_vextab_html(self, node):
-    print('visiting node')
-    print(node)
-
     lines = [
         # Remove trailing bar: Vextab currently doesn't really like it
         # when the last notes line ends with a bar ...  See
