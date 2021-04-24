@@ -1,7 +1,7 @@
 Reading rhythms
 ===============
 
-*Just enough* notation for you to read any examples in this book.  (There's more to this topic: ties, rests, tuples, etc.)
+*Just enough* notation for you to read any examples in this book.  (There's much more to this topic: ties, rests, tuples, etc.)
 
 The basics
 **********
