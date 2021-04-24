@@ -1,5 +1,5 @@
-Other Techniques
-================
+(Pending Documentation)
+=======================
 
 These techniques that still require documentation.  In some cases, they have rough notes, which are reminders for me of points I wish to reference or include in the final documentation.
 
@@ -9,6 +9,56 @@ These techniques that still require documentation.  In some cases, they have rou
 
 .. Use the ./template.txt for each technique below to fill it in.
 
+
+Misc todos
+----------
+
+
+Items:
+
+- Yes, practice tricks, hands separate, etc. are done for a very limited time only for the purpose of thoroughly learning and ingraining the movements. Once you get that, you simply play and enjoy the piece. Practising is a temporary process to be get rid of as soon as possible.  - https://www.pianostreet.com/smf/index.php/topic,3561.msg31700.html#msg31700
+
+- But above all, do not get lost in thought: try it out! All these methods are powerful, but they all have limitations and situations where they will fall apart. The only way to find out is trying them out.
+
+- "the secret for acquiring technique quickly lies in knowing certain tricks for reducing impossibly difficult passages to not only playable but also to trivially simple ones." - chang?
+
+- nothing mindless, play and observe
+
+- "Yes. You must avoid this. Use a timer. Also, there is a law of diminishing returns. As you practise a section you start by making lots of mistakes and learning form your mistakes. This is the exploratory phase. After a while you figure out all the co-ordinates and you pay it perfectly. A lot of beginners stop practising at this point. This is actually the point where real practice starts: when you finally got it right. Up to now most of your practice will have consisted of wrong repetitions. Now you must ingrain the correct section by repeating it at least as many times as you did it wrong in the exploratory phase. However, after a while of repeating perfect renditions of your passage, due to fatigue (both mental and physical) you will start making mistakes again. It is very important that you stop practising before getting to this stage. You must stop when your repeats are perfect. But being human, your reaction when you start making mistakes again is to keep repeating to try to re-achieve your former perfection. You will not be able to. In fact all you will achieve is several hours of wrong repetitions. Next day, of course the whole section is a mess even though you may have practised it for five hours. So make sure that your last repeat is always perfect: this is what will be ingrained in your brain." - https://www.pianostreet.com/smf/index.php/topic,4689.msg44184.html#msg44184
+
+- "Speed is a function of movement. Speed walls are always a result of using a movement that has limitations. Rather than trying to break through the speed wall by persistent (and misguided) overpractice of the same movement, go around the speed wall by using a completely different movement." - https://www.pianostreet.com/smf/index.php?topic=5298.msg50376#msg50376
+
+- "The proof of the pudding is in the eating. Just give it a try. But not a half-hearted try. Give it all you get. Do not dismiss it straight away."
+     
+- Relaxation
+
+- General practice thoughts - see notes
+
+- Time to spend practicing (https://www.pianostreet.com/smf/index.php?topic=3039.msg26757#msg26757, 15-20 mins, 7x) -- "At this point comes the 20 minute principle. Do not play this first bar anymore today! Nothing bad will happen if in your next 20 minute practice session you work on this first bar again. But nothing good will happen either: It will be a total waste of time. Instead take your break, and on the next session work on a different passage of the prelude."
+
+- the importance of experimentation and tracking results
+
+- making a plan: "This demands a lot of thought, organisation, the self-discipline to stick to a pre-planned schedule. Plan your work, and then work your plan." - https://www.pianostreet.com/smf/index.php?topic=4858.msg46586#msg46586
+
+- memorizing a new piece (https://www.pianostreet.com/smf/index.php?topic=3039.msg28102#msg28102)
+
+- start with the difficult thing
+
+- the last repeat must be perfect
+
+- slow and fast practice
+
+- investigative vs real practice - https://www.pianostreet.com/smf/index.php?topic=4858.msg46585#msg46585
+
+- metronome work (Jens L, and xylophone variations), and 60 – 92 – 80 – 100 – 92 – 112 – 100 – 132 – 112 – 152 – 120
+
+- "Method" - "It is more like a set of principles that have to be investigated and adapted to each person's idiossincracies. Try it out, keep what works, discard what does not. And sometimes go back to something you discarded, you may understand it better now and derive some benefit from it." - https://www.pianostreet.com/smf/index.php?topic=4851.msg85705#msg85705
+
+- test it out: "Pick two pieces of similar difficulty/style. One of them you learn exactly the way you would have you had never heard of these maps. The other one you learn by following (the best you can) the instructions given. In a couple of week’s time (or more, or less), compare results and tell us." - https://www.pianostreet.com/smf/index.php?topic=5083.msg48306#msg48306
+
+- "Speed is very much an illusion. The human ear can take just so many sounds. If you play each note clearly, it will sound fast because the ear has to process a lot of information. If you play so fast that either you miss notes, or they become a blur, it doesn’t sound fast at all, it just sounds messy"
+
+- "In short, make sure you are never ever practising wrong. Like Backaus, only practise the right notes."
 
 Regular Accents
 ---------------
