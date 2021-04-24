@@ -33,7 +33,6 @@ extensions = [
 
     # custom code in _ext/
     'vextab',
-    'recipe',
     'technique',
 ]
 
