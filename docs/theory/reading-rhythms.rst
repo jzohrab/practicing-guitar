@@ -3,7 +3,7 @@ Reading rhythms
 
 *Just enough* notation for you to read any examples in this book.  (There's much more to this topic: ties, rests, tuples, etc.)
 
-For the purposes of the examples in the rest of this book, it's better that you get a *feel* for the rhythm in your ears and hands, so listen to the examples for each and maybe play along.
+For the examples in the rest of this book, it's best to get a *feel* for the rhythm in your ears and hands.  Listen to the examples for each and maybe play along.  Each example has two pickup beats, followed by the measure played twice.
 
 The Basics
 **********
@@ -14,8 +14,8 @@ Quarter notes
 These are quarter notes.  Each note is played for one beat.
 
 .. vextab::
-   :width: 400
-   :example: snap-fingers.mp3
+   :width: 600
+   :example: theory/rhythms/quarters.mp3
 
    tabstave notation=true
    notes :q 0/2 $1$ 0/2 $2$ 0/2 $3$ 0/2 $4$
@@ -27,11 +27,12 @@ Eighth notes
 Eighth notes (8th notes) are joined by a bar.  An eighth note is half as long as a quarter note, so there are two eighth notes in one beat.
 
 .. vextab::
-   :width: 400
+   :width: 600
+   :example: theory/rhythms/8ths.mp3
 
    tabstave notation=true
-   notes :8 0/2 $1$ 0/2 $and$ 0/2 $2$ 0/2 $and$
-   text :q,.1,1,2
+   notes :8 0/2 $1$ 0/2 $and$ 0/2 $2$ 0/2 $and$ 0/2 $3$ 0/2 $and$ 0/2 $4$ 0/2 $and$
+   text :q,.1,1,2,3,4
 
 Sixteenth notes
 ---------------
@@ -39,11 +40,13 @@ Sixteenth notes
 16th notes have a double bar.  A 16th note is half as long as an eighth, so there are four 16ths in one beat.
 
 .. vextab::
-   :width: 400
+   :width: 600
+   :example: theory/rhythms/16ths.mp3
 
    tabstave notation=true
    notes :16 0/2 $1$ 0/2 $e$ 0/2 $and$ 0/2 $a$ 0/2 $2$ 0/2 $e$ 0/2 $and$ 0/2 $a$
-   text :q,.1,1,2
+   notes :16 0/2 $3$ 0/2 $e$ 0/2 $and$ 0/2 $a$ 0/2 $4$ 0/2 $e$ 0/2 $and$ 0/2 $a$
+   text :q,.1,1,2,3,4
 
 Triplets
 ********
@@ -53,7 +56,8 @@ Triplets fit 3 notes into the length of one beat.  Sextuplets fit 6.
 Some people like different words to say for each beat ... e.g, "1-trip-let" or "1-and-uh" for triplets, instead of "1-la-li".  Use whatever works for you.
 
 .. vextab::
-   :width: 400
+   :width: 600
+   :example: theory/rhythms/triplets.mp3
 
    tabstave notation=true
    notes :q 0/2 $1...$ 0/2 $2...$ :8 0/2 $3$ 0/2 $la$ 0/2 $li$ ^3^ 0/2 $4$ 0/2 $la$ 0/2 $li$ ^3^
@@ -61,6 +65,7 @@ Some people like different words to say for each beat ... e.g, "1-trip-let" or "
 
 .. vextab::
    :width: 600
+   :example: theory/rhythms/sextuplets.mp3
 
    tabstave notation=true time=12/8
    notes :q 0/2 $1...$ 0/2 $2...$ :16 0/2 $3$ 0/2 $ta$ 0/2 $la$ 0/2 $ta$ 0/2 $li$ 0/2 $ta$ 0/2 $4$ 0/2 $ta$ 0/2 $la$ 0/2 $ta$ 0/2 $li$ 0/2 $ta$
@@ -75,49 +80,20 @@ Dotted rhythms are great for practicing, so be sure you get a good feel for this
 A dot after a note increases its length by half its value.  In each example below, the first two beats are straight 8th notes, and the last two have dotted eights.
 
 .. vextab::
-   :width: 400
+   :width: 600
+   :example: theory/rhythms/dotted-long-short.mp3
 
    tabstave notation=true
    notes :8 0-0-0-0/2 :8d 0/2 $3$ :16 0/2 $a$ :8d 0/2 $4$ :16 0/2 $a$
    text :q,.1,1,2,3,4
    
 .. vextab::
-   :width: 400
+   :width: 600
+   :example: theory/rhythms/dotted-short-long.mp3
 
    tabstave notation=true
    notes :8 0-0-0-0/2 :16 0/2 $3$ :8d 0/2 $e$ :16 0/2 $4$ :8d 0/2 $e$
    text :q,.1,1,2,3,4
-
-
-A Short Exercise
-****************
-
-This might help you internalize reading and the sound of some of the above building blocks!  We're just playing a single note, so no tab is included.  For the recording, each measure is played twice.
-
-
-.. vextab::
-   :width: 500
-
-   tabstave notation=true tablature=false
-   notes =:| :q 0-0-0-0/2 =:|
-
-   tabstave notation=true tablature=false
-   notes =:| :q 0-0/2 :8 0-0-0-0/2 =:|
-
-   tabstave notation=true tablature=false
-   notes =:| :q 0-0/2 :16 0-0-0-0-0-0-0-0/2 =:|
-
-   tabstave notation=true tablature=false
-   notes =:| :q 0-0/2 :8d 0/2 :16 0/2 :8d 0/2 :16 0/2 =:|
- 
-   tabstave notation=true tablature=false
-   notes =:| :q 0-0/2 :16 0/2 :8d 0/2 :16 0/2 :8d 0/2 =:|
-
-   tabstave notation=true tablature=false
-   notes =:| :q 0/2 0/2 :8 0-0-0/2 ^3^ 0-0-0/2 ^3^ =:|
-
-   tabstave notation=true tablature=false time=12/8
-   notes =:| :q 0/2 0/2 :16 0-0-0-0-0-0/2 0-0-0-0-0-0/2 =:|
 
 
 More drills

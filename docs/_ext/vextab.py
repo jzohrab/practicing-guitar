@@ -26,6 +26,7 @@
 
 from docutils import nodes
 from docutils.parsers.rst import directives, Directive
+from os import path
 import re
 
 class vextab(nodes.General, nodes.Element): pass
@@ -60,7 +61,7 @@ def visit_vextab_html(self, node):
     # Hacky css: if we have an example, keep it close to the score.
     spacingadjustment = ''
     if node['example'] is not None:
-        spacingadjustment = """style=\"margin: 0 0 0px !important;\""""
+        spacingadjustment = 'style=\"margin: 0 0 0px !important;\"'
 
     finalcontent = """<div class="vextab-auto" {1} width={2}>
 {0}
@@ -96,6 +97,14 @@ class VextabDirective(Directive):
         content = self.content
         width = self.options.get('width', 800)
         example = self.options.get('example', None)
+
+        if example is not None:
+            thisdir = path.dirname(path.abspath(__file__))
+            reldir = path.join(thisdir, '..', '_static', 'audio', example)
+            if not path.exists(reldir):
+                env = self.state.document.settings.env
+                raise Exception("Vextab {1} error: Missing example {0}".format(reldir, env.docname))
+
         return [vextab(content=self.content, width=width, example=example)]
 
 
