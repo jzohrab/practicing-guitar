@@ -71,7 +71,7 @@ def visit_vextab_html(self, node):
 
     if node['example'] is not None:
         examplediv = """<div class="vextabexample" width={1}>
-<a href="#" onclick="startPlayExample('{0}');">&#9654; Play sample</a>
+<button onclick="startPlayExample('{0}');">&#9654; Play sample</button>
 </div>""".format(node['example'], width)
         self.body.append(examplediv)
 

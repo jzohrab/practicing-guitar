@@ -79,6 +79,9 @@ Dotted rhythms are great for practicing, so be sure you get a good feel for this
 
 A dot after a note increases its length by half its value.  In each example below, the first two beats are straight 8th notes, and the last two have dotted eights.
 
+Long-short
+----------
+
 .. vextab::
    :width: 600
    :example: theory/rhythms/dotted-long-short.mp3
@@ -86,7 +89,21 @@ A dot after a note increases its length by half its value.  In each example belo
    tabstave notation=true
    notes :8 0-0-0-0/2 :8d 0/2 $3$ :16 0/2 $a$ :8d 0/2 $4$ :16 0/2 $a$
    text :q,.1,1,2,3,4
-   
+
+In the above example, notice that the note after the dotted note is a regular 16th note, and it falls on the "a" of "1-e-&-a".  Here are two voices, one playing a dotted rhythm and the other playing straight 16th notes; the last note of each occurs at the same time.
+
+.. vextab::
+   :width: 600
+
+   tabstave notation=true tablature=false
+   voice
+   notes :8d 0/1 :16 0/1
+   voice
+   notes :16 0-0-0-0/3
+
+Short-long
+----------
+
 .. vextab::
    :width: 600
    :example: theory/rhythms/dotted-short-long.mp3
@@ -95,6 +112,16 @@ A dot after a note increases its length by half its value.  In each example belo
    notes :8 0-0-0-0/2 :16 0/2 $3$ :8d 0/2 $e$ :16 0/2 $4$ :8d 0/2 $e$
    text :q,.1,1,2,3,4
 
+Here are two other voices, one playing a dotted rhythm and the other playing straight 16th notes; the first and second notes of each occur at teh same time.
+
+.. vextab::
+   :width: 600
+
+   tabstave notation=true tablature=false
+   voice
+   notes :16 0/1 :8d 0/1
+   voice
+   notes :16 0-0-0-0/3
 
 More drills
 ***********
