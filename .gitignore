@@ -1,3 +1,9 @@
+
+# docs/dev/inclusion.txt is for "scratch rst" work.
+docs/dev/inclusion.txt
+
+
+##################
 # Copied from https://github.com/github/gitignore/blob/master/Python.gitignore
 
 .DS_Store
