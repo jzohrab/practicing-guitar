@@ -1,3 +1,5 @@
+.. _reading-rhythms:
+
 Reading rhythms
 ===============
 

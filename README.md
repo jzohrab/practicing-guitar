@@ -9,7 +9,7 @@ Written in restructuredtext (RST).
 Python 3
 
 
-# Special directives
+# Special directives and notes
 
 ## YouTube
 
@@ -38,6 +38,30 @@ See `docs/_ext/vextab.py` for other examples and notes.
 ## To-do items
 
 ref: https://www.sphinx-doc.org/en/master/usage/extensions/todo.html
+
+## Links
+
+Linking to other .rst pages:
+
+* If the other page has a label defined with `.. _reading-rhythms:`, you can do this:
+
+```
+Here is a link :ref:`reading-rhythms`
+```
+
+If the other page doesn't have a label, these work:
+
+```
+# Use the page heading
+:ref:`theory/reading-rhythms:Reading rhythms`
+
+# Use relative path to get to doc
+:doc:`../theory/reading-rhythms`
+
+# Link to specific heading
+:ref:`theory/reading-rhythms:The Basics`
+```
+
 
 "to-do" items are indicated with the `.. todo::` directive, and output at `todo.html` using `make html`
 
