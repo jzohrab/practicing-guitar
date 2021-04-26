@@ -114,7 +114,7 @@ Short-long
    notes :8 0-0-0-0/2 :16 0/2 $3$ :8d 0/2 $e$ :16 0/2 $4$ :8d 0/2 $e$
    text :q,.1,1,2,3,4
 
-Here are two other voices, one playing a dotted rhythm and the other playing straight 16th notes; the first and second notes of each occur at teh same time.
+Here are two other voices, one playing a dotted rhythm and the other playing straight 16th notes; the first and second notes of each occur at the same time.
 
 .. vextab::
    :width: 600

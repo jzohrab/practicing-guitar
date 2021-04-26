@@ -23,7 +23,12 @@
 # .. vextab::
 #
 #    =|: :16 5u/1 8d/2 5u/1 8d-6u-5d-6u-8d/2 =:|
-
+#
+# Other things you can add:
+#
+# .. vextab::
+#    :exmaple: path to audio clip
+#    :debug:  (if you want to print the result to console)
 from docutils import nodes
 from docutils.parsers.rst import directives, Directive
 from os import path
@@ -48,9 +53,10 @@ def visit_vextab_html(self, node):
     ]
     rawcontent = '\n'.join(lines)
 
-    # Add "tabstave notation=true" if it's not there already.
+    if ("notes" not in rawcontent):
+        rawcontent = "\n".join([ "notes {0}".format(s) for s in lines ])
     if ("tabstave" not in rawcontent):
-        rawcontent = "tabstave notation=true\nnotes {0}".format(rawcontent)
+        rawcontent = "tabstave notation=true\n{0}".format(rawcontent)
     if ("options" not in rawcontent):
         rawcontent = "options scale=0.85 font-style=italic\n{0}".format(rawcontent)
 
@@ -66,14 +72,16 @@ def visit_vextab_html(self, node):
     finalcontent = """<div class="vextab-auto" {1} width={2}>
 {0}
 </div>""".format(rawcontent, spacingadjustment, width)
-    print(finalcontent)
-    self.body.append(finalcontent)
 
     if node['example'] is not None:
-        examplediv = """<div class="vextabexample" width={1}>
+        finalcontent += """\n<div class="vextabexample" width={1}>
 <button onclick="startPlayExample('{0}');">&#9654; Play sample</button>
 </div>""".format(node['example'], width)
-        self.body.append(examplediv)
+
+    if node['debug']:
+        print("\n{0}\n".format(finalcontent))
+
+    self.body.append(finalcontent)
 
 def depart_vextab_node(self, node):
     pass
@@ -90,13 +98,15 @@ class VextabDirective(Directive):
     final_argument_whitespace = False
     option_spec = {
         "width": directives.unchanged,
-        "example": directives.unchanged
+        "example": directives.unchanged,
+        "debug": directives.unchanged
     }
 
     def run(self):
         content = self.content
         width = self.options.get('width', 800)
         example = self.options.get('example', None)
+        debug = 'debug' in self.options
 
         if example is not None:
             thisdir = path.dirname(path.abspath(__file__))
@@ -105,7 +115,7 @@ class VextabDirective(Directive):
                 env = self.state.document.settings.env
                 raise Exception("Vextab {1} error: Missing example {0}".format(reldir, env.docname))
 
-        return [vextab(content=self.content, width=width, example=example)]
+        return [vextab(content=self.content, width=width, example=example, debug=debug)]
 
 
 _NODE_VISITORS = {
