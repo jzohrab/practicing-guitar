@@ -31,6 +31,7 @@
 #    :debug:  (if you want to print the result to console)
 from docutils import nodes
 from docutils.parsers.rst import directives, Directive
+from sphinx.util.docutils import SphinxDirective
 from os import path
 import re
 
@@ -73,7 +74,8 @@ def visit_vextab_html(self, node):
 {0}
 </div>""".format(rawcontent, spacingadjustment, width)
 
-    if node['example'] is not None:
+    example = node['example']
+    if example is not None and example != 'pending':
         finalcontent += """\n<div class="vextabexample" width={1}>
 <button onclick="startPlayExample('{0}');">&#9654; Play sample</button>
 </div>""".format(node['example'], width)
@@ -91,7 +93,7 @@ def unsupported_visit_vextab(self, node):
     raise nodes.SkipNode
 
 
-class VextabDirective(Directive):
+class VextabDirective(SphinxDirective):
     has_content = True
     # required_arguments = 1
     # optional_arguments = 0
@@ -108,12 +110,15 @@ class VextabDirective(Directive):
         example = self.options.get('example', None)
         debug = 'debug' in self.options
 
-        if example is not None:
+        if example is not None and example != 'pending':
             thisdir = path.dirname(path.abspath(__file__))
             reldir = path.join(thisdir, '..', '_static', 'audio', example)
             if not path.exists(reldir):
                 env = self.state.document.settings.env
                 raise Exception("Vextab {1} error: Missing example {0}".format(reldir, env.docname))
+
+        if example == 'pending':
+            print("pending example on {0}".format(self.env.docname))
 
         return [vextab(content=self.content, width=width, example=example, debug=debug)]
 
