@@ -47,12 +47,25 @@ Rhythmic variations are a **super** technique for several reasons:
 3. You can try pushing faster!  Check out the three rhythmic variations of the same lick below:
 
 .. vextab::
+   :width: 700
 
    tabstave notation=true tablature=false
    notes =|: :16 5d-7-5-4/3 =:: :8d 5d/3 :16 7u/3 :8d 5d/3 :16 4u/3 =:: :16 5d/3 :8d 7u/3 :16 5d/3 :8d 4u/3 =:|
    options space=20
 
 The first variation is one beat (four 16ths), but the last two are both 2 beats, so the last two are slower ... however, the second and fourth notes of all of these variations are still 16th notes!  For these fast notes, you will still have to make the same motions in the same timeframe as you would for the initial straight-16ths version, but your hands and brain will have a lot of time to rest and prepare.
+
+You can also try lengthening the long note even further, if it helps:
+
+.. vextab::
+   :width: 700
+
+   tabstave notation=true tablature=false
+   notes =|: :q 5d/3 :8d t5/3 :16 7u/3 :q 5d/3 :8d t5/3 :16 4u/3 =::
+   notes :16 5d/3 :8d 7u/3 :q t7/3 :16 5d/3 :8d 4u/3 :q t4/3 =:|
+   options space=20
+
+The key is consistency and accuracy of the rhythm.  Keep the notes clearly defined and articulated!
 
 If you stay focused and loose, you may find that you can play the same lick with dotted rhythms at much higher tempos than you would for straight 16ths, while still being accurate with the fast sixteenth notes.  When you return to straight 16ths at lower tempos, it will be easier.
 
