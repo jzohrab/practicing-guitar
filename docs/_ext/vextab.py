@@ -118,7 +118,9 @@ class VextabDirective(SphinxDirective):
                 raise Exception("Vextab {1} error: Missing example {0}".format(reldir, env.docname))
 
         if example == 'pending':
-            print("pending example on {0}".format(self.env.docname))
+            if not hasattr(self.env, 'vextab_pending_examples'):
+                self.env.vextab_pending_examples = []
+            self.env.vextab_pending_examples.append(self.env.docname)
 
         return [vextab(content=self.content, width=width, example=example, debug=debug)]
 
@@ -132,9 +134,19 @@ _NODE_VISITORS = {
 }
 
 
+def print_pending_examples(app, exception):
+    if hasattr(app.env, 'vextab_pending_examples'):
+        exs = list(set(app.env.vextab_pending_examples))
+        print('\nThere are some pending examples:')
+        e = [ "* {0}".format(s) for s in exs ]
+        print('\n'.join(e))
+        print('\n')
+        
+
 def setup(app):
     app.add_node(vextab, **_NODE_VISITORS)
     app.add_directive("vextab", VextabDirective)
+    app.connect('build-finished', print_pending_examples)
 
     return {
         'version': '0.1',

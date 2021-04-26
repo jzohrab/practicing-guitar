@@ -24,7 +24,8 @@ You can play the same lick at 170 bpm, but play it with dotted rhythms instead o
 
 .. vextab::
    :width: 700
-
+   :example: pending
+   
    :8d 5d/3 :16 7u/3 :8d 5d/3 :16 4u/3 :8d 5d/3 :16 7u/3
    :8d 5d/2 :16 6u/2 :8d 8d/2 :16 5u/2
 
@@ -32,6 +33,7 @@ You can, and should, also play it with the dot on the other note, to make the rh
 
 .. vextab::
    :width: 700
+   :example: pending
 
    :16 5d/3 :8d 7u/3 :16 5d/3 :8d 4u/3 :16 5d/3 :8d 7u/3
    :16 5d/2 :8d 6u/2 :16 8d/2 :8d 5u/2
@@ -49,6 +51,7 @@ Rhythmic variations are a **super** technique for several reasons:
 
 .. vextab::
    :width: 700
+   :example: pending
 
    tabstave notation=true tablature=false
    notes =|: :16 5d-7-5-4/3 =:: :8d 5d/3 :16 7u/3 :8d 5d/3 :16 4u/3 =:: :16 5d/3 :8d 7u/3 :16 5d/3 :8d 4u/3 =:|
@@ -60,6 +63,7 @@ You can also try lengthening the long note even further, if it helps:
 
 .. vextab::
    :width: 700
+   :example: pending
 
    tabstave notation=true tablature=false
    notes =|: :q 5d/3 :8d t5/3 :16 7u/3 :q 5d/3 :8d t5/3 :16 4u/3 =::
