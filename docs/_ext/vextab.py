@@ -77,8 +77,9 @@ def visit_vextab_html(self, node):
     
     example = node['example']
     if example is not None and example != 'pending':
+        caption = example.split('/')[-1].replace('.mp3', '').replace('_', ' ').capitalize()
         img = """<img src="/_static/img/play-button.png" width="20" height="20" />"""
-        onclickplay = """<p onclick="startPlayExample('{0}');">{1} Play sample</p>""".format(example, img)
+        onclickplay = """<p onclick="startPlayExample('{0}');">{1} {2}</p>""".format(example, img, caption)
         finalcontent += """\n<div class="vextabexample" width={1}>{0}</div>""".format(onclickplay, width)
 
     if node['debug']:
