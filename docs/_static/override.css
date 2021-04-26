@@ -30,6 +30,11 @@ div.vex-canvas {
 
 div.vextabexample {
     margin-left: 30px !important;
+    cursor: pointer !important;
+}
+
+div.vextabexample p {
+    font-size: 12px !important;
 }
 
 p.recipedesc {

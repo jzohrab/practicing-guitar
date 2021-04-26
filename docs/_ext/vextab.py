@@ -74,11 +74,12 @@ def visit_vextab_html(self, node):
 {0}
 </div>""".format(rawcontent, spacingadjustment, width)
 
+    
     example = node['example']
     if example is not None and example != 'pending':
-        finalcontent += """\n<div class="vextabexample" width={1}>
-<button onclick="startPlayExample('{0}');">&#9654; Play sample</button>
-</div>""".format(node['example'], width)
+        img = """<img src="/_static/img/play-button.png" width="20" height="20" />"""
+        onclickplay = """<p onclick="startPlayExample('{0}');">{1} Play sample</p>""".format(example, img)
+        finalcontent += """\n<div class="vextabexample" width={1}>{0}</div>""".format(onclickplay, width)
 
     if node['debug']:
         print("\n{0}\n".format(finalcontent))
