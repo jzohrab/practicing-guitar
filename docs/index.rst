@@ -14,6 +14,7 @@ A curated source of ideas and techniques for guitar practicing.
    :name: mastertoc
    :glob:
 
+   inbox
    techniques/index
    theory/index
    examples/index
