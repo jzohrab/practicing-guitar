@@ -25,19 +25,19 @@ For this technique, play this lick with dotted rhythms instead of straight sixte
 
 .. vextab::
    :width: 700
-   :example: pending
+   :example: techniques/rhythmic-variations/Dotted,_slow-fast.mp3
    
    :8d 5d/3 :16 7u/3 :8d 5d/3 :16 4u/3 :8d 5d/3 :16 7u/3
-   :8d 5d/2 :16 6u/2 :8d 8d/2 :16 5u/2
+   :8d 5d/2 :16 6u/2 | :h 8d/2
 
 You can, and should, also play it with the dot on the other note, to make the rhythm "fast-slow":
 
 .. vextab::
    :width: 700
-   :example: pending
+   :example: techniques/rhythmic-variations/Dotted,_fast-slow.mp3
 
    :16 5d/3 :8d 7u/3 :16 5d/3 :8d 4u/3 :16 5d/3 :8d 7u/3
-   :16 5d/2 :8d 6u/2 :16 8d/2 :8d 5u/2
+   :16 5d/2 :8d 6u/2 | :h 8d/2
 
 Why this works
 --------------
@@ -52,19 +52,19 @@ Rhythmic variations are a **super** technique for several reasons:
 
 .. vextab::
    :width: 700
-   :example: pending
+   :example: techniques/rhythmic-variations/Three_variations.mp3
 
    tabstave notation=true tablature=false
    notes =|: :16 5d-7-5-4/3 =:: :8d 5d/3 :16 7u/3 :8d 5d/3 :16 4u/3 =:: :16 5d/3 :8d 7u/3 :16 5d/3 :8d 4u/3 =:|
    options space=20
 
-The first variation is one beat (four 16ths), but the last two are both 2 beats, so the last two are slower ... however, the second and fourth notes of all of these variations are still 16th notes!  For these fast notes, you will still have to make the same motions in the same timeframe as you would for the initial straight-16ths version, but your hands and brain will have a lot of time to rest and prepare.
+The first variation is one beat (four 16ths), but the last two are both 2 beats, so the last two are "slower" ... however, the second and fourth notes of all of these variations are still 16th notes, and are just as fast as the first variation.  For these fast notes, you will still have to make the same motions in the same timeframe as you would for the initial straight-16ths version, but your hands and brain will have a lot of time to rest and prepare.
 
 You can also try lengthening the long note even further, if it helps:
 
 .. vextab::
    :width: 700
-   :example: pending
+   :example: techniques/rhythmic-variations/Dotted,_extra-slow-fast.mp3; techniques/rhythmic-variations/Dotted,_fast-extra-slow.mp3
 
    tabstave notation=true tablature=false
    notes =|: :q 5d/3 :8d t5/3 :16 7u/3 :q 5d/3 :8d t5/3 :16 4u/3 =::
