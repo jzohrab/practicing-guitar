@@ -16,11 +16,12 @@ Practicing a passage with different rhythmic variations can help you break throu
 For example, take this scalar lick, strictly alternate picked, which you're aiming to play at 170 bpm:
 
 .. vextab::
-   :example: pending
+   :debug:
+   :example: techniques/rhythmic-variations/120_bpm.mp3; techniques/rhythmic-variations/170_bpm.mp3
 
    :16 5d-7-5-4-5-7u/3 5d-6-8-5-6-8u/2 5d-7-8-7/1 | :h 8/1
 
-You can play the same lick at 170 bpm, but play it with dotted rhythms instead of straight sixteenths.  For example, here's the first 8 notes of the lick, with dotted notes to make the rhythm "slow-fast":
+For this technique, play this lick with dotted rhythms instead of straight sixteenths.  For example, here's the first 8 notes of the lick, with dotted notes to make the rhythm "slow-fast":
 
 .. vextab::
    :width: 700

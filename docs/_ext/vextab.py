@@ -74,13 +74,19 @@ def visit_vextab_html(self, node):
 {0}
 </div>""".format(rawcontent, spacingadjustment, width)
 
-    
+    def make_example_button(e):
+        thisdir = path.dirname(path.abspath(__file__))
+        reldir = path.join(thisdir, '..', '_static', 'audio', e)
+        if not path.exists(reldir):
+            raise Exception("Vextab error: Missing example {0}".format(reldir))
+        caption = e.split('/')[-1].replace('.mp3', '').replace('_', ' ').capitalize()
+        img = """<img src="/_static/img/play-button.png" width="20" height="20" />"""
+        return """<p onclick="startPlayExample('{0}');">{1} {2}</p>""".format(e, img, caption)
+        
     example = node['example']
     if example is not None and example != 'pending':
-        caption = example.split('/')[-1].replace('.mp3', '').replace('_', ' ').capitalize()
-        img = """<img src="/_static/img/play-button.png" width="20" height="20" />"""
-        onclickplay = """<p onclick="startPlayExample('{0}');">{1} {2}</p>""".format(example, img, caption)
-        finalcontent += """\n<div class="vextabexample" width={1}>{0}</div>""".format(onclickplay, width)
+        buttons = [ make_example_button(s) for s in [ s.strip() for s in example.split(';') ] ]
+        finalcontent += """\n<div class="vextabexample" width={1}>{0}</div>""".format('\n'.join(buttons), width)
 
     if node['debug']:
         print("\n{0}\n".format(finalcontent))
@@ -111,13 +117,6 @@ class VextabDirective(SphinxDirective):
         width = self.options.get('width', 800)
         example = self.options.get('example', None)
         debug = 'debug' in self.options
-
-        if example is not None and example != 'pending':
-            thisdir = path.dirname(path.abspath(__file__))
-            reldir = path.join(thisdir, '..', '_static', 'audio', example)
-            if not path.exists(reldir):
-                env = self.state.document.settings.env
-                raise Exception("Vextab {1} error: Missing example {0}".format(reldir, env.docname))
 
         if example == 'pending':
             if not hasattr(self.env, 'vextab_pending_examples'):
