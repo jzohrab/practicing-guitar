@@ -75,10 +75,22 @@ Put three spaces in front, and then a link at the end.  eg:
 
 # Project layout
 
-`doc` - the docs
+```
+$ pushd docs; tree -d -I '_build|__pycache__'; popd
 
-TODO: add notes about folders
+.
+├── _ext  # custom extensions for directives (eg 'vextab')
+├── _static
+│   ├── audio  # audio files for examples
+│   └── img  # images
+├── _templates  # overrides for header, footer
+├── dev  # dev helpers
+├── examples  # example licks
+├── scores  # music
+├── techniques  # the actual techniques
+└── theory  # how to read music, etc
 
+```
 
 # Development
 
