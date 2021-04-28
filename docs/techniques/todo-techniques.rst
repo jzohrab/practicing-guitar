@@ -286,6 +286,31 @@ ref https://forum.troygrady.com/t/how-to-get-faster-when-you-are-not-slow-anymor
 
 also Paul Gilbert mentions this.  and andy wood.
 
+Dropping notes
+--------------
+.. tech:technique:: droppingnotes
+   :displayname: Dropping Notes
+   :status: TODO
+
+   For polyphonic music or fingerstyle/Travis picking, play one voice steadily, and build the line in the other voice incrementally.
+
+See https://www.pianostreet.com/smf/index.php?topic=1651.msg14344#msg14344
+
+Use freight train
+
+Ghosting
+--------
+
+.. tech:technique:: ghosting
+   :displayname: Ghosting
+   :status: TODO
+
+   For polyphonic music or fingerstyle, play the melody with proper fingering and full expression, and but continue to position the other fingers as if you're playing that.
+
+* https://artiden.com/ghost-play/
+* https://artiden.com/ghost-play/
+
+
 Future items
 ------------
 
@@ -294,8 +319,6 @@ Future items
 * Sequencing (e.g, for 1-2-3-4-5 lick, play 1-2-3-4, then 2-3-4-5- etc)
 * Silent chord press
 * Cycling (same groups of notes)
-* Ghosting (polyphony)
-* Dropping notes: Polyphonic only
 * Right-over-left tapping (per Glen Gould practice)
 * drill? horizontal leaps: play low note, play high note, return to low note, imagine high note and jump to it free the upper arm and shoulder
 
