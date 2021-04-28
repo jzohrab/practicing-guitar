@@ -65,6 +65,14 @@ If the other page doesn't have a label, these work:
 
 "to-do" items are indicated with the `.. todo::` directive, and output at `todo.html` using `make html`
 
+## Blockquotes
+
+Put three spaces in front, and then a link at the end.  eg:
+
+```
+   Text `name, source <http>`_
+```
+
 # Project layout
 
 `doc` - the docs

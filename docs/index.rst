@@ -21,6 +21,7 @@ A curated source of ideas and techniques for guitar practicing.
    scores/index
    todo
    indices
+   *
 
 .. vextab::
 

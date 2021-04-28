@@ -14,52 +14,6 @@ Misc todos
 ----------
 
 
-Items:
-
-- Yes, practice tricks, hands separate, etc. are done for a very limited time only for the purpose of thoroughly learning and ingraining the movements. Once you get that, you simply play and enjoy the piece. Practising is a temporary process to be get rid of as soon as possible.  - https://www.pianostreet.com/smf/index.php/topic,3561.msg31700.html#msg31700
-
-- But above all, do not get lost in thought: try it out! All these methods are powerful, but they all have limitations and situations where they will fall apart. The only way to find out is trying them out.
-
-- "the secret for acquiring technique quickly lies in knowing certain tricks for reducing impossibly difficult passages to not only playable but also to trivially simple ones." - chang?
-
-- nothing mindless, play and observe
-
-- "Yes. You must avoid this. Use a timer. Also, there is a law of diminishing returns. As you practise a section you start by making lots of mistakes and learning form your mistakes. This is the exploratory phase. After a while you figure out all the co-ordinates and you pay it perfectly. A lot of beginners stop practising at this point. This is actually the point where real practice starts: when you finally got it right. Up to now most of your practice will have consisted of wrong repetitions. Now you must ingrain the correct section by repeating it at least as many times as you did it wrong in the exploratory phase. However, after a while of repeating perfect renditions of your passage, due to fatigue (both mental and physical) you will start making mistakes again. It is very important that you stop practising before getting to this stage. You must stop when your repeats are perfect. But being human, your reaction when you start making mistakes again is to keep repeating to try to re-achieve your former perfection. You will not be able to. In fact all you will achieve is several hours of wrong repetitions. Next day, of course the whole section is a mess even though you may have practised it for five hours. So make sure that your last repeat is always perfect: this is what will be ingrained in your brain." - https://www.pianostreet.com/smf/index.php/topic,4689.msg44184.html#msg44184
-
-- "Speed is a function of movement. Speed walls are always a result of using a movement that has limitations. Rather than trying to break through the speed wall by persistent (and misguided) overpractice of the same movement, go around the speed wall by using a completely different movement." - https://www.pianostreet.com/smf/index.php?topic=5298.msg50376#msg50376
-
-- "The proof of the pudding is in the eating. Just give it a try. But not a half-hearted try. Give it all you get. Do not dismiss it straight away."
-     
-- Relaxation
-
-- General practice thoughts - see notes
-
-- Time to spend practicing (https://www.pianostreet.com/smf/index.php?topic=3039.msg26757#msg26757, 15-20 mins, 7x) -- "At this point comes the 20 minute principle. Do not play this first bar anymore today! Nothing bad will happen if in your next 20 minute practice session you work on this first bar again. But nothing good will happen either: It will be a total waste of time. Instead take your break, and on the next session work on a different passage of the prelude."
-
-- the importance of experimentation and tracking results
-
-- making a plan: "This demands a lot of thought, organisation, the self-discipline to stick to a pre-planned schedule. Plan your work, and then work your plan." - https://www.pianostreet.com/smf/index.php?topic=4858.msg46586#msg46586
-
-- memorizing a new piece (https://www.pianostreet.com/smf/index.php?topic=3039.msg28102#msg28102)
-
-- start with the difficult thing
-
-- the last repeat must be perfect
-
-- slow and fast practice
-
-- investigative vs real practice - https://www.pianostreet.com/smf/index.php?topic=4858.msg46585#msg46585
-
-- metronome work (Jens L, and xylophone variations), and 60 – 92 – 80 – 100 – 92 – 112 – 100 – 132 – 112 – 152 – 120
-
-- "Method" - "It is more like a set of principles that have to be investigated and adapted to each person's idiossincracies. Try it out, keep what works, discard what does not. And sometimes go back to something you discarded, you may understand it better now and derive some benefit from it." - https://www.pianostreet.com/smf/index.php?topic=4851.msg85705#msg85705
-
-- test it out: "Pick two pieces of similar difficulty/style. One of them you learn exactly the way you would have you had never heard of these maps. The other one you learn by following (the best you can) the instructions given. In a couple of week’s time (or more, or less), compare results and tell us." - https://www.pianostreet.com/smf/index.php?topic=5083.msg48306#msg48306
-
-- "Speed is very much an illusion. The human ear can take just so many sounds. If you play each note clearly, it will sound fast because the ear has to process a lot of information. If you play so fast that either you miss notes, or they become a blur, it doesn’t sound fast at all, it just sounds messy"
-
-- "In short, make sure you are never ever practising wrong. Like Backaus, only practise the right notes."
-
 Regular Accents
 ---------------
 
@@ -84,10 +38,24 @@ strong beat to give a proper feeling for the end of the unit.
 Chaining
 --------
 
+.. tech:technique:: chaining
+   :displayname: Chaining
+   :status: TODO
+
+   Play two notes perfectly, at speed.  Then add notes before it (back chaining) of after it (forward chaining).
+
+.. todo:: chaining
 
 
-Chunking (on beats - chunking)
-------------------------------
+
+Chunking
+--------
+
+.. tech:technique:: chunking
+   :displayname: Chunking
+   :status: TODO
+
+   Take one long phrase or idea, and break it up into chunks, with clearly identified "target notes" at the start of each chunk.  When practicing and playing, aim for these target notes.
 
 "If we try to play a scale or passage without dividing
 it into several groups with regular accents, then for each
@@ -122,19 +90,17 @@ measure or every two measures, During these stops he
 would have an opportunity to prepare himself for the
 next section. But to learn to play this piece fast and without stops the pupil would have to learn to think fast.
 
-Cycling (same groups of notes)
-------------------------------
+Outlining: only play the "main" notes of a phrase, and make sure they're clearly accented in your mind.
 
-Ghosting (polyphony)
-------------------------------
-
-Dropping notes
-----------------
-
-Polyphonic only?
 
 Break it down
-------------------------------
+-------------
+
+.. tech:technique:: breakitdown
+   :displayname: Break it down
+   :status: TODO
+
+   Break any movement into distinct building blocks, and practice those building blocks separately, aiming for higher speeds than your target tempo.  Then combine them.
 
 RH only, LH only
 
@@ -145,22 +111,53 @@ RH: eg with straight 16ths and string switching, can just make a static chord sh
 
 LH: fast and even, hammers only.
 
-
 Isolating and integrating
-------------------------------
+
+
+Chord Attack
+------------
+
+.. tech:technique:: chordattack
+   :displayname: Chord Attack
+   :status: TODO
+
+   Explore left hand technical issues by reducing consecutive notes to a single chord (eftecively playing those chunks at infinite speed), and then gradually arpeggiate those notes.
 
 Left hand only: chord attack / parallel set
--------------------------------------------
+
+.. todo:: better name for this?
 
 If you can't play it with the left hand only, you can't pick it.
 
 Get PS info from Chang
 
-Left hand only: staccato hammers
----------------------------------
+Staccato Hammers
+----------------
+
+.. tech:technique:: stacattohammers
+   :displayname: Stacatto Hammers
+   :status: TODO
+
+   For any passage with complex left hand movements, play with loud, distinct, clear stacatto hammers, at a slow tempo.
+
+Legato scale practice
+
+Fingers in position above string
+staccato touch
+pianissimo, all attention on fingertips
+down with one finger, up with the adjacent, synchronized
+*slight* press of the string once fretted, to strengthen the connection
+
+This is tiring work, for the central nervous system.
 
 Mental practice
-------------------------------
+---------------
+
+.. tech:technique:: mentalpractice
+   :displayname: Mental Practice
+   :status: TODO
+
+   Play away from the instrument.
 
 “The full acoustic picture of the music must be lodged in the mind, before it can be expressed through the hands.” Then the “playing is simply the manual expression of something [a pianist] knows.”™
 —Josef Hofmann
@@ -179,42 +176,48 @@ thoughts which direct his fmgers on the keyboard. ‘Therefore his velocity depe
 grasping printed music and coordinating finger movements.”
 
 
-Outlining
--------------------
+achieve technique, not by the amount of time spent in
+practicing, but by the quality of this labor, by the strength
+of will and attention directing the mind on musical problems. Hugo Riemann wrote: “It is impossible to develop
+velocity otherwise than through exercise of the telegraphic
+apparatus from brain to muscles. The process from withinoutward cannot be replaced by anything.” Theodor
+Leschetizky used to say that intellect played the chief
+part in correct study; he recommended correcting mistakes mentally before playing a passage again.
 
-only play the "main" notes of a phrase, and make sure they're clearly accented in your mind.
+It is evident, then, that the main attention of thoughtful pianists and piano teachers should be directed to
+questions connected with the activity of the central nervous system. The roots of technique are in our central
+nervous system, The problems connected with muscular
+conditions and outward appearance of our playing apparatus are important, but they are secondary.
 
-Pianissimo
-------------------------------
 
-Repeated note groups
-------------------------------
+Repeated Note Groups
+--------------------
 
-(For instance, if you chose a passage with 5 notes/chords, first work on 1-2, then 2-3, then 3-4, then 4-5. Once you can do those with ease, do 123, 234 and 345. Then 1234 and 2345. Finally play the whole passage 12345. You can use this method for units larger than notes, e.g. triplets, or bars and even lines. Do not try this with passages larger than 7-8 units (it will take all day).  - ref https://www.pianostreet.com/smf/index.php?topic=4858.msg46594#msg46594, starting at "it overrides the 20 minute rule."
+.. tech:technique:: repeatednotegroups
+   :displayname: Repeated Note Groups
+   :status: TODO
 
-https://www.pianostreet.com/smf/index.php?topic=4858.msg46601#msg46601
+   Chaining on steroids: take a passage, and briefly work on the two-note chains starting at every single note.  Then do three-note chains, then four, and so on, until you've thoroughly explored every twist and turn.
+
+(For instance, if you chose a passage with 5 notes/chords, first work on 1-2, then 2-3, then 3-4, then 4-5. Once you can do those with ease, do 123, 234 and 345. Then 1234 and 2345. Finally play the whole passage 12345. You can use this method for units larger than notes, e.g. triplets, or bars and even lines. Do not try this with passages larger than 7-8 units (it will take all day).  - ref www.pianostreet.com/smf/index.php?topic=4858.msg46594#msg46594, starting at "it overrides the 20 minute rule."
+
+www.pianostreet.com/smf/index.php?topic=4858.msg46601#msg46601
 
 chunks of 2, 3, 4 notes, etc.
 keep the picking correct (upstroke/downstroke)
 
-B notes: https://www.pianostreet.com/smf/index.php?topic=2449.msg21204#msg21204
+B notes: www.pianostreet.com/smf/index.php?topic=2449.msg21204#msg21204
 
-https://www.pianostreet.com/smf/index.php/topic,2449.msg21217/topicseen.html#msg21217
+.. some note here www.pianostreet.com/smf/index.php/topic,2449.msg21217/topicseen.html#msg21217
 
+Slow Practice
+-------------
 
-Rest variations
-------------------------------
+.. tech:technique:: slowpractice
+   :displayname: Slow Practice
+   :status: TODO
 
-Sequencing
-------------------------------
-
-(e.g, for 1-2-3-4-5 lick, play 1-2-3-4, then 2-3-4-5- etc)
-
-Silent chord press
-------------------------------
-
-Slow practice
---------------
+   At the end of every practice session, play things at a slow tempo -- but not in slow motion.
 
 It is
 the task of the teacher to strengthen both the inhibitory
@@ -244,109 +247,69 @@ of the main problems of piano technique. The teacher
 must strive to develop this ability in his pupils.
 
 Staccato picking
-------------------------------
+----------------
 
-Starting and stopping
-------------------------------
+.. tech:technique:: staccatopicking
+   :displayname: Staccato Picking
+   :status: TODO
+
+   Periodically, use the pick to stop any string from ringing immediately after you've picked it.  This regulates the strength of your impulses, and exercises the inhibitory reflex.
+
+Fancy words.
+
+Stop and Go
+-----------
+
+.. tech:technique:: stopandgo
+   :displayname: Stop and Go
+   :status: TODO
+
+   Ensure your physical and mental processes are under control by intentionally interrupting (stopping) them periodically.
 
 The ability to play evenly and the ability to
 slow down at any point in a passage serve as criteria of
 precise and sufficient inhibition.
 
 
-Vary picking approach
-------------------------------
+Dynamics
+--------
 
-Volume swells
-------------------------------
+.. tech:technique:: dynamics
+   :displayname: Dynamics
+   :status: TODO
+
+   Fine-tune your control by varying the volume of your playing using only your hands and fingers.
 
 crescendo and decr - of RH picking
 
 ref https://forum.troygrady.com/t/how-to-get-faster-when-you-are-not-slow-anymore/42864/47
 
+also Paul Gilbert mentions this.  and andy wood.
+
+Future items
+------------
+
+* Vary picking approach
+* Rest variations
+* Sequencing (e.g, for 1-2-3-4-5 lick, play 1-2-3-4, then 2-3-4-5- etc)
+* Silent chord press
+* Cycling (same groups of notes)
+* Ghosting (polyphony)
+* Dropping notes: Polyphonic only
+* Right-over-left tapping (per Glen Gould practice)
+* drill? horizontal leaps: play low note, play high note, return to low note, imagine high note and jump to it free the upper arm and shoulder
 
 Misc
 ----
 
-* Exercises
-
-** Finding zero tension in fretting hand
-*** hand above fretboard
-*** tapping with picking hand
-*** fretting with zero effort
-*** wrist rotational movement
-*** rotational scale
-*** ulnar and radial deviation
-*** only hammers - descending lines
-
-** Legato practice
-
-From "Proprioception" section:
-
-*** quote from proprioception
+From "Proprioception" section::
 
 Proprioceptive sensations and the ability to make the finest inner analysis and synthesis of these sensations are necessary for acquiring motor skill. These motor signals also represent the only material through which our motor centers operate, the basis on which dexterous motor acts are built and developed. Hence, when aiming for the most efficient piano practicing, we have to take care that our proprioceptive sensations are clear and distinct. Slow playing serves this aim to some extent.
- From the physiological point of view the answer seems to be that, while practicing, fingers should be raised to obtain the most distinct sensations from their action, but only as much as is needed for this purpose.
- A slight pressure into the key after its full depression is recommended in slow practicing. Tactile sensations as well as sensations from finger muscle contractions will be strengthened in this way.
- Practicing legato passages with staccato touch will “engrave more firmly on your memory the order in which the notes (and the fingers which produce those notes) follow each other.” It will also sharpen proprioceptive sensations from the more distinct activity of fngers. This practicing must be finger staccato as distinct from hand staccato or forearm staccato. Soft playing should prevail, since in forte the unavoidable participation of upper parts of the playing apparatus (big muscles) would overshadow finer finger sensations.
- Therefore, among several varieties of practice for finger articulation, the following is one of the best: first, fingers are prepared on the keys to be pressed. Each finger then presses with a light downward movement only, never leaving its key. Thus the size of finger movement is equal to the depth of the key.  And playing proceeds very slowly, pianissimo, with the whole attention concentrated on fingertips. The downward movement of one finger must be synchronized with the movement of the preceding finger as it lets its key rise. At the slightest sensation of fatigue in the upper parts of the arm, this practicing should be stopped. (It is rather hard to hold the weight of the forearm without support.) By experimenting, the proper balance will be found, so that longer sections and eventually a whole study or piece can be played in this way. Such practicing is tiring to our central nervous system, as it requires finest tonal control along with control over the accompanying sensations, and this is especially hard in pianissimo. But the consequence of such practicing is a feeling of strength in the fingers. This result would be surprising to the representatives of the old finger school. Of course it is not muscle, but nerve command over the fingers that is being strengthened!
 
+From the physiological point of view the answer seems to be that, while practicing, fingers should be raised to obtain the most distinct sensations from their action, but only as much as is needed for this purpose.
 
-Legato scale practice:
+A slight pressure into the key after its full depression is recommended in slow practicing. Tactile sensations as well as sensations from finger muscle contractions will be strengthened in this way.
 
-Fingers in position above string
-staccato touch
-pianissimo, all attention on fingertips
-down with one finger, up with the adjacent, synchronized
-*slight* press of the string once fretted, to strengthen the connection
+Practicing legato passages with staccato touch will “engrave more firmly on your memory the order in which the notes (and the fingers which produce those notes) follow each other.” It will also sharpen proprioceptive sensations from the more distinct activity of fngers. This practicing must be finger staccato as distinct from hand staccato or forearm staccato. Soft playing should prevail, since in forte the unavoidable participation of upper parts of the playing apparatus (big muscles) would overshadow finer finger sensations.
 
-This is tiring work, for the central nervous system.
-
-* Practice methods
-
-** pomodoro
-
-** 7x20
-
-https://www.pianostreet.com/smf/index.php?topic=3039.msg26757#msg26757
-
-Now let me say a few more words about 15 - 20 minutes, so that it is perfectly clear what I mean.
-
-The important aspect  is that you should have a passage perfect at the end of 15 – 20 minutes.
-
-If it is taking more than that, then the passage you chose to work on is too big.
-
-Cut it in half.
-
-Most people select bits that are bigger than they can chew. This leads to practising for hours on end without visible improvement, which leads to fatigue, discouragement and actually burn out in relation to the passage/piece in question.
-
-Here is another approach to be combined with the 15-20 minutes one. I probably already said that in one of the threads, but I cannot remember where.
-
-It takes 7 repetitions for the human brain to learn anything. So, choose a passage and repeat it seven times. If after seven times you have not learnt it, it is because it is too large a chunk of information.
-
-So instead of doing what everyone who does not know this piece of information do, namely keep repeating endlessly the passage hundreds of times, do the clever thing and make the passage smaller.
-
-** Practice faster than you perform
-
-https://www.pianostreet.com/smf/index.php?topic=4858.msg46585#msg46585
-
-Always faster than required. Even if it is a slow section.
-
-This was one of Arrau’s favourite practice tricks. He believed (and I agree) in having a “reserve”. If you can play faster than necessary, you will be able to play the correct speed effortlessly and with great ease. As I have said now several times, in my personal opinion the overall aim of practising is to make a piece “easy”. This is of course a basic principle in sports training. I once met a sprinter, who trained by running with a rope attached to his waist and in the other end an old tire. However, once he removed the tire, he could run like the wind.
-
-** Find where things break
-
-** Regulate tension and breath
-
-** Conscious to unconscious
-
-** periodically stopping - on random notes
-
-https://www.pianostreet.com/smf/index.php?topic=4858.msg48219#msg48219
-
- Piano playing is highly complex – not complicated – but complex – which means that it consists of a myriad of separate skills that have to be learned independently and then work in co-ordination. You cannot pay conscious attention to all of its aspects. So the procedure is always the same: you must drill (through correct repetition) a single aspect of piano playing until it can be done (correctly) by your unconscious mind. During this drill period is imperative that you put all of your consciousness, focus and attention into it – the consequence of not doing so is that you will train your unconscious do to the wrong thing, and once it is there, it is very difficult to dislodge. However, once it is correctly learned by the unconscious, then, that is it! Move on to another aspect and put your full attention in the new aspect, because the old one will be taken care of by the unconscious.
-
-** drill? horizontal leaps
-
-play low note, play high note, return to low note, imagine high note and jump to it
-free the upper arm and shoulder
+Therefore, among several varieties of practice for finger articulation, the following is one of the best: first, fingers are prepared on the keys to be pressed. Each finger then presses with a light downward movement only, never leaving its key. Thus the size of finger movement is equal to the depth of the key.  And playing proceeds very slowly, pianissimo, with the whole attention concentrated on fingertips. The downward movement of one finger must be synchronized with the movement of the preceding finger as it lets its key rise. At the slightest sensation of fatigue in the upper parts of the arm, this practicing should be stopped. (It is rather hard to hold the weight of the forearm without support.) By experimenting, the proper balance will be found, so that longer sections and eventually a whole study or piece can be played in this way. Such practicing is tiring to our central nervous system, as it requires finest tonal control along with control over the accompanying sensations, and this is especially hard in pianissimo. But the consequence of such practicing is a feeling of strength in the fingers. This result would be surprising to the representatives of the old finger school. Of course it is not muscle, but nerve command over the fingers that is being strengthened!
