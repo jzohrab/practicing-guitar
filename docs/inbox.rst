@@ -9,7 +9,7 @@ How to use this book
 There’s a fair amount of material here, so take it bit by bit. You don’t need to read this thing from start to finish, take whatever sections interest you or seem applicable, and use them.
 
 User Tracks
------------
+===========
 
 If you’re a beginner, take a look at some of the basic techniques.
 
