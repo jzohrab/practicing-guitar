@@ -16,3 +16,7 @@ The problem is co-contraction of antagonistic muscles, i.e. not releasing a musc
 start with fast ...
 
 https://www.pianostreet.com/smf/index.php?topic=4282.msg39817#msg39817
+
+This movement can only be figured out if someone shows you, or if you investigate speed playing by using the chord trick and – for the moment – ignoring accuracy and subtleties of touch. Once you figure out this movement, then yes, go ahead and investigate touch subtleties and accuracy by practising slowly the movement you figured out by speed practising.
+
+speeding up as long as you are doing it in slow motion. This means that the movements that you perform slowly are exactly the same movements that you would perform at speed. However, if you just practise slowly using all kinds of inappropriate movements – movements you are getting away with simply because you are playing slowly- then incrementally speeding up will land you straight into a speed wall.

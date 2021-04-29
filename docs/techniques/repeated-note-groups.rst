@@ -19,3 +19,7 @@ keep the picking correct (upstroke/downstroke)
 B notes: www.pianostreet.com/smf/index.php?topic=2449.msg21204#msg21204
 
 .. some note here www.pianostreet.com/smf/index.php/topic,2449.msg21217/topicseen.html#msg21217
+
+This one is really tough.  Warning, I haven't managed to do it strictly, but it's good.
+
+Applied it ot Eric J lick.  Almost to the whole thing that is 12 notes. Really takes a long time. Spent 45 minutes, didn't even manage to do the entire cycle of 12 notes. But still pretty good.  Good at finding tight spots, and staying loose whole time.  Stay loose, always loose.

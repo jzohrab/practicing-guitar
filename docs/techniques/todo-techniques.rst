@@ -19,11 +19,9 @@ These techniques that still require documentation.  In some cases, they have rou
 Misc
 ----
 
-.. todo::
+.. todo:: figure out where this belongs
 
-   figure out where this belongs
-
-From "Proprioception" section::
+From "Proprioception" section
 
 Proprioceptive sensations and the ability to make the finest inner analysis and synthesis of these sensations are necessary for acquiring motor skill. These motor signals also represent the only material through which our motor centers operate, the basis on which dexterous motor acts are built and developed. Hence, when aiming for the most efficient piano practicing, we have to take care that our proprioceptive sensations are clear and distinct. Slow playing serves this aim to some extent.
 

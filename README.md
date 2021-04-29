@@ -115,6 +115,14 @@ pip3 install -r requirements.txt
 deactivate
 ```
 
+## todos
+
+List all todos:
+
+```
+make todos
+```
+
 ## docs/dev
 
 See the folder docs/dev for some tools.

@@ -23,6 +23,10 @@ Here is another approach to be combined with the 15-20 minutes one. I probably a
 
 It takes 7 repetitions for the human brain to learn anything. So, choose a passage and repeat it seven times. If after seven times you have not learnt it, it is because it is too large a chunk of information.
 
+TODO 7 by 20, starting at This has the following awesome practical consequence:
+https://www.pianostreet.com/smf/index.php?topic=3039.0
+
+
 So instead of doing what everyone who does not know this piece of information do, namely keep repeating endlessly the passage hundreds of times, do the clever thing and make the passage smaller.
 
 * nothing mindless, play and observe
