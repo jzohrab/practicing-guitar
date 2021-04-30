@@ -13,6 +13,11 @@ A curated source of ideas and techniques for guitar practicing.
    :name: mastertoc
    :glob:
 
+   part-1/index
+   part-2/index
+   part-3/index
+   part-4/index
+   part-5/index
    inbox
    techniques/index
    theory/index
