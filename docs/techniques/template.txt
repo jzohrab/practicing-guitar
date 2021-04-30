@@ -1,8 +1,0 @@
-name xxx
---------------------------------------
-
-.. tech:technique:: name
-   :displayname: name
-   :status: TODO
-
-   summary
