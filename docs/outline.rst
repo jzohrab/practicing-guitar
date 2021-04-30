@@ -5,7 +5,6 @@ Who It's For
 How To Use It
 Background
 My Background
-Sources
 Suggestions And Feedback
 
 Part 2 - Fundamentals
