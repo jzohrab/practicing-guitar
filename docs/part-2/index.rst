@@ -6,3 +6,5 @@ Part II - Fundamentals ?
    :glob:
 
    *
+
+.. todo:: Fix part intro

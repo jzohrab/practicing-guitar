@@ -6,3 +6,5 @@ Part IV - Misc
    :glob:
 
    *
+
+.. todo:: Fix part intro

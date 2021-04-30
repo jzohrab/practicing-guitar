@@ -6,3 +6,5 @@ Part III - Techniques
    :glob:
 
    *
+
+.. todo:: Fix part intro
