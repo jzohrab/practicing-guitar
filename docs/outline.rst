@@ -1,34 +1,36 @@
-Part I - Introduction
-what this book is
-what it's not
-background
-my background
-sources
-suggested how to use this book
-who it's for
-suggestions and feedback
+Part 1 - Introduction
+What This Book Is
+What It's Not
+Who It's For
+How To Use It
+Background
+My Background
+Sources
+Suggestions And Feedback
 
-Part II - Fundamentals
-Don't want to presume anything about what you want to accomplish, but there are a few things that everyone should keep in mind
-Relaxation and Tension
-Playing is govered by the nervous system
-Bad intuitive method
-A better practice routine - record yourself
-keeping a journal
-experimentation and observation
-organization
-time to spend practicing and schedule
-ease in playing
+Part 2 - Fundamentals
+The Intuitive Method
+Tension and Relaxation
+Ease In Playing
+The Nervous System
+A Better Practice Routine
+A Practice Journal
+Experimentation And Observation
+Organization
+Practice Time and Schedule
 
-Part III - the techniques
+Part 3 - the techniques
 sample licks
 
-Part IV - misc
-memorization
-mental health
-repertoire
-improvisation
+Part 4 - misc
+Memorization
+Mental Health
+Repertoire
+Improvisation
 
-Part V - references
+Part 5 - references
 
-Part VI - scores (?)
+Part 6 - scores (?)
+
+
+.. todo:: get rid of this page once all sections laid out.
