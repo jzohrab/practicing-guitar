@@ -3,71 +3,10 @@ Raw material TODO
 
 .. todo:: Break this out to other sections
 
-How to use this book
---------------------
-
-There’s a fair amount of material here, so take it bit by bit. You don’t need to read this thing from start to finish, take whatever sections interest you or seem applicable, and use them.
-
-User Tracks
-===========
-
-If you’re a beginner, take a look at some of the basic techniques.
-
-If you are interested in in the mechanics of practicing, and how your nervous system manages everything, check out section X.
-
-If you are trying to learn new motor skills, check out X. If you are trying to learn or maintain repertoire, such as songs, pieces, song structures, seewhy.
-
-Since tension is such a big problem in playing, and can accumulate even at a subconscious level, I really recommend the section said.
-
-Q and A
--------
-
-**Why should I listen to you?**
-
-Good question, and that’s not what this book is about. This is not a collection of recommendations of things you should do during practicing. In my opinion, no one can really teach you how to play, they can just give suggestions and demonstrations. It’s up to you to work on those, and make them part of your physical and mental playing.
-
-Instead of looking at these as recommendations, or even suggestions, look at them as a starting point for your own experiments and investigation. I would rather you think of these things as a conversation that you are having with yourself, rather or one that we are having together, rather than a one way flow of information.
-
-**Which techniques should I use?**
-
-See the technique ratings index to see the techniques in rating order. Maybe try the highest rated ones first, and see how they feel.
-
-**My favourite technique is not listed here.**
-
-Please let me know in the suggestions. I’ve tried to include things with a minimum of redundancy, but maybe I’ve missed some thing obvious I would be very interested to hear it!
-
-
-
-**My teacher/favorite guitar instructor on YouTube/favorite player doesn’t use any of these techniques.**
-
-I believe that these techniques are useful, but after some experimentation, you might not agree. That’s fine. These techniques are not a replacement for any existing practice routine you might follow. If you already have a successful routine, and you are happy with your progress, that’s fantastic.  But if you are not sure how to practice, if you can’t seem to define a and effective routine, or you are not making progress, the kind of progress you want, then maybe some of these ideas will help.
-
-**I doubt that Eddie Van Halen/inveigh mom Steen/Sean Lane/Paul Gilbert used any of these techniques.**
-
-Good point, and some or all of what is outlined here might feel overly analytical to some or to you.  I’ve been playing for a long time, but I am not I would not consider myself a natural. For the players mentioned above, they may have been they may be wired differently from the rest of us, and happened to find the secrets for their technique by instinct, rather than consciously. If your instinct leads you successfully, then you probably don’t need practice tips.  Unfortunately, instinct and enthusiasm can sometimes lead you astray, and you need to spend some time thinking about things.
-
-
-What this book is not
----------------------
-
-This book does not contain, or tries to avoid, any suggested practice licks or scales, or even or even scaler variations or arpeggios. There are loads of tutorials and licks on YouTube and on websites such as the following: give example here. So, i’m less interested in providing yet another list of lakes and scales for you to work on, and more on how you can practice those licks and scales to your best advantage.
-
-In some cases, I will offer some well intentioned advice. I hope you consider it, but if it doesn’t suit you, no worriesl
-
-Why wrote this book
--------------------
-
-I study piano for a time, and piano has a bunch of great literature on effective practice techniques and musicianship in general.  See the references for some of the sources I found interesting. While some are better than others, all of them offer interesting approaches to practicing.
-
-For a guitar, and rock guitar in particular, the amount of information available is enormous.  There are several hundreds of teachers available on YouTube on websites, in guitar magazines etc. But, with few exceptions, most I did not find that most of them I did not find many of them offering the same practice tips as from piano teachers.  This book is a collection of what I consider to be the best tips from these teachers and sources, in some cases presented with no modification, and in others presented with specific adjustments for guitar.
 
 
 Notes from notes.org
 ====================
-
-** Fingers vs arms 
-
-The piano literature often deals with finger motions vs arm motiions.  With the picking hand this is is still valid; with the fetting hand, while it may seem that fingers alone carry the day, the arm / wrist rotation could be useful here too.
 
 ** Central nervous sys
 
