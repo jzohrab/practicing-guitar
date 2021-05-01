@@ -7,7 +7,7 @@
 # -W to fail on error:
 # https://stackoverflow.com/questions/38048945/
 #   how-to-turn-warnings-into-errors-when-building-sphinx-documentation-with-setupto
-SPHINXOPTS    ?= -W
+SPHINXOPTS    ?= -W --keep-going
 SPHINXBUILD   ?= sphinx-build
 SOURCEDIR     = .
 BUILDDIR      = _build
