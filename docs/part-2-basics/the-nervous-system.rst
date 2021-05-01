@@ -53,3 +53,7 @@ Since every movement is initiated in the central nervous system, practicing is, 
 "Schumann believed that the ability to listen to oneself was most important to a musician-performer. He suggested that the pianist first mentally perceive the essence of a composition instead of digging and hacking “away at it, bar by bar.” He wrote: “Do not play the musical composition before you can hear it inwardly.” “The finger must do what the head wills, not vice versa.””
 
 The above follows the suggestion that people record themselves and listen.  Also, take time between each rep.  This may give the nervous system chance to regulate and organize itself.
+
+---
+
+nervous system.  Some great piano documents talk about the primary role of the nervous system in piano playing, and having worked on it a bit for guitar I think it's the case.  Playing isn't about muscles, it's about your nervous system adapting, especially for "fast twitch" things like picking and fretting.  For improvement to happen, your practice sessions need to present a clear picture to your nervous system about what you're trying to do (I posted about this in [this link](https://forum.troygrady.com/t/your-practice-schedule-for-acquiring-new-motor-skills/42527) ).  If you're working at something quite beyond your current abilities, this input might be really chaotic and disorganized.  I'm not saying you need to aim lower :-) but you could try some adjustments.
