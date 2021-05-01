@@ -38,3 +38,6 @@ It is evident, then, that the main attention of thoughtful pianists and piano te
 questions connected with the activity of the central nervous system. The roots of technique are in our central
 nervous system, The problems connected with muscular
 conditions and outward appearance of our playing apparatus are important, but they are secondary.
+
+
+https://practisingthepiano.com/some-ideas-for-mental-practice/

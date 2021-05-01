@@ -57,3 +57,6 @@ The above follows the suggestion that people record themselves and listen.  Also
 ---
 
 nervous system.  Some great piano documents talk about the primary role of the nervous system in piano playing, and having worked on it a bit for guitar I think it's the case.  Playing isn't about muscles, it's about your nervous system adapting, especially for "fast twitch" things like picking and fretting.  For improvement to happen, your practice sessions need to present a clear picture to your nervous system about what you're trying to do (I posted about this in [this link](https://forum.troygrady.com/t/your-practice-schedule-for-acquiring-new-motor-skills/42527) ).  If you're working at something quite beyond your current abilities, this input might be really chaotic and disorganized.  I'm not saying you need to aim lower :-) but you could try some adjustments.
+
+
+Playing quietly https://forum.troygrady.com/t/how-to-get-faster-when-you-are-not-slow-anymore/42864/51
