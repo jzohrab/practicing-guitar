@@ -8,5 +8,6 @@ Part V - Appendix
    *
    scores/index
    theory/index
+   examples/index
 
 .. todo:: Fix part intro

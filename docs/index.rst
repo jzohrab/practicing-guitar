@@ -18,7 +18,6 @@ A curated source of ideas and techniques for guitar practicing.
    part-3-techniques/index
    part-4-misc/index
    part-5-appendices/index
-   examples/index
    todo
 
 .. vextab::
