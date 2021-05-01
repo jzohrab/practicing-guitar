@@ -11,21 +11,14 @@ A curated source of ideas and techniques for guitar practicing.
 .. toctree::
    :maxdepth: 5
    :name: mastertoc
-   :glob:
 
-   part-1/index
-   part-2/index
-   part-3/index
-   part-4/index
-   part-5/index
-   inbox
-   techniques/index
-   theory/index
+   part-1-intro/index
+   part-2-basics/index
+   part-3-techniques/index
+   part-4-misc/index
+   part-5-appendices/index
    examples/index
-   scores/index
    todo
-   indices
-   *
 
 .. vextab::
 

@@ -6,5 +6,7 @@ Part V - Appendix
    :glob:
 
    *
+   scores/index
+   theory/index
 
 .. todo:: Fix part intro
