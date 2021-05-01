@@ -36,3 +36,4 @@ Combining strong finger grasp with a flexible wrist is one
 of the main problems of piano technique. The teacher
 must strive to develop this ability in his pupils.
 
+Slow and extremely even playing is indispensable, not only for obtaining clear proprioceptive sensations but for strengthening the inhibitory process.
