@@ -3,8 +3,6 @@ Change Log
 
 A summary of document changes for each release.
 
-.. todo:: when draft complete, push tag
-
 .. Command to build the change log, appending to this file:
 
    Run the below in docs:
@@ -20,6 +18,9 @@ A summary of document changes for each release.
    popd
 
    Pipe that to this file, and then edit the output.
-   
-* Initial draft publication (TODO tag here)
 
+.. todo:: when draft complete, push tag, and change TODOs below
+
+* TODO date here: Initial draft publication (TODO tag here)
+
+  * Everything is brand new, so the only thing that changed is everything.
