@@ -60,3 +60,6 @@ nervous system.  Some great piano documents talk about the primary role of the n
 
 
 Playing quietly https://forum.troygrady.com/t/how-to-get-faster-when-you-are-not-slow-anymore/42864/51
+
+
+.. todo:: Practicing as a means of integrating the self, including the nervous system; ref Seymour Bernstein
