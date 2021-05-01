@@ -26,3 +26,6 @@ this or that motor act.
 It is weak
 static tension stimulating cortical activity that exerts the
 most favorable influence on muscle preparedness and innervation.
+
+
+.. todo:: include google docs notes

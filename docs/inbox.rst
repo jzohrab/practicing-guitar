@@ -45,9 +45,3 @@ If you're playing a lick and falling apart in the middle of it (ranging from a t
 So, maybe analyze the full lick, see where your playing is falling apart, and see if that single issue can be isolated and worked on.  Some things (like the string shift) are hard to work on in isolation, but if you perfect the other tihngs (picking, left hand, rhythm) you can focus on those.  And play these little things perfectly :-)  Keep pushing that tempo way up!  Sloppy is ok while you're working it out!  But keep aiming for perfection of small bits, your brain will thank you.
 
 (d) end with slow.  After 15 mins of intense work, your nerves will be frazzled and your mind tired.  It's gotten a lot of confusing input.  To ensure that it's clear what you've been working on, play that thing you've worked on through slowly at least once, mimicking the motions you do at high speed if you can -- i.e., don't play it slowly with a completely different technique (this can be tough, depending on what you're working on).  This is like the "cool down" of a workout, but it's more important for your nerves to help them organize.  I hope you'd get a feeling of satisfaction with this, it's supposed to be a fun relaxed wrap-up of your burst of hard work.
-
-
-Releasing Picking Hand Tension
-------------------------------
-
-include google docs notes
