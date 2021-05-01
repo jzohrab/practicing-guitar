@@ -6,4 +6,4 @@ This section contains *just enough* information for newer players to understand 
 .. toctree::
    :glob:
 
-   *
+   reading-rhythms

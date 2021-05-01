@@ -41,5 +41,4 @@ So instead of doing what everyone who does not know this piece of information do
 * Time to spend practicing (https://www.pianostreet.com/smf/index.php?topic=3039.msg26757#msg26757, 15-20 mins, 7x) -- "At this point comes the 20 minute principle. Do not play this first bar anymore today! Nothing bad will happen if in your next 20 minute practice session you work on this first bar again. But nothing good will happen either: It will be a total waste of time. Instead take your break, and on the next session work on a different passage of the prelude."
 
 
-* Practicing and nervous system and rest - my reddit comment
-https://www.reddit.com/r/Guitar/comments/n19vap/question_does_anyone_else_get_better_at_playing_a/
+* Practicing and nervous system and rest - my reddit comment https://www.reddit.com/r/Guitar/comments/n19vap/question_does_anyone_else_get_better_at_playing_a/
