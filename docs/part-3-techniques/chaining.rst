@@ -50,3 +50,55 @@ It’s good to try both forwards and backwards chaining even on the same lick: s
 .. todo:: j sulliman video permission
 
 Jason Sulliman - trombone - https://youtu.be/f9X4h-cY1uw
+
+Sulliman notes transcript:
+
+go so you
+07:08
+can see that there are times where I add
+07:10
+a new note and the previous notes kind
+07:13
+of have a decrement in performance
+07:14
+quality that's because we're trying to
+07:16
+chunk it together as one continuous idea
+07:18
+I don't want to consciously have to
+07:20
+think about each note so that means that
+07:22
+the motor patterns are starting to get
+07:23
+grouped together the synaptic
+07:24
+connections are starting to happen
+07:25
+through regions of my brain that can
+07:28
+handle this faster tempo this also means
+07:30
+that it's frustrating in that it doesn't
+07:32
+sound good
+07:33
+until it sounds good you don't have that
+07:36
+small steps of quasi gratification by
+07:39
+being able to nail it at 60 then nail it
+07:41
+at 61 the nail at 62 here it's just
+07:44
+going to sound bad until you get it
+07:46
+that's one of the frustrations but I
+07:48
+still think it's a better way to do it
+
+
+
+.. todo:: fix the above
+
+Problem chaining - start in the middle
