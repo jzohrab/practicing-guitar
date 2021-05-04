@@ -18,13 +18,10 @@ help:
 
 .PHONY: help Makefile
 
-touchinclude:
-	touch dev/inclusion.txt
-
 todos:
 	find . -name '*.rst' -print0 | xargs -0 grep 'todo::'
 
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
-%: touchinclude Makefile
+%: Makefile
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)

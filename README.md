@@ -152,8 +152,6 @@ make todos
 
 See the folder docs/dev for some tools.
 
-* inclusion.txt - is ignored in git, so you can edit it and see how it renders in http://127.0.0.1:8000/dev/included.html
-
 ## Autobuild
 
 During dev it's helpful to have a separate process running that auto-rebuilds using https://github.com/executablebooks/sphinx-autobuild.
