@@ -8,13 +8,12 @@ var audio = null
 
 /**
  * Play an audio example.  Used in the vextab directive.
- * relpath is the relpath in static/audio
+ * path is e.g /_static/audio/whatever.mp3, where _static is determined by environment.
  */
-window.startPlayExample = function(relpath) {
+window.startPlayExample = function(path) {
   audio = new Audio()
   // audio.loop = true
-  const fullpath = `/_static/audio/${relpath}`
-  audio.src = fullpath
+  audio.src = path
   audio.play()
 
   /* To stop, do something like "function stopPlay() { p.src = ''; }" */

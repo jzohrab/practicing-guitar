@@ -32,6 +32,7 @@
 from docutils import nodes
 from docutils.parsers.rst import directives, Directive
 from sphinx.util.docutils import SphinxDirective
+import os
 from os import path
 import re
 
@@ -80,8 +81,14 @@ def visit_vextab_html(self, node):
         if not path.exists(reldir):
             raise Exception("Vextab error: Missing example {0}".format(reldir))
         caption = e.split('/')[-1].replace('.mp3', '').replace('_', ' ').capitalize()
-        img = """<img src="/_static/img/play-button.png" width="20" height="20" />"""
-        return """<p onclick="startPlayExample('{0}');">{1} {2}</p>""".format(e, img, caption)
+
+        # When building locally, images etc are in /_static, but on readthedocs, they're in
+        # /en/latest/_static.  There is probably a much better way to handle this, but this will do.
+        on_rtd = os.environ.get("READTHEDOCS") == "True"
+        static_dir = "/en/latest/_static" if on_rtd else "/_static"
+        audio_file = "{0}/audio/{1}".format(static_dir, e)
+        img = """<img src="{0}/img/play-button.png" width="20" height="20" />""".format(static_dir)
+        return """<p onclick="startPlayExample('{0}');">{1} {2}</p>""".format(audio_file, img, caption)
         
     example = node['example']
     if example is not None and example != 'pending':
