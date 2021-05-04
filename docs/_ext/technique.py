@@ -264,9 +264,6 @@ class TechniqueDomain(Domain):
 
     def get_technique(self, signature):
         match = [r for r in self.data['techniques'] if r['signature'] == signature]
-        if len(match) != 1:
-            raise Exception("Bad reference, {0} matches for {1}".format(len(match), signature))
-            return None
         return match[0]
 
     def resolve_xref(self, env, fromdocname, builder, typ, target, node, contnode):
