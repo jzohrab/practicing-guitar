@@ -21,8 +21,12 @@ If the above method worked, we'd say many more advanced players, and there would
 Rather than follow the above intuitive method, we can cut to the chase and start fast.  But this should be tempered with understanding how the body acquires fine motor skills, especially skills that need to function at high speeds.
 
 .. toctree::
-   :glob:
 
-   *
+   self
+   the-nervous-system
+   speed
+   tension-and-relaxation
+   ease-in-playing
+   a-better-practice-routine
 
 .. todo:: verify text here
