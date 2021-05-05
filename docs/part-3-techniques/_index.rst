@@ -10,6 +10,8 @@ There’s a fair amount of material here, so take it bit by bit. You don’t nee
 
 - Yes, practice tricks, hands separate, etc. are done for a very limited time only for the purpose of thoroughly learning and ingraining the movements. Once you get that, you simply play and enjoy the piece. Practising is a temporary process to be get rid of as soon as possible.  - https://www.pianostreet.com/smf/index.php/topic,3561.msg31700.html#msg31700
 
+- "The proof of the pudding is in the eating. Just give it a try. But not a half-hearted try. Give it all you get. Do not dismiss it straight away."
+
 - But above all, do not get lost in thought: try it out! All these methods are powerful, but they all have limitations and situations where they will fall apart. The only way to find out is trying them out.
 
 - "Method" - "It is more like a set of principles that have to be investigated and adapted to each person's idiossincracies. Try it out, keep what works, discard what does not. And sometimes go back to something you discarded, you may understand it better now and derive some benefit from it." - https://www.pianostreet.com/smf/index.php?topic=4851.msg85705#msg85705
