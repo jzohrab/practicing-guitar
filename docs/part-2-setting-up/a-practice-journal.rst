@@ -3,37 +3,24 @@
 Keep a Practice Journal
 -----------------------
 
-.. todo:: fill in/edit content for a-practice-journal.rst
+Many, if not all, teachers suggest keeping a practice journal.  There are dozens of blog posts etc out there about keeping a practice journal, you may have seen some already.  If not, no sweat, here is a suggestions to get started, and you can follow up with more detailed reading later.
 
-You might find that keeping a practice journal encourages you to do some solid reflecting, or helps you articulate your thoughts.  It will also be a good record of what you've tried.
+.. tip:: Start with something extremely simple, and refine your system later. [#]_
 
-There are dozens of blog posts etc out there about keeping a practice journal, you may have read them already.  If not, no sweat, here are some suggestions to get started.
+By "extremely simple", I mean something like this:
 
-Start with something extremely simple, and refine your system from there.
+* have a piece of paper or small notebook in your practice area
+* write today's date at the top of the page
+* list the things you'll work on, with some quick tab as reference if needed
+* (do your practicing)
+* for each thing you worked on, write down the time spent, what you tried, how it sounded and felt, and ideas for next time
 
-By extremely simple, I mean just have a piece of paper next to your guitar, write today's date, and put the few things you're working on.  Say 2 or 3 things, each of them 20 mins long, so that's an hour.  If you're working on new motor skill acquisition, you might be spending even less time on that, but you'll have several of those throughout the day.  Repertoire, 1 section, and then a new motor skill, and then more repertoire, or improv skills.
+At the next session -- next day, or later in the same day depending on your scheduling, continue the same process, same notebook or paper.  You might find that keeping a practice journal encourages you to do some solid reflecting, or helps you articulate your thoughts.  It will also be a good record of what you've tried.
 
-So, on your paper:
+What gets measured gets improved.
 
-date
-write the thing down.
-write some quick tab
-write what you're going to do
-do it
-then, write what you did, how it went, what your feeling is, what you'll do next time.
+Different people have different journaling systems [#]_, and you can buy practice journals [#]_ if you're so inclined.  But if you're starting out with this idea, it can be overwhelming and paralyzing.  So start small, and refine ... let your system guide you, don't be a slave to it.
 
-Next session, continue same process, same piece of paper.
-
-Different people have different journaling systems, and they write about chords, arpeggios, scales, etc.  But if you're starting out with this idea, it can be overwhelming and paralyzing.  So start small, and refine ... let your system guide you, don't be a slave to it.
-
-Here are some admittedly very rough practice journal entries from me, when I worked on some new technique.  I used a simple text document on my computer as well for other items, but I actually prefer the hard copy in many ways.
-
-.. todo:: get some crappy photos
-
-For each lick, track the maximum tempo you hit, how good it felt, etc.  Continuously measuring things will help.
-
-.. todo:: tie in with practice time and sched
-
-Some examples:
-
-* "The Guitar Practice Journal: Organise your practice, track your progress and become a better guitar player" - https://www.amazon.ca/Guitar-Practice-Journal-Organise-practice/dp/1502517531
+.. [#] The book `Atomic Habits <https://jamesclear.com/atomic-habits>`_ recommends this.  It's a super book.
+.. [#] This one is really extensive: https://www.robknopper.com/blog/2016/6/25/what-my-practice-journal-looks-like ... wow.
+.. [#] `The Guitar Practice Journal: Organise your practice, track your progress and become a better guitar player <https://www.amazon.ca/Guitar-Practice-Journal-Organise-practice/dp/1502517531>`_
