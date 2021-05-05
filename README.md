@@ -84,7 +84,6 @@ $ pushd docs; tree -d -I '_build|__pycache__'; popd
 │   ├── audio  # audio files for examples
 │   └── img  # images
 ├── _templates  # overrides for header, footer
-├── dev  # dev helpers
 ├── examples  # example licks
 ├── scores  # music
 ├── techniques  # the actual techniques
@@ -147,10 +146,6 @@ List all todos:
 ```
 make todos
 ```
-
-## docs/dev
-
-See the folder docs/dev for some tools.
 
 ## Autobuild
 
