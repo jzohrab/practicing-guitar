@@ -67,10 +67,10 @@ If the other page doesn't have a label, these work:
 
 ## Blockquotes
 
-Put three spaces in front, and then a link at the end.  eg:
+Put three spaces in front, and then a link at the end followed by *2 underscores*.  eg:
 
 ```
-   Text `name, source <http>`_
+   Text `name, source <http>`__
 ```
 
 # Project layout
