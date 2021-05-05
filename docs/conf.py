@@ -15,7 +15,7 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'Guitar Practice'
+project = 'Practicing Guitar'
 copyright = '2021, Jeff Zohrab'
 author = 'Jeff Zohrab'
 
