@@ -29,3 +29,10 @@ most favorable influence on muscle preparedness and innervation.
 
 
 .. todo:: include google docs notes
+
+
+"It frequently happens that even the pianist with some experience, as well as the beginner, is unable to achieve complete relaxation of his arms. When he wants his arm to fall down of its own weight, the extrapyramidal complex interferes instantly and prevents free fall. This physiological law of balancing our body and extremities in space is accomplished automatically by the cerebellum and is present constantly when the arm is in a horizontal position, as in piano playing. When the pupil’s attention is concentrated mainly on his finger activity, the amount of normal tension necessary for that balancing can be exceeded, resulting in muscle overexertion."
+
+We all have a baseline level of tension -- and we need to get rid of it to allow the sub elements freer play.
+
+Subc elements of the CNS have been trained to do certain things - balance, etc - but often these can be maladjusted.  Also, in some cases like mine, years of playing resulted in a mass of tension throughout my hands, wrists, and arms.  I'd thought that was necessary, and developed techniques which served in limited situations.  It was certainly inflexible.  My conditioned reflex when picking up the guitar was to immediately tense up -- I thought that was "readiness".

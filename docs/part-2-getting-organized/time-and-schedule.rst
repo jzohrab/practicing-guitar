@@ -83,11 +83,7 @@ And regarding perfecting the passage, once again I'll refer to the same great te
 Rest
 ----
 
-When you're done the 20 minutes, take a break.
-
-Guitar playing is fundamentally a process governed by the nervous system. You hardly need any muscle development to play the guitar, but what you do need are precise firings of nerves to contract and then relax muscles at the right time. The quality of the nerve pathway also matters ... e.g. when you play a new motion, all sorts of extraneous things occur, but as you get better, your subconscious mind refines exactly what needs to happen, when, and where.
-
-So, practicing, and good practicing, is the process of putting a clear stress on the nervous system, your conscious mind saying, "I want to do this." But it takes time for your nervous system to synthesize all of this. That synthesis happens during rest. A good night's sleep is often the best, but you may even find that you can practice something hard for 5 to 10 mins, take several hours' break, and then come back to it.
+When you're done the 20 minutes, take a short break.  Stretch, relax, make notes.  Your mind, nerves, and muscles need to take a moment to refresh.
 
 Day-to-day Schedule
 -------------------
