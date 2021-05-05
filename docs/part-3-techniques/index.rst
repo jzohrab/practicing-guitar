@@ -1,6 +1,6 @@
-#####################
-Part III - Techniques
-#####################
+##############################
+Part III - Practice Techniques
+##############################
 
 .. todo:: Fix part intro
 

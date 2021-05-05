@@ -9,8 +9,6 @@ Practicing Guitar
 
 A curated source of ideas and techniques for guitar practicing.
 
-.. todo:: make a much nicer intro page.
-
 .. toctree::
    :maxdepth: 5
    :hidden:
@@ -24,7 +22,3 @@ A curated source of ideas and techniques for guitar practicing.
    part-5-appendices/index
    todo
    feedback
-
-.. vextab::
-
-   =|: :16 5u/1 8d/2 5u/1 8d-6u-5d-6u-8d/2 =:|
