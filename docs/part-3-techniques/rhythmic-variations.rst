@@ -39,6 +39,15 @@ You can, and should, also play it with the dot on the other note, to make the rh
    :16 5d/3 :8d 7u/3 :16 5d/3 :8d 4u/3 :16 5d/3 :8d 7u/3
    :16 5d/2 :8d 6u/2 | :h 8d/2
 
+Sometimes the "fast-slow" rhythm can be hard to maintain, in which case you can just offset the beat as shown below.  Note that the lead-in note is still done with a down stroke:
+
+.. vextab::
+   :width: 700
+   :example: techniques/rhythmic-variations/Dotted,_fast-slow.mp3
+
+   :16 5d/3 | :8d 7u/3 :16 5d/3 :8d 4u/3 :16 5d/3 :8d 7u/3
+   :16 5d/2 :8d 6u/2 :16 8d/2 | :h t8/2
+
 Why this works
 --------------
 
@@ -58,7 +67,7 @@ Rhythmic variations are a **super** technique for several reasons:
    notes =|: :16 5d-7-5-4/3 =:: :8d 5d/3 :16 7u/3 :8d 5d/3 :16 4u/3 =:: :16 5d/3 :8d 7u/3 :16 5d/3 :8d 4u/3 =:|
    options space=20
 
-The first variation is one beat (four 16ths), but the last two are both 2 beats, so the last two are "slower" ... however, the second and fourth notes of all of these variations are still 16th notes, and are just as fast as the first variation.  For these fast notes, you will still have to make the same motions in the same timeframe as you would for the initial straight-16ths version, but your hands and brain will have a lot of time to rest and prepare.
+The first variation is one beat (four 16ths), but the last two are both 2 beats, so the last two are "slower" ... however, the second and fourth notes of all of these variations are still 16th notes, and are just as fast as the first variation.  For these fast notes, you will still have to make the same motions in the same timeframe as you would for the initial straight-16ths version, but your hands and brain will have a lot of time to rest and prepare.  Because of this, you can push your practice tempo even higher, and get a workout of these very short bursts of speed.
 
 You can also try lengthening the long note even further, if it helps:
 
