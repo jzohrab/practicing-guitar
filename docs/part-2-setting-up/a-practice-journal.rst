@@ -1,7 +1,11 @@
-A Practice Journal
-------------------
+.. _practice_journal:
+
+Keep a Practice Journal
+-----------------------
 
 .. todo:: fill in/edit content for a-practice-journal.rst
+
+You might find that keeping a practice journal encourages you to do some solid reflecting, or helps you articulate your thoughts.  It will also be a good record of what you've tried.
 
 There are dozens of blog posts etc out there about keeping a practice journal, you may have read them already.  If not, no sweat, here are some suggestions to get started.
 

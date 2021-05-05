@@ -1,29 +1,22 @@
 Experimentation And Observation
 -------------------------------
 
-.. todo:: fill in / edit content for experimentation-and-observation.rst
+Practicing can be broken into two big phases: exploration, where you're trying to sort out what works, and refining, where you're perfecting what works.
 
-Learning a new technique can be challenging, even if you have a good teacher.  It's not challenging because the technique itself is challenging: most techniques are, I believe, quite simple once you've got them.  But it's very easy to approach technique with the wrong idea, and your conscious mind can get in the way of an efficient technique.
+It's easy and fun to sit down with the guitar and just play, letting things work themselves out.  They do, sometimes.
 
-For example, if you're trying to alternate pick really quickly, you (i.e. your conscious mind) might think you need to expend a lot of effort, because you're moving really fast and changing directions frequently.  But that's not the case.
+However, to make more reliable progress with technical issues -- speed, tricky passages, new techniques -- it's necessary to focus and experiment [#]_.  This takes full concentration, paying full attention to two main things:
 
-Ideally, you'd look at good players and try to model what they're doing.  There are often many different ways to accomplish the same technique.  For example, some players use wrist, some elbows, some fingers, etc.  In short, there's usually no one single way to play one thing.  What that means is that you need to keep trying to find different ways to do it, keep testing the waters.
+* the tone you're producing
+* any physical and mental sensations (tension, fatigue, etc.)
 
-Move hand position, how you hold your pick, float your hand, float your wrist.
+The practice techniques listed in :ref:`part-3-techniques` are fuel for your experiments, along with other variations you can think of (hand position, pick grip, force, wrist action, etc.).
 
-.. todo:: give some examples of what can vary
+Regardless of what practice technique (if any!) you choose to use, be sure to give it a good honest shot.  Keep trying and experimenting.  Experiment and observe.
 
-Have to give a good honest effort.  You might not find the answer within a few minutes.  You have to keep track of what is going on, what you've tried, and what you've observed in your results.  Sometimes it will be obvious, and sometimes not.  You might even want to keep a practice journal to keep track of what you've done.
+And be honest in your observations!  If you crank up your distortion/reverb/effects etc., it might sound more interesting, but it may be hiding some problems.  So continue to check your accuracy, timing, and tone, and use that as feedback for the next round of experimentation.  You might find a :ref:`practice journal <practice_journal>` helps you keep track of what's working.
 
-Usually when it comes to new techniques, or even trying using your techniques in unfamiliar settings, the best thing you can do is practice hard for a short period of time, and then move on.  This
+For me, a good exploratory practice session for a particular passage will usually consist of several trial-and-error attempts, each of which is followed by a assessment of the above, and then further adjustments and tests.  Seeing what works, letting go of what doesn't.  Sometimes things take several reps to roughly fall into place, and the results show up the next day [#]_.
 
-.. todo:: tie this in with time and schedule
-
-
-Keep trying and experimenting.  Experiment and observe.  And be honest in your observations!  If you crank up your distortion/reverb/effects etc., it might sound more interesting, but it may be hiding some problems.  So be honest about your accuracy, timing, and tone, and use that as feedback for the next round of experimentation.
-
-Try out a technique, give it a good honest attempt, and see what works and doesn't work.
-
-To see if a given practice technique works for you, the best thing you can do is put it to the test: take two similar passages or licks, and learn one lick without the practice technique, and the other with it.  Give the practice technique a good solid effort.  Do this for a few practice sessions, and record the results.  And see which way works better for you.
-
-Always be experimenting, always be loose, and always be open to trying something different.
+.. [#] I'm intentionally avoiding the idea of "work hard."  To me, the idea of hard work immediately conjures up tense muscles and *physical effort.*  If you've read :ref:`part-1-on-technique`, you'll know that technique is about ease.
+.. [#] See :ref:`time_and_schedule`.

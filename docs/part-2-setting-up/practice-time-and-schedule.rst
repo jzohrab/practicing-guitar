@@ -1,3 +1,5 @@
+.. _time_and_schedule:
+
 Practice Time and Schedule
 --------------------------
 

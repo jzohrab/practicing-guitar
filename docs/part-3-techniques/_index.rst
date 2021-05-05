@@ -16,6 +16,8 @@ There’s a fair amount of material here, so take it bit by bit. You don’t nee
 
 - test it out: "Pick two pieces of similar difficulty/style. One of them you learn exactly the way you would have you had never heard of these maps. The other one you learn by following (the best you can) the instructions given. In a couple of week’s time (or more, or less), compare results and tell us." - https://www.pianostreet.com/smf/index.php?topic=5083.msg48306#msg48306
 
+To see if a given practice technique works for you, the best thing you can do is put it to the test: take two similar passages or licks, and learn one lick without the practice technique, and the other with it.  Give the practice technique a good solid effort.  Do this for a few practice sessions, and record the results.  And see which way works better for you.
+
 
 .. tech:techniquelist::
 

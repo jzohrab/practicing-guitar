@@ -20,8 +20,9 @@ pre, tt, code {
 }
 
 /** Overriding the massive user agent spacing. */
-div, h1, p, ul {
-    margin: 0 0 12px !important;
+div, h1, p, ul, dt {
+    margin-top: 6px !important;
+    margin-bottom: 6px !important;
 }
 
 div.vex-canvas {
@@ -94,4 +95,12 @@ table.contenttable td {
     word-wrap: break-word !important;
     white-space: normal !important;
     vertical-align: top !important;
+}
+
+
+html.writer-html5 .rst-content dl.footnote {
+    margin-top: 20px;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: grey;
 }
