@@ -1,4 +1,4 @@
-Rhythmic variations
+Rhythmic Variations
 ===================
 
 .. tech:technique:: rhythmicvariations
