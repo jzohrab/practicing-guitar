@@ -1,6 +1,24 @@
 Speed
 =====
 
+Speed is a product of a few factors:
+
+* a fast mind
+* fast nervous system impulses contracting and relaxing the right muscles at precisely the right time
+* inhibition of excess and extraneous activity in other muscles
+
+In some senses, speed is effortless.  That's a vast oversimplification, of course!  But there is definitely a refined sense of precise balance at high speed.
+
+Start with fast
+^^^^^^^^^^^^^^^
+
+Just as you can't learn to run without running -- walking really fast won't help -- you can't learn how to play fast without playing fast.  This is the catch-22 of guitar playing (and of most instruments).   It can help to have someone show you, but at some point, you just have to put the pedal to the metal and see what happens.  You must temporarily ignore accuracy and subtleties of touch.  Once you figure out this movement, then yes, go ahead and investigate touch subtleties and accuracy by practising slowly the movement you figured out by speed practising.
+
+.. todo:: continue -- and how to make this accessible for new/intermediate players?  "Play fast by playing fast" doesn't seem helpful.
+
+The clearest way I can think of to explain attaining speed in your playing is to explain how *not* to do it, which is the process given by the "intuitive method" of practice.
+
+
 - "Speed is very much an illusion. The human ear can take just so many sounds. If you play each note clearly, it will sound fast because the ear has to process a lot of information. If you play so fast that either you miss notes, or they become a blur, it doesn’t sound fast at all, it just sounds messy"
 
 * "Speed is a function of movement. Speed walls are always a result of using a movement that has limitations. Rather than trying to break through the speed wall by persistent (and misguided) overpractice of the same movement, go around the speed wall by using a completely different movement." - https://www.pianostreet.com/smf/index.php?topic=5298.msg50376#msg50376
@@ -10,23 +28,14 @@ Speed
 
 https://www.pianostreet.com/smf/index.php?topic=8322.0
 
-Lack of strength is hardly the problem in piano playing. Anyone who has enough strength to make it through the day has enough strength to play a Beethoven concerto.
-
-The problem is co-contraction of antagonistic muscles, i.e. not releasing a muscle in time before an antagonistic muscle contracts. The antagonistic muscle then not only has to overcome the resistance of the keys, but also the resistance of its counterpart muscle. This is a waste of energy and will affect both muscles at the same time. The often used term "relaxation" in piano playing refers to releasing a muscle before its counterpart contracts. Learning to realease and contract in time is a matter of coordination, not a matter of strength. Antagonistic muscle action in piano playing occurs, e.g., in lifting and lowering a finger and in forearm rotation, to name only two examples.
-
 start with fast ...
 
 https://www.pianostreet.com/smf/index.php?topic=4282.msg39817#msg39817
 
-This movement can only be figured out if someone shows you, or if you investigate speed playing by using the chord trick and – for the moment – ignoring accuracy and subtleties of touch. Once you figure out this movement, then yes, go ahead and investigate touch subtleties and accuracy by practising slowly the movement you figured out by speed practising.
+
+
 
 speeding up as long as you are doing it in slow motion. This means that the movements that you perform slowly are exactly the same movements that you would perform at speed. However, if you just practise slowly using all kinds of inappropriate movements – movements you are getting away with simply because you are playing slowly- then incrementally speeding up will land you straight into a speed wall.
-
-Speed is:
-
-- a fast mind
-- fast nervous system impulses to the right muscles
-- no extraneous activity (other muscles)
 
 For a "fast mind" - there are other considerations.  If you practice something slowly, your mind has time to make connections between neurons, different pathways, etc, that it can't make at high speed.  At high speed, your mind will simple "short-circuit" connections to get to where it needs to be.
 

@@ -26,7 +26,6 @@ Rather than follow the above intuitive method, we can cut to the chase and start
    the-nervous-system
    speed
    tension-and-relaxation
-   ease-in-playing
    a-better-practice-routine
 
 .. todo:: verify text here
