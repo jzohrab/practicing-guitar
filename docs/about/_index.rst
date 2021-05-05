@@ -1,6 +1,6 @@
-##########
-Background
-##########
+###############
+About this book
+###############
 
 .. toctree::
    :glob:
