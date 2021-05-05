@@ -8,6 +8,8 @@ About this book
 
 This book is for guitarists.  It offers practical information that you can apply to make your practice sessions more productive, so that you can make better progress in less time than you would if you followed a more "natural, intuitive" method.
 
+By "natural and intuitive," I mean the common advice that the best way to practice is to start slow, and gradually speed up.  Or that the best way to work on something is to repeat it over and over again until you get it under your fingers.  These have their place, but for most people they're not effective.  If they were, we'd see many more proficient guitarists!
+
 Much of the information here comes from literature for other instruments.  For guitar, and rock guitar in particular, there is a ton of information available -- YouTube, websites, guitar forumns, magazines -- but for the most part, I haven't found many offering the same practice tips and techniques as do, say, piano teachers.  This book is a collection of what I consider to be the best from these sources, in some cases presented with no modification, and in others presented with specific adjustments for guitar.
 
 This book does not contain, or tries to avoid, any suggested practice licks, scales, or what have you.  There are loads of tutorials and licks on YouTube and on websites already, and some of those are great.  I'm less interested in giving *yet-another-smokin'-hot-lick*, and more on how you can practice those things to your best advantage.
@@ -17,9 +19,7 @@ Basically, this is the book I wish I'd had when I first started practicing and p
 Outline
 ^^^^^^^
 
-"Part I - Intro" is this section.
-
-"Part I - Basics" gives some basic thoughts that you might find interesting.  It outlines a theory of playing guitar as process of your nervous system, speed, and tension.  Fundamentally, technique is about ease in playing -- how at home you are at the instrument, and how practice and playing is about aligning your brain, nerves, and muscles to all work together fluidly.
+"Part I - On Technique" explains playing guitar as a process of your nervous system, and from there discusses speed and tension.  It also explains why the "intuitive method" of practice doesn't work, and what a more effective practice routine is.  Fundamentally, technique is about ease in playing -- how at home you are at the instrument, and how practice and playing is about aligning your brain, nerves, and muscles to all work together fluidly.
 
 "Part II - Setting up" is about getting organized, scheduling, etc.  How long should you practice?  How should you track things?  Some of this may be obvious to you, but maybe not.
 

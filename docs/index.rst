@@ -13,8 +13,9 @@ A curated source of ideas and techniques for guitar practicing.
    :hidden:
    :name: mastertoc
 
-   part-1-intro/index
-   part-2-basics/index
+   background/index
+   part-1-on-technique/index
+   part-2-setting-up/index
    part-3-techniques/index
    part-4-misc/index
    part-5-appendices/index

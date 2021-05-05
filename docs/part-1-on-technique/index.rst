@@ -1,5 +1,5 @@
 #####################
-Part I - Introduction
+Part I - On Technique
 #####################
 
 .. toctree::
