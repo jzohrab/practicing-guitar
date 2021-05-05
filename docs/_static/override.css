@@ -89,3 +89,9 @@ div.section blockquote p a {
   font-size: 0.875em;
   color: #e74c3c;
 }
+
+table.contenttable td {
+    word-wrap: break-word !important;
+    white-space: normal !important;
+    vertical-align: top !important;
+}

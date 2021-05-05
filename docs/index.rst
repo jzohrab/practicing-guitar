@@ -11,7 +11,7 @@ A curated source of ideas and techniques for guitar practicing.
 
 .. list-table::
    :widths: 25 50
-   :header-rows: 0
+   :class: contenttable
 
    * - :ref:`about`
      - Purpose, outline, q&a
