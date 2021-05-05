@@ -1,3 +1,5 @@
+.. _part-3-techniques:
+
 ##############################
 Part III - Practice Techniques
 ##############################

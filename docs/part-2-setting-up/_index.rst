@@ -1,3 +1,5 @@
+.. _part-2-setting-up:
+
 ####################
 Part II - Setting Up
 ####################

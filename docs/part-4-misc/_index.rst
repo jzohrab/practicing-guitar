@@ -1,6 +1,8 @@
-##############
-Part IV - Misc
-##############
+.. _part-4-misc:
+
+#######################
+Part IV - Miscellaneous
+#######################
 
 .. toctree::
    :glob:
