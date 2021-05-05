@@ -9,7 +9,9 @@ About this book
    :glob:
 
    self
-   *
+   outline
+   faq
+   about-the-author
 
 This book is for guitarists.  It offers practical information that you can apply to make your practice sessions more productive, so that you can make better progress in less time than you would if you followed a more "natural, intuitive" method.
 
