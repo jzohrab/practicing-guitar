@@ -20,6 +20,7 @@ A curated source of ideas and techniques for guitar practicing.
    part-4-misc/index
    part-5-appendices/index
    todo
+   feedback
 
 .. vextab::
 
