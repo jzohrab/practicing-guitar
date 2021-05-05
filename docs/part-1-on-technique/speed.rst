@@ -3,6 +3,9 @@ Speed
 
 - "Speed is very much an illusion. The human ear can take just so many sounds. If you play each note clearly, it will sound fast because the ear has to process a lot of information. If you play so fast that either you miss notes, or they become a blur, it doesn’t sound fast at all, it just sounds messy"
 
+* "Speed is a function of movement. Speed walls are always a result of using a movement that has limitations. Rather than trying to break through the speed wall by persistent (and misguided) overpractice of the same movement, go around the speed wall by using a completely different movement." - https://www.pianostreet.com/smf/index.php?topic=5298.msg50376#msg50376
+
+
 .. todo:: complete and revise
 
 https://www.pianostreet.com/smf/index.php?topic=8322.0

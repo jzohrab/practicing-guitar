@@ -20,9 +20,13 @@ pre, tt, code {
 }
 
 /** Overriding the massive user agent spacing. */
-div, h1, p, ul, dt {
+div, h1, h2, h3, p, ul, dt {
     margin-top: 6px !important;
     margin-bottom: 6px !important;
+}
+
+h2, h3, h4 {
+    margin-top: 12px !important;
 }
 
 div.vex-canvas {
@@ -91,6 +95,11 @@ div.section blockquote p a {
   color: #e74c3c;
 }
 
+div.section blockquote div {
+    background: #fffdd0;
+    padding: 3px;
+}
+
 table.contenttable td {
     word-wrap: break-word !important;
     white-space: normal !important;
@@ -103,4 +112,9 @@ html.writer-html5 .rst-content dl.footnote {
     border-top-width: 1px;
     border-top-style: solid;
     border-top-color: grey;
+}
+
+div.admonition {
+    margin: 0px !important;
+    padding: 6px 12px !important;
 }
