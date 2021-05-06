@@ -25,6 +25,7 @@ Rather than follow the above intuitive method, we can cut to the chase and start
    self
    the-nervous-system
    speed
+   start-slow-fails
    tension-and-relaxation
    a-better-practice-routine
 
