@@ -9,7 +9,7 @@ The ideal practice schedule:
 
 1. Practice hard for 20 minutes.
 2. Take a short break, noting any observations.  Shake things out, stretch.
-3. Go back to step 1, and work on *something different* (don't repeat anything you practiced in this session).
+3. Go back to step 1, and work on *something different*.  You can repeat 20-minute chunks, but they should be spaced out during the day (see :ref:`repeating_chunks` below).
 
 .. note:: Practice as long as you want to, but be sure to break it into these 20-minute chunks.  This is key.
 
@@ -20,7 +20,7 @@ Why 20 minutes?
 * There is a physical component to playing, so rest is essential for smaller muscles.
 * You need to reflect on the work you've done in those 20 minutes.
 
-If you've done focused work during your 20 minutes, that's sufficient for your brain and nervous system to process and adapt during your rest period.  Note that the above says you should work on something different!  You can choose to revisit earlier chunks -- nothing bad will happen if in your next 20 minute practice session you work on the same thing again.  But nothing good will happen either, it will be a waste of time.
+If you've done focused work during your 20 minutes, that's sufficient for your brain and nervous system to process and adapt during your rest period.
 
 .. tip:: Get a timer, set it to 20 minutes, and at the end of 20 minutes, stop!
 
@@ -39,11 +39,13 @@ Motor skills
 
 **Acquisition**
 
-If you're working on a brand new motion, such as trying to increase your picking speed, 20 minutes is long enough for you to experiment, and ensure that you're not accidentally engaging any extra muscles that shouldn't be involved.  It can take a while for your nervous system to establish and refine the optimum signals and pathways.  You can work hard for 20 minutes, but any longer than that will likely be wasted effort.
+If you're working on a brand new motion, such as trying to increase your picking speed, 20 minutes is long enough (maybe too long!) for you to experiment, and ensure that you're not accidentally engaging any extra muscles that shouldn't be involved.  It can take a while for your nervous system to establish and refine the optimum signals and pathways.  You can work hard for 20 minutes, but any longer than that will likely be wasted effort.
 
 **Refinement**
 
-If you are refining an existing motion, such as picking a difficult lick, you can spend 20 minutes on that single motion, or you can try interleaving practice -- that is, work on that motion for a few minutes, and then switch to a *completely different motion* and work on that for a few minutes, then back and forth.
+If you are refining an existing motion, such as picking a difficult lick, you can spend 20 minutes on that single motion, or you can try interleaving practice -- that is, work on that motion for a few minutes, and then switch to a *completely different motion* and work on that for a few minutes, then back and forth.  Within a given 20-minute chunk, I'd suggest interleaving maximum four items, because that way you get 2 reps of 2 minutes per item, plus another few minutes for some quick experiments.
+
+I suggest doing a completely different motion because it's easy to accidentally work on the same technique within practice sessions, and overtire your nerves.  For example, if you're working on one difficult lick, and then working on arpeggios, both of those might be pushing your picking skills to the limit, which might be hard to manage.  So, instead of picking everything, you could try fretting-hand-only legato technique, or chord shifts, etc.  (Note: like everything I've presented here and elsewhere, it's up to you!)
 
 With either concentrated or interleaved practice, be on the lookout for fatigue, either physical or mental.  Those will lead to "false technique" -- your body recruiting extraneous muscles and motions to accomplish the task, which, while giving you the illusion of progress, are actually harmful and will need to be undone!
 
@@ -84,6 +86,15 @@ Rest
 ----
 
 When you're done the 20 minutes, take a short break.  Stretch, relax, make notes.  Your mind, nerves, and muscles need to take a moment to refresh.
+
+.. _repeating_chunks:
+
+Repeating 20-minute chunks
+--------------------------
+
+For motor skill aquisition, it's very good to do short bursts of practice a few times a day.  Do a short practice session, take a break for an hour or so, and then repeat that same session.  Do that a few times.
+
+The rest period allows your body to make some quick adjustments.  Don't expect to see improvement within the same day, but after a longer rest, things might come together.  Especially with interleaved practice (of a few items), you can cover a lot of ground.
 
 Day-to-day Schedule
 -------------------
