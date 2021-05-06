@@ -123,12 +123,18 @@ class VextabDirective(SphinxDirective):
         content = self.content
         width = self.options.get('width', 800)
         example = self.options.get('example', None)
+        noexample = 'noexample' in self.options
         debug = 'debug' in self.options
 
         if example == 'pending':
             if not hasattr(self.env, 'vextab_pending_examples'):
                 self.env.vextab_pending_examples = []
             self.env.vextab_pending_examples.append(self.env.docname)
+
+        if not noexample and example is None:
+            if not hasattr(self.env, 'vextab_needs_examples'):
+                self.env.vextab_needs_examples = []
+            self.env.vextab_needs_examples.append(self.env.docname)
 
         return [vextab(content=self.content, width=width, example=example, debug=debug)]
 
@@ -149,12 +155,20 @@ def print_pending_examples(app, exception):
         e = [ "* {0}".format(s) for s in exs ]
         print('\n'.join(e))
         print('\n')
-        
+
+def print_needs_examples(app, exception):
+    if hasattr(app.env, 'vextab_needs_examples'):
+        exs = list(set(app.env.vextab_needs_examples))
+        print('\nNeed examples:')
+        e = [ "* {0}".format(s) for s in exs ]
+        print('\n'.join(e))
+        print('\n')
 
 def setup(app):
     app.add_node(vextab, **_NODE_VISITORS)
     app.add_directive("vextab", VextabDirective)
     app.connect('build-finished', print_pending_examples)
+    app.connect('build-finished', print_needs_examples)
 
     return {
         'version': '0.1',
