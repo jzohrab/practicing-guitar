@@ -96,6 +96,7 @@ In the above example, notice that the note after the dotted note is a regular 16
 
 .. vextab::
    :width: 600
+   :noexample:
 
    tabstave notation=true tablature=false
    voice
@@ -118,6 +119,7 @@ Here are two other voices, one playing a dotted rhythm and the other playing str
 
 .. vextab::
    :width: 600
+   :noexample:
 
    tabstave notation=true tablature=false
    voice

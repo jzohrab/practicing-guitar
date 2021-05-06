@@ -116,6 +116,7 @@ class VextabDirective(SphinxDirective):
     option_spec = {
         "width": directives.unchanged,
         "example": directives.unchanged,
+        "noexample": directives.unchanged,
         "debug": directives.unchanged
     }
 
@@ -151,7 +152,7 @@ _NODE_VISITORS = {
 def print_pending_examples(app, exception):
     if hasattr(app.env, 'vextab_pending_examples'):
         exs = list(set(app.env.vextab_pending_examples))
-        print('\nThere are some pending examples:')
+        print('\nVextab, pending examples:')
         e = [ "* {0}".format(s) for s in exs ]
         print('\n'.join(e))
         print('\n')
@@ -159,7 +160,7 @@ def print_pending_examples(app, exception):
 def print_needs_examples(app, exception):
     if hasattr(app.env, 'vextab_needs_examples'):
         exs = list(set(app.env.vextab_needs_examples))
-        print('\nNeed examples:')
+        print('\nVextab, need examples:')
         e = [ "* {0}".format(s) for s in exs ]
         print('\n'.join(e))
         print('\n')
