@@ -43,3 +43,15 @@ would have an opportunity to prepare himself for the
 next section. But to learn to play this piece fast and without stops the pupil would have to learn to think fast.
 
 Outlining: only play the "main" notes of a phrase, and make sure they're clearly accented in your mind.
+
+
+If a pianist plays a passage without regular natural accentuation (these accents should be very light, hardly
+audible), no matter how distinct his finger work is, he
+will give his listeners the impression that his playing is
+somewhat indistinct. Regularity of metrical division is
+important for clear auditory perception of performed music as well as for execution,
+
+When any exercise, scale or section of a passage is singled out for
+practice, it must always be divided into clearly accented,
+regular metrical groups. It must also be finished on the
+strong beat to give a proper feeling for the end of the unit.
