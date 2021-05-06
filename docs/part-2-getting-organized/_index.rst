@@ -11,6 +11,7 @@ A big part of effective practice is about getting organized, and chunking your p
 
    self
    time-and-schedule
+   practicing-repertoire
    organization
    experimentation-and-observation
    practice-journal
