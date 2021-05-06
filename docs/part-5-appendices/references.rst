@@ -3,7 +3,7 @@
 References
 ----------
 
-.. todo:: fill in content for references.rst
+.. todo:: organize references
 
 * "Freeing the Caged Bird" by Barbara Lister-Sink
 
@@ -37,3 +37,5 @@ In retrospect, eliminating excess tension using the ideas from the "Freeing the 
 
 http://www.pianopractice.org/
 
+
+* By far the best video I've seen for guitarists on this topic is by Troy Grady, in his terrific video `"Don't "Work Up" To Picking Speed — Start With It!" <https://www.youtube.com/watch?v=RPVpw2seK9E>`__   An absolute must-watch!
