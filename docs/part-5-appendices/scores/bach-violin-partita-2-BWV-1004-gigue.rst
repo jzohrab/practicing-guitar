@@ -1,5 +1,7 @@
-Gigue from BWV 1004 Violin Partita no. 2, J.S. Bach
-===================================================
+.. _bach_bwv_1004_gigue:
+
+Gigue, BWV 1004 Violin Partita no. 2, J.S. Bach
+===============================================
 
 .. vextab::
 

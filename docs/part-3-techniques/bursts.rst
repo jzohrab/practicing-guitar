@@ -44,6 +44,8 @@ In the mid-90's Paul Gilbert had advised guitarists learning sweep picking to wo
    notes :16 8d/1 5u/1 6u/2 5u/3 8d/1 5u/1 6u/2 5u/3 8d/1 5u/1 6u/2 5u/3 8d/1 5u/1 6u/2 5u/3 =:|
 
 
+.. _trouble_with_bursts:
+
 The trouble with bursts
 -----------------------
 
