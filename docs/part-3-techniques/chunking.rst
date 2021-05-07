@@ -20,7 +20,7 @@ If you try to play this passage without dividing it into several groups with reg
 
 .. vextab::
 
-   notes :16 5d-7-5-4-5/3
+   notes :16 5-7-5-4-5/3
    text  :16,.12,go,go,go,go,blarg...
 
 Too much thought = confusion.
@@ -31,7 +31,7 @@ For this particular lick, it makes sense to group things on every beat, so each 
 
 .. vextab::
 
-   notes :16 5d-7-5-4/3 5d-7/3 5-6/2 8d-5-6-8/2 5d-7-8-7/1 | :h 8/1
+   notes :16 5-7-5-4/3 5-7/3 5-6/2 8-5-6-8/2 5-7-8-7/1 | :h 8/1
    text  :q,.12,go,go,go,go,:h,.12,nice!
 
 Where to chunk?
@@ -39,12 +39,12 @@ Where to chunk?
 
 Guideline: Chunk where you want the accents to go.
 
-In the above example, I chunked on each beat, because it makes sense to slightly, even imperceptibly, accent on each beat.  Had I accented at first note on each string change, the lick might come out in some kind of different feel:
+In the above example, I chunked on each beat, because it makes sense to slightly, even imperceptibly, accent each beat.  Had I chunked on each string, the lick would come out differently:
 
 .. vextab::
 
    notes :16 5/3 $.a>/top.$ 7-5-4-5-7/3 5/2 $.a>/top.$  6-8-5-6-8/2 5/1 $.a>/top.$ 7-8-7/1 | :h 8/1
-   text  :qd,.21,go,go,:q,go,:h,.21,hmmm...
+   text  :qd,.22,go,go,:q,go,:h,.22,hmmm...
 
 Practicing chunks
 -----------------
@@ -54,12 +54,12 @@ Since each chunk is an impulse unit, you can practice them individually.  (You'l
 .. vextab::
    :width: 400
 
-   notes :16 5d/3 $.a>/top.$ 7-5-4/3 :q 5d/3 $.a>/top.$
+   notes :16 5/3 $.a>/top.$ 7-5-4/3 :q 5/3 $.a>/top.$
 
 .. vextab::
    :width: 400
 
-   notes :16 5d/3 $.a>/top.$ 7/3 5-6/2 :q 8/2 $.a>/top.$
+   notes :16 5/3 $.a>/top.$ 7/3 5-6/2 :q 8/2 $.a>/top.$
 
 By accenting the first note, you're reinforcing the chunk.
 
@@ -74,7 +74,8 @@ If, like an utter madman, you wanted to play this lick at some ungodly tempo, yo
 
 .. vextab::
 
-   :32 5/3 $.a>/top.$ 7-5-4-5-7/3 5-6/2 8/2 $.a>/top.$ 5-6-8/2 5-7-8-7/1 | :h 8/1
+   notes :32 5/3 $.a>/top.$ 7-5-4-5-7/3 5-6/2 8/2 $.a>/top.$ 5-6-8/2 5-7-8-7/1 | :h 8/1
+   text  :q,.22,ehr,mah,:h,.22,gerd
 
 Outlining
 ---------
