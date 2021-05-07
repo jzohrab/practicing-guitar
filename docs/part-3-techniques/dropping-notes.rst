@@ -189,7 +189,7 @@ Until you reach the end.  Then, depending on how you feel, you can repeat the pr
 
    tabstave notation=true
    voice
-   notes :8 6/4 h7/4 :q 0/2 :8 T0/2 5/3 :q 3/2
+   notes :8 6/4 h7/4 :q 0/2 :8 t0/2 5/3 :q 3/2
    voice
    notes :w 7/6
 
@@ -197,7 +197,7 @@ Until you reach the end.  Then, depending on how you feel, you can repeat the pr
 
    tabstave notation=true
    voice
-   notes :8 6/4 h7/4 :q 0/2 :8 T0/2 5/3 :q 3/2
+   notes :8 6/4 h7/4 :q 0/2 :8 t0/2 5/3 :q 3/2
    voice
    notes :q 7/6 7/6 :h t7/6
 
