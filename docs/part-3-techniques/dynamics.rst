@@ -1,11 +1,8 @@
 Dynamics
 --------
 
-.. todo:: complete this
-
 .. tech:technique:: dynamics
    :displayname: Dynamics
-   :status: TODO
 
    Vary the volume of your playing using only your hands and fingers.
 
