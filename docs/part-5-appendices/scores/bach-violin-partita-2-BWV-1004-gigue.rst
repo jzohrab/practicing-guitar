@@ -27,4 +27,32 @@ Gigue, BWV 1004 Violin Partita no. 2, J.S. Bach
    notes :16 11/2 10/2 11/2 10/1 9/3 8/2 10/2 8/2 10/2 8/1 7/3 10/3 8/2 6/2 8/2 6/1 5/3 5/2 6/2 5/2 6/2 5/1 8/2 6/2 |
 
 
-.. todo:: complete this score
+   tabstave notation=true key=F time=12/8
+   notes :16 5/2 7/3 5/2 6/2 5/2 7/3 5/3 8/4 5/3 7/3 5/3 8/4 7/4 8/4 5/3 6/2 5/3 7/4 8/5 5/4 7/4 5/3 7/4 8/5 |
+
+   # Ending with Gm arpeggio
+   tabstave notation=true key=F time=12/8
+   notes :16 5/5 6/5 8/5 8/4 8/5 5/5 6/6 8/6 5/5 8/5 5/5 6/6 3/6 6/6 5/5 5/4 8/4 7/3 8/2 6/1 8/2 7/3 8/4 5/4  |
+
+   # Alternating Cdom and F arpeggios
+   tabstave notation=true key=F time=12/8
+   notes :16 7/5 5/4 10/4 9/3 8/2 11/2 10/4 8/4 10/4 11/2 10/4 11/2 8/5 7/4 10/4 9/3 6/2 10/2 10/4 8/4 10/4 10/2 10/4 10/2 |
+
+   # repeat
+   tabstave notation=true key=F time=12/8
+   notes :16 7/5 10/5 10/4 9/3 8/2 11/2 10/4 8/4 10/4 11/2 10/4 11/2 8/5 7/4 10/4 9/3 6/2 10/2 10/4 8/4 10/4 10/2 10/4 10/2 |
+
+   #
+   tabstave notation=true key=F time=12/8
+   notes :16 8/4 7/3 6/2 10/2 6/1 10/1 9/3 7/3 9/3 10/1 9/3 10/1 7/4 10/4 9/3 8/2 10/2 13/2 12/4 10/4 12/4 13/2 12/4 13/2 |
+
+   #
+   tabstave notation=true key=F time=12/8
+   notes :16 10/5 8/4 12/4 10/3 8/2 11/2 10/4 8/4 10/4 11/2 10/4 11/2 8/5 7/4 10/4 9/3 6/2 10/2 10/4 8/4 10/4 10/2 6/2 7/3 |
+
+   # Desc to C arpeggio
+   tabstave notation=true key=F time=12/8
+   notes :16 8/4 7/4 8/4 5/3 7/3 8/4 5/4 8/5 5/4 7/4 8/4 5/4 7/5 5/5 7/5 8/5 5/4 7/5 8/6 7/5 5/4 5/3 :8 9/3 |
+   
+.. todo:: complete this score, and fix d# (5/5 6/5 8/5 ... the 6/5 should be Eb, not D#)
+   
