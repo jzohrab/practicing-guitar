@@ -13,6 +13,8 @@ For improvement to happen, your practice sessions need to send a clear message t
 
 Once that clear message has been given to the subconscious mind and nervous system, effectively your practice of that particular skill or passage is done!  Your nervous system takes time to sythesize all of the information given to it, and to adapt to the new stresses by forming or strengthening nerve pathways and connections in the brain.  That synthesis happens during rest, and not during practicing.  A good night's sleep is often the best, but you may even find that you can practice something hard for 5 to 10 minutes, take several hours' break, and then come back to it.
 
+.. _excitation_and_inhibition:
+
 Excitation and inhibition
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
