@@ -55,6 +55,8 @@ Play around with the tempo, slowing down if needed to double-check your placemen
 
 Repeat this until your attention tires, or your hand tires, then shake it out, relax, breathe, and repeat.  The hammer group itself should end up feeling effortless, as you're just lightly hammering to fret the notes.
 
+.. tip:: You also work on hammer groups away from the guitar throughout the day.  You may already be able to tap your fingers quickly in succession on a desk as "1-2-3-4" or "4-3-2-1", but "3-2-4-1" is new and weird.  Try it out and get it smooth and fast.  If you can do it easily on your desk, it will translate to guitar.
+
 The fastest that you can play this hammer group with strict rhythmic accuracy is the upper limit of your speed.  You'll still have to deal with joining hammer groups (see "Joining Groups" below), but this concept reduces fretting to very small units that can be run lightning fast.
 
 Other Hammer Groups
