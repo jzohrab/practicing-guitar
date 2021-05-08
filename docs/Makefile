@@ -19,7 +19,7 @@ help:
 .PHONY: help Makefile
 
 todos:
-	find . -name '*.rst' -print0 | xargs -0 grep 'todo::'
+	find . -name '*.rst' -print0 | xargs -0 grep 'todo::' | sed 's/^/**** /g'
 
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
