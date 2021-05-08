@@ -27,6 +27,5 @@ Rather than follow the above intuitive method, we can cut to the chase and start
    speed
    start-slow-fails
    tension-and-relaxation
-   a-better-practice-routine
 
 .. todo:: verify text here

@@ -1,5 +1,5 @@
-A Better Practice Routine
--------------------------
+A Practice Routine
+------------------
 
 .. todo:: fill in content for a-better-practice-routine.rst
 

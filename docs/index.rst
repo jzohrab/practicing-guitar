@@ -16,9 +16,9 @@ A curated source of ideas and techniques for guitar practicing.
    * - :ref:`about`
      - Purpose, outline, q&a
    * - :ref:`part-1-on-technique`
-     - The role of the central nervous system, speed, tension and relaxation, and an effective practice routine
+     - The role of the central nervous system, speed, tension and relaxation
    * - :ref:`part-2-getting-organized`
-     - How long to practice, experimenting and observing
+     - How long to practice, experimenting and observing, and a possible practice routine
    * - :ref:`part-3-techniques`
      - Practice techniques and variations to learn licks, technique, and repertoire more quickly and thoroughly
    * - :ref:`part-4-misc`

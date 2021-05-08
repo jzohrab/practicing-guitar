@@ -15,3 +15,4 @@ A big part of effective practice is about getting organized, and chunking your p
    organization
    experimentation-and-observation
    practice-journal
+   a-practice-routine
