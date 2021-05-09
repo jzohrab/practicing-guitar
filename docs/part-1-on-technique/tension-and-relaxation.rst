@@ -61,7 +61,7 @@ Merce Font is a classical guitarist.  Her fretting hand relaxation drill is succ
 Picking hand
 ^^^^^^^^^^^^
 
-I used to have a *pile* of tension in my picking hand and arm, so I borrowed some ideas from a superb piano teacher, Barbara Lister-Sink, and came up with these drills, which have helped me immensely:
+I used to have a *pile* of tension in my picking hand and arm, so I borrowed some ideas from a superb piano teacher, Barbara Lister-Sink, and adapted them for guitar.  They've helped me immensely.
 
 .. youtube:: 0w0Snc40ejY?start=107
 
