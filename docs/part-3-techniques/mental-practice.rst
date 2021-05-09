@@ -9,14 +9,42 @@ Mental practice
 
    Play away from the instrument.
 
+Mental practice, or Music in the mind is what we shall call Mental Play (MP). MP is the process of playing
+the music in your mind, or on an imaginary piano [Richard, Francois L.,].
+
+It is so all-encompassing that it is not possible to devote one
+section to explaining it; rather, it permeates practically every section of this book.
+
+advanced athletes,
+such as skiers and golfers, for whom MP is a necessity and has been taught and developed for
+decades.
+
+MP must be taught because (1) if not taught, there will be a wide range of use of MP
+among pianists, from almost none at all, to experts. (2) Because it is so necessary, teachers
+need to develop MP teaching into a fully developed expertise so as to make full use of it, to
+accelerate the development of musicianship. (3) MP is so powerful, useful, and allencompassing that, if not taught, students will never make full use of it; it's like the difference
+between self teaching piano without any help, and having a good teacher.
+
+MP provides a clearer understanding of the structure of the
+composition, etc., because you can now analyze them in your head. You can even "practice"
+without a piano, at speeds that the fingers cannot manage.
+
+In order to memorize well, it is necessary to practice memory away from the piano using
+MP. This saves time because you can practice even when no piano is available, and greatly
+strengthens the memory because you don't have the piano and hand memory as "crutches".
+
+concept that all mistakes originate in the brain. Test your memory with MP and it will reveal
+how much you still depend on hand memory even after you had acquired keyboard, etc.,
+memory. MP is one of the best tests of memory.
+
+Don't be passive and
+wait for the music to come out of the piano, but actively anticipate the music you want to
+produce – which is the ultimate MP and the best way to execute a convincing performance.
+
+
+
 “The full acoustic picture of the music must be lodged in the mind, before it can be expressed through the hands.” Then the “playing is simply the manual expression of something [a pianist] knows.”™
 —Josef Hofmann
-
-It should be a rule that everything has to be played
-without mistakes from the very beginning, to save time
-and energy.
-
-1 analyze, 2 play at slow tempo, 3 
 
 "Walter Gieseking once said that the main factor in technique is the brain; the main condition for technique is
 concentration; and the main subject of technique is evenness."
@@ -25,22 +53,13 @@ concentration; and the main subject of technique is evenness."
 thoughts which direct his fmgers on the keyboard. ‘Therefore his velocity depends first on his mental agility in
 grasping printed music and coordinating finger movements.”
 
-
 achieve technique, not by the amount of time spent in
 practicing, but by the quality of this labor, by the strength
 of will and attention directing the mind on musical problems. Hugo Riemann wrote: “It is impossible to develop
 velocity otherwise than through exercise of the telegraphic
-apparatus from brain to muscles. The process from withinoutward cannot be replaced by anything.” Theodor
+apparatus from brain to muscles. The process from within outward cannot be replaced by anything.” Theodor
 Leschetizky used to say that intellect played the chief
 part in correct study; he recommended correcting mistakes mentally before playing a passage again.
-
-It is evident, then, that the main attention of thoughtful pianists and piano teachers should be directed to
-questions connected with the activity of the central nervous system. The roots of technique are in our central
-nervous system, The problems connected with muscular
-conditions and outward appearance of our playing apparatus are important, but they are secondary.
-
-
-https://practisingthepiano.com/some-ideas-for-mental-practice/
 
 
 
