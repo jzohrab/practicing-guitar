@@ -11,8 +11,6 @@ If playing is about the central nervous system functioning at a high level, then
 
 For improvement to happen, your practice sessions need to send a clear message to your nervous system about what you're trying to accomplish.  You can clearly say, "I want to do this," and can also try to mimic the motions used by other players, but then your subconscioun and reflexes take over.  You must sit back and carefully observe what's happening, listening to the quality of the tone you're getting, and observing any accumulated physical tension or stiffness which might indicate a problem, consciously making mindful adjustments if necessary.  The conscious mind can also help push you along -- "faster, faster, easier, easier."
 
-Once that clear message has been given to the subconscious mind and nervous system, effectively your practice of that particular skill or passage is done!  Your nervous system takes time to sythesize all of the information given to it, and to adapt to the new stresses by forming or strengthening nerve pathways and connections in the brain.  That synthesis happens during rest, and not during practicing.  A good night's sleep is often the best, but you may even find that you can practice something hard for 5 to 10 minutes, take several hours' break, and then come back to it.
-
 .. _excitation_and_inhibition:
 
 Excitation and inhibition
@@ -32,6 +30,15 @@ Boring practice material is boring.  Sometimes the physical thrill of picking at
 That's a fancy way of saying "don't bore yourself."  If you have to use exercises, base them on your repertoire: tunes, licks, and solos.  Make them musical, make them something you can use.
 
 (Some tout the idea of practicing while watching TV or similar.  I've never gotten any real value out of that, maybe you do, give it a shot.  Keep in mind that it's a good idea to periodically observe your playing though.  It's easy to pick up bad technique unnoticed.)
+
+Rest
+^^^^
+
+Once you've practiced a section, and a clear message has been given to the subconscious mind and nervous system about what you're aiming for, effectively your practice of that particular skill or passage is done!
+
+Your nervous system takes time to sythesize all of the information given to it, and to adapt to the new stresses by forming or strengthening nerve pathways and connections in the brain.  That synthesis happens during rest, and not during practicing.  A good night's sleep is often the best, but you may even find that you can practice something hard for 5 to 10 minutes, take several hours' break, and then come back to it.
+
+   Sometimes excessive industry and strenuous practicing can result in failure. The more persistently one tries, the worse the results. Fatigue of the central nervous system, which is not noticed by the player, is the reason for this failure. When in despair he abandons his efforts and later resumes his work, he notices that many, if not all, obstacles are miraculously gone. Fatigue is alleviated by rest. With a fresh start, the results of previous practicing show themselves clearly.  `Kochevitsky, "The Art of Piano Playing: a Scientific Approach <https://books.google.ca/books?id=J6ZyCgAAQBAJ&pg=PA29&lpg=PA29#v=onepage&q&f=false>`
 
 
 ---
