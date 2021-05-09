@@ -27,5 +27,3 @@ Rather than follow the above intuitive method, we can cut to the chase and start
    speed
    start-slow-fails
    tension-and-relaxation
-
-.. todo:: verify text here

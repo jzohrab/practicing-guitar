@@ -1,11 +1,10 @@
 A Practice Routine
 ------------------
 
-.. todo:: fill in content for a-better-practice-routine.rst
+(This is something of a summary of everything thus far, and might be redundant!)
 
-This is something of a summary of everything thus far, and might be redundant!
+Here's a way to structure a practice routine.  Tweak it until it works for you.
 
-If you have some repertoire and some technical items to work on, here's how you might structure it:
 
 Prep
 ++++
@@ -18,6 +17,7 @@ Go
 +++
 
 * Start your 20-minute timer, and do your concentrated practice.
+
   * If the problem you're tackling is too big, see if you can reduce it to manageable chunks.
   * Pay attention to your tone and rhythmic evenness.  No mindless reps!  A short pause between each attempt of a passage can help you process what you've done, and prep for the next attempt.
   * Always aim for ease during playing, and be on the lookout for any accumulated tension, which you must try to avoid.
@@ -31,5 +31,3 @@ Review
 * Repeat.
 
 If you can swing it, see if you can break your practice time up.  e.g., if you're working on something technical, then repeating the 20-minute block of interleaved practice a few times a day is super.
-
-Nothing above is hard-and-fast!  Tweak it until it works for you.
