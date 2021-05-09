@@ -3,7 +3,7 @@ Tension and Relaxation
 
 *Side note:* In some ways, "tension and relaxation" are inaccurate terms.  It's not possible to play completely relaxed, there will always be some degree of tension, or activation, involved in playing.  We should really be talking about the degree of muscle contraction needed for this or that motor act ... But we'll use those terms anyway, because they're so handy!
 
-Tension itself is not *necessarily* bad, provided it is immediately released.  The real killer is *accumulated* tension.  This is the tension that hangs around and builds up in your forearm or wrist, or even in your back, torso, forehead, wherever.  It’s easy to think of this tension as a necessary component for playing `[#]_`.  It's not.
+Tension itself is not *necessarily* bad, provided it is immediately released.  The real killer is *accumulated* tension.  This is the tension that hangs around and builds up in your forearm or wrist, or even in your back, torso, forehead, wherever.  It’s easy to think of this tension as a necessary component for playing [#]_.  It's not.
 
 (There is a physical side to playing, of course.  Your muscles still have to move as you play, and you are giving muscles a workout. But these are very extremely tiny muscles, very fine tuned. You should never have any extreme stress.)
 
