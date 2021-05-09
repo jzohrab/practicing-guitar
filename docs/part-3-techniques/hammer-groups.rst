@@ -6,7 +6,7 @@ Hammer Groups
 
    Work on fretting hand issues by reducing consecutive notes to a single chord (effecively playing those chunks at infinite speed), and then play them as a lightning-fast arpeggio by offsetting each note extremely slightly.
 
-Hammer Groups are groups of notes that can be hammered simultaneously with your fretting hand, like a chord.  You then "slow it down" to a very fast speed by slightly offsetting the contact time of each finger, keeping the time interval between each finger drop as accurate as possible.
+Hammer Groups are groups of notes that can be hammered simultaneously with your fretting hand, like a chord.  You then "slow it down" to a very fast speed by slightly offsetting the contact time of each finger, keeping the time interval between each finger drop as accurate as possible.  Try different fingerings and positions to sort out the most comfortable one for your hand.
 
 Example
 +++++++
@@ -28,7 +28,7 @@ We can take any part of it that contains notes that we can fret simultaneously, 
    tabstave notation=true key=F
    notes :16 8/4 $3$ 7/3 $2$ 8/2 $4$ 6/1 $1$
 
-The above section uses each fretting finger once, so we can depress all of these notes as a chord.  We can lightly hammer-on all of them as a unit, and "bounce" up and down on the chord:
+The above section uses each fretting finger once, so we can depress all of these notes as a chord.  We can lightly hammer-on all of them as a unit, and "bounce" up and down on the chord to ensure it's comfortable:
 
 .. vextab::
    :width: 400
@@ -107,6 +107,6 @@ Then join these two impulse groups together:
    tabstave notation=true key=F
    notes :32 3/6 $1$ 6/6 $3$ 5/5 $2$ 5/4 $1$ 8/4 $3$ 7/3 $2$ 8/2 $4$ |
 
-You'll need to spend some time doing trial-and-error of motions for the jump and position shift.  Make sure you stay loose, schedule a few short practice sessions per day for it (motor skill acquisition).  Stay loose!
+You'll need to spend some time doing trial-and-error of motions for the jump and position shift.  Stay loose, and schedule a few short practice sessions per day, and it will become more natural and automatic.
 
-.. note:: This technique is of limited scope, in that you can only hammer up to 4 notes at the same time; however, it still can provide some valuable insight into your fretting hand.  Initially, the key is the ease and rhythmic accuracy of each hammer group; then the joining of the groups.
+.. note:: This technique may seem limited, since you can only hammer up to 4 notes at the same time; however, it can give valuable insight.  Since each rep is very short, you can try many short tests to find the best fingering and hand position.  The key is the rhythmic accuracy and ease of each group.

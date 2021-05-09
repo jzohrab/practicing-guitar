@@ -37,12 +37,13 @@ You can reduce the fretting hand to a series of hammer-ons (each note is hammere
    tabstave notation=true key=F time=12/8
    notes :16 3/6 $H 1$ 6/6 $H 3$ 5/5 $H 2$ 5/4 $H 1$ 8/4 $H 3$ 7/3 $H 2$ 8/2 $H 4$ 6/1 $H 1$ 8/2 $H 4$ 7/3 $H 2$ 8/4 $H 3$ 5/4 $H 1$
 
-For the picking work, you can just mute all the strings (and give your fretting hand a break):
+For the picking work, you can just mute all the strings (and give your fretting hand a break), or just lay your middle finger across the 12th fret to get harmonics:
 
 .. vextab::
 
    tabstave notation=false time=12/8
-   notes :16 Xd/6 Xu/6 Xd/5 Xu/4 Xd/4 Xu/3 Xd/2 Xu/1 Xd/2 Xu/3 Xd/4 Xu/4
+   notes :16 12d/6 12u/6 12d/5 12u/4 12d/4 12u/3 12d/2 12u/1 12d/2 12u/3 12d/4 12u/4
+   text :w,(all 12th fret harmonics)
 
 Having split the passage up, work on a chunk of the passage with the left hand, until it tires.  This can be as short as 30 seconds, depending on what you're working on, but shouldn't exceed two minutes.  Then switch to the right hand, working a short chunk.  Then repeat this for your practice session for this lick, which shouldn't exceed 20 minutes.
 
