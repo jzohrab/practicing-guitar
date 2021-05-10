@@ -29,5 +29,16 @@ Also see the :ref:`techniqueindex` and the :ref:`techniqueratingindex`.
    :maxdepth: 3
    :glob:
 
-   *
-   todo-techniques
+   bursts
+   chaining
+   chunking
+   dropping-notes
+   dynamics
+   ghosting
+   hammer-groups
+   hands-separate
+   mental-practice
+   rhythmic-variations
+   slow-practice
+   tempo-variations
+   other
