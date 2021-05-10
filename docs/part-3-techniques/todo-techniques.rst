@@ -15,6 +15,13 @@ These techniques that still require documentation.  In some cases, they have rou
 * Silent chord press
 * Cycling (same groups of notes)
 * Right-over-left tapping (per Glen Gould practice)
+* Repeated Note Groups: Chaining on steroids: take a passage, and briefly work on the two-note chains starting at every single note.  Then do three-note chains, then four, and so on, until you've thoroughly explored every twist and turn.
+
+  * www.pianostreet.com/smf/index.php?topic=4858.msg46594#msg46594, starting at "it overrides the 20 minute rule."
+  * www.pianostreet.com/smf/index.php?topic=4858.msg46601#msg46601
+  * B notes: www.pianostreet.com/smf/index.php?topic=2449.msg21204#msg21204
+  * www.pianostreet.com/smf/index.php/topic,2449.msg21217/topicseen.html#msg21217
+  * chunks of 2, 3, 4 notes, etc.  keep the picking correct (upstroke/downstroke)
 
 Misc
 ----
