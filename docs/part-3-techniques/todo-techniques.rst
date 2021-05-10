@@ -1,13 +1,8 @@
 (Pending Documentation)
 =======================
 
-These techniques that still require documentation.  In some cases, they have rough notes, which are reminders for me of points I wish to reference or include in the final documentation.
+These are rough ideas for techniques that *may* still require documentation -- I'm not sure if they're worth including, actually.
 
-.. todo::
-
-   Document techniques listed here
-
-.. Use the ./template.txt for each technique below to fill it in.
 
 * Vary picking approach
 * Rest variations
@@ -15,6 +10,7 @@ These techniques that still require documentation.  In some cases, they have rou
 * Silent chord press
 * Cycling (same groups of notes)
 * Right-over-left tapping (per Glen Gould practice)
+* Simplify: Break any movement into distinct building blocks, and practice those building blocks separately, aiming for higher speeds than your target tempo.  Then combine them.  (This one seems almost silly ... not sure if useful!) B notes: https://www.pianostreet.com/smf/index.php?topic=3371.msg30144#msg30144
 * Repeated Note Groups: Chaining on steroids: take a passage, and briefly work on the two-note chains starting at every single note.  Then do three-note chains, then four, and so on, until you've thoroughly explored every twist and turn.
 
   * www.pianostreet.com/smf/index.php?topic=4858.msg46594#msg46594, starting at "it overrides the 20 minute rule."
