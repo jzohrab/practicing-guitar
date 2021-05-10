@@ -37,3 +37,16 @@ of the main problems of piano technique. The teacher
 must strive to develop this ability in his pupils.
 
 Slow and extremely even playing is indispensable, not only for obtaining clear proprioceptive sensations but for strengthening the inhibitory process.
+
+
+For any passage with complex left hand movements, play with loud, distinct, clear stacatto hammers, at a slow tempo.
+
+Legato scale practice
+
+Fingers in position above string
+staccato touch
+pianissimo, all attention on fingertips
+down with one finger, up with the adjacent, synchronized
+*slight* press of the string once fretted, to strengthen the connection
+
+This is tiring work, for the central nervous system.
