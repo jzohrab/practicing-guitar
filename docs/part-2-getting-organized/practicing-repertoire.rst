@@ -3,9 +3,9 @@
 Practicing Repertoire
 ---------------------
 
-Playing pieces (songs, solos, etc) is fun, but it's extremely easy to play through a piece and gloss over tough passages!
+Playing pieces -- songs, licks, solos -- is fun, but it's extremely easy to play through a piece and either gloss over tough sections, or try to work on the whole thing at once.
 
-For practicing passages in repertoire, the 20 minute rule is still in effect, but the important aspect is this: you should have a passage **perfect** at the end of that 20 minutes.
+For practicing repertoire, the 20 minute rule is still in effect, but the important aspect is this: you should have a passage **perfect** at the end of that 20 minutes.  (A passage can be a single measure, or a single component of a piece, such as the thumb picking of Travis picking.)
 
 If it is taking more than that, then the passage you chose to work on is too big, or contains too many challenges to be tackled in 20 minutes.
 
