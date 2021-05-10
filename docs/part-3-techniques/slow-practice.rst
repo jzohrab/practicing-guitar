@@ -50,3 +50,6 @@ down with one finger, up with the adjacent, synchronized
 *slight* press of the string once fretted, to strengthen the connection
 
 This is tiring work, for the central nervous system.
+
+
+Periodically, use the pick to stop any string from ringing immediately after you've picked it.  This regulates the strength of your impulses, and exercises the inhibitory reflex.
