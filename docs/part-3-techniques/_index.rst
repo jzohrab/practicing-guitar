@@ -30,3 +30,4 @@ Also see the :ref:`techniqueindex` and the :ref:`techniqueratingindex`.
    :glob:
 
    *
+   todo-techniques

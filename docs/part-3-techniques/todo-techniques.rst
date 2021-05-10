@@ -1,5 +1,5 @@
-(Pending Documentation)
-=======================
+Other Techniques
+================
 
 These are techniques that *may* still require documentation.  At this moment, I'm not sure they're really useful or if more detail is necessary.
 
