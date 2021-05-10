@@ -4,11 +4,12 @@
 These are rough ideas for techniques that *may* still require documentation -- I'm not sure if they're worth including, actually.
 
 
-* Vary picking approach
+* Change your picking
 * Rest variations
 * Sequencing (e.g, for 1-2-3-4-5 lick, play 1-2-3-4, then 2-3-4-5- etc)
 * Silent chord press
 * Cycling (same groups of notes)
+* Staccato picking
 * Right-over-left tapping (per Glen Gould practice)
 * Simplify: Break any movement into distinct building blocks, and practice those building blocks separately, aiming for higher speeds than your target tempo.  Then combine them.  (This one seems almost silly ... not sure if useful!) B notes: https://www.pianostreet.com/smf/index.php?topic=3371.msg30144#msg30144
 * Repeated Note Groups: Chaining on steroids: take a passage, and briefly work on the two-note chains starting at every single note.  Then do three-note chains, then four, and so on, until you've thoroughly explored every twist and turn.
@@ -18,20 +19,3 @@ These are rough ideas for techniques that *may* still require documentation -- I
   * B notes: www.pianostreet.com/smf/index.php?topic=2449.msg21204#msg21204
   * www.pianostreet.com/smf/index.php/topic,2449.msg21217/topicseen.html#msg21217
   * chunks of 2, 3, 4 notes, etc.  keep the picking correct (upstroke/downstroke)
-
-Misc
-----
-
-.. todo:: figure out where this belongs
-
-From "Proprioception" section
-
-Proprioceptive sensations and the ability to make the finest inner analysis and synthesis of these sensations are necessary for acquiring motor skill. These motor signals also represent the only material through which our motor centers operate, the basis on which dexterous motor acts are built and developed. Hence, when aiming for the most efficient piano practicing, we have to take care that our proprioceptive sensations are clear and distinct. Slow playing serves this aim to some extent.
-
-From the physiological point of view the answer seems to be that, while practicing, fingers should be raised to obtain the most distinct sensations from their action, but only as much as is needed for this purpose.
-
-A slight pressure into the key after its full depression is recommended in slow practicing. Tactile sensations as well as sensations from finger muscle contractions will be strengthened in this way.
-
-Practicing legato passages with staccato touch will “engrave more firmly on your memory the order in which the notes (and the fingers which produce those notes) follow each other.” It will also sharpen proprioceptive sensations from the more distinct activity of fngers. This practicing must be finger staccato as distinct from hand staccato or forearm staccato. Soft playing should prevail, since in forte the unavoidable participation of upper parts of the playing apparatus (big muscles) would overshadow finer finger sensations.
-
-Therefore, among several varieties of practice for finger articulation, the following is one of the best: first, fingers are prepared on the keys to be pressed. Each finger then presses with a light downward movement only, never leaving its key. Thus the size of finger movement is equal to the depth of the key.  And playing proceeds very slowly, pianissimo, with the whole attention concentrated on fingertips. The downward movement of one finger must be synchronized with the movement of the preceding finger as it lets its key rise. At the slightest sensation of fatigue in the upper parts of the arm, this practicing should be stopped. (It is rather hard to hold the weight of the forearm without support.) By experimenting, the proper balance will be found, so that longer sections and eventually a whole study or piece can be played in this way. Such practicing is tiring to our central nervous system, as it requires finest tonal control along with control over the accompanying sensations, and this is especially hard in pianissimo. But the consequence of such practicing is a feeling of strength in the fingers. This result would be surprising to the representatives of the old finger school. Of course it is not muscle, but nerve command over the fingers that is being strengthened!
