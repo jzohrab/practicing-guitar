@@ -55,7 +55,6 @@ Fretting hand shifts to new chords can often be practiced independently for repe
 Another more fiendish example would be something like the following (part of a longer arpeggio sequence):
 
 .. vextab::
-   :debug:
 
    :16 12d/1 7u/1 8d/2 9u/3 11d/1 8u/1 10d/2 11u/3
 

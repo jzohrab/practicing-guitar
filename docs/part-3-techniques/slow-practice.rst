@@ -1,68 +1,82 @@
 Slow Practice
 -------------
 
-.. todo:: complete this
-
 .. tech:technique:: slowpractice
    :displayname: Slow Practice
-   :status: TODO
 
-   At the end of every practice session, play things at a slow tempo -- but not in slow motion.
+   Practice at a slow tempo -- but not in slow motion -- to complement your fast practice.
 
-It is
-the task of the teacher to strengthen both the inhibitory
-and the excitatory processes.
+First, an important definition: "Slow Practice" does *not* mean playing things in slow motion. Your motions should still be energetic, sharp and swift, but they should be clearly separated from each other.  That's key!
 
-In such cases, it is important that all movements be
-executed energetically. It should be emphasized that slow
-playing does not necessarily mean slow motion. The
-movements must be swift but clearly separated from each
-other.
+Slow and fast practice are both necessary for technique and repertoire, and complement each other.  You learn how to play fast by playing fast (see :ref:`start_slow_fails`), but once you have some speed and smoothness, slowing down is important:
 
-In such cases, it is important that all movements be
-executed energetically. It should be emphasized that slow
-playing does not necessarily mean slow motion. The
-movements must be swift but clearly separated from each
-other. Deep legato practicing is extremely useful for
-strengthening weak nervous processes. After-pressure of
-each finger is recommended.
+For example, take the following opening of the :ref:`kreutzer_etude_no_5`:
 
-But attention! De not allow any overexertion of the
-participating muscles or involvement of unnecessary ones.
-The best control can be realized in the following way:
-while pressing a key rather strongly, try to move the wrist
-up and down smoothly and evenly, sensing its flexibility.
-Combining strong finger grasp with a flexible wrist is one
-of the main problems of piano technique. The teacher
-must strive to develop this ability in his pupils.
+.. vextab::
 
-Slow and extremely even playing is indispensable, not only for obtaining clear proprioceptive sensations but for strengthening the inhibitory process.
+   tabstave notation=true key=Eb time=12/8
+   notes :8 3d/1 6u/1 4d/1 3u/1 6d/2 4u/2 3/2 $etc$ 6/2 4/2 3/2 5/3 3/3 | 4/2 3/1 6/2 4/2 3/2 5/3 4/3 7/3 5/3 4/3 7/4 5/4
+
+Picking hand
+^^^^^^^^^^^^
+
+For slow tempo picking, do stacatto picking:  with a small "twitch", move your pick very quickly through the string, and immediately stop the string from ringing by resting the pick on the other side of the string.  There is no large muscle involvement, it should be a very short sharp motion, with just enough twitch to get the pick through the string -- you can still get a good loud tone with a fast twitch.
+
+.. vextab::
+
+   tabstave notation=true key=Eb
+   notes :q 3d/1 $.a./top.$ 6u/1 $.a./top.$ 4d/1 $.a./top.$ 3u/1 $.a./top.$ 6d/2 $.a./top.$ 4u/2 $.a./top.$
+
+Some picking motions, like sweeps or crosspicking, can’t be effectively exercised with this method, as far as I know!
 
 
-For any passage with complex left hand movements, play with loud, distinct, clear stacatto hammers, at a slow tempo.
+Fretting hand
+^^^^^^^^^^^^^
 
-Legato scale practice
+Even though this example is picked, practicing the left hand slowly and evenly can secure and even out your fingering.
 
-Fingers in position above string
-staccato touch
-pianissimo, all attention on fingertips
-down with one finger, up with the adjacent, synchronized
-*slight* press of the string once fretted, to strengthen the connection
+Apply minimal pressure to fret the strings -- it's easy to push too hard when going slow.  Keep the pressure light and easy.  And make sure it's rhythmically even.
+
+There are two different ways I can suggest for slow-practicing your fretting hand.  In both examples, all notes are hammered, no picking:
+
+1. Soft, staccato
+
+.. vextab::
+
+   tabstave notation=true key=Eb
+   notes :q 3/1 $.a./top.$ 6/1 $.a./top.$ 4/1 $.a./top.$ 3/1 $.a./top.$ 6/2 $.a./top.$ 4/2 $.a./top.$
+
+Playing notes:
+
+* Fingers in position above string - no "wind up"
+* With fingers only, no arm muscles, place one finger down, and raise the adjacent
+* Play pianissimo (very quiet), all attention on fingertips - this regulates the energy you're using
+* Use a staccato touch
 
 This is tiring work, for the central nervous system.
 
+2. Firm, legato
 
-Periodically, use the pick to stop any string from ringing immediately after you've picked it.  This regulates the strength of your impulses, and exercises the inhibitory reflex.
+.. vextab::
 
+   tabstave notation=true key=Eb
+   notes :q 3/1 6/1 4/1 3/1 6/2 4/2
 
-From "Proprioception" section
+Playing notes:
 
-Proprioceptive sensations and the ability to make the finest inner analysis and synthesis of these sensations are necessary for acquiring motor skill. These motor signals also represent the only material through which our motor centers operate, the basis on which dexterous motor acts are built and developed. Hence, when aiming for the most efficient piano practicing, we have to take care that our proprioceptive sensations are clear and distinct. Slow playing serves this aim to some extent.
+* Fingers in position above string - no "wind up"
+* With fingers only, no arm muscles, swiftly and firmly fret one finger, and raise the adjacent - this emphasizes an efficient hammering motion
+* Play moderate volume, as long as you don't involve any extra muscles, and don't continue to press hard once the note has sounded.  Release as much pressure as you can, while still hearing the note.
 
-From the physiological point of view the answer seems to be that, while practicing, fingers should be raised to obtain the most distinct sensations from their action, but only as much as is needed for this purpose.
+Why this works
+^^^^^^^^^^^^^^
 
-A slight pressure into the key after its full depression is recommended in slow practicing. Tactile sensations as well as sensations from finger muscle contractions will be strengthened in this way.
+Slow practicing is great, and is much more mentally tiring than physically.
 
-Practicing legato passages with staccato touch will “engrave more firmly on your memory the order in which the notes (and the fingers which produce those notes) follow each other.” It will also sharpen proprioceptive sensations from the more distinct activity of fngers. This practicing must be finger staccato as distinct from hand staccato or forearm staccato. Soft playing should prevail, since in forte the unavoidable participation of upper parts of the playing apparatus (big muscles) would overshadow finer finger sensations.
+* It ensures that you are playing the right stuff. It is easy to go full out, and not notice irregularities in timing or tone. Slow and extremely even practice works out the bumps.
+* Your body can accurately "feel" the motions internally.  "Proprioception" refers to the body's ability to perceive its own position and motion, and the body's analysis and synthesis of these proprioceptive signals is important for motor skill acquisition.  When we practice fast material, we're throwing a pile of information at our nervous system, and slowing down ensures that the proprioceptive sensations are clear and distinct.
+* It you observe and fine-tune necessary motions and suppress (inhibit) unnecessary ones, which you can then apply to your fast playing.
 
-Therefore, among several varieties of practice for finger articulation, the following is one of the best: first, fingers are prepared on the keys to be pressed. Each finger then presses with a light downward movement only, never leaving its key. Thus the size of finger movement is equal to the depth of the key.  And playing proceeds very slowly, pianissimo, with the whole attention concentrated on fingertips. The downward movement of one finger must be synchronized with the movement of the preceding finger as it lets its key rise. At the slightest sensation of fatigue in the upper parts of the arm, this practicing should be stopped. (It is rather hard to hold the weight of the forearm without support.) By experimenting, the proper balance will be found, so that longer sections and eventually a whole study or piece can be played in this way. Such practicing is tiring to our central nervous system, as it requires finest tonal control along with control over the accompanying sensations, and this is especially hard in pianissimo. But the consequence of such practicing is a feeling of strength in the fingers. This result would be surprising to the representatives of the old finger school. Of course it is not muscle, but nerve command over the fingers that is being strengthened!
+For repertoire, once you have a piece down pat, slow practice has the same benefits, plus it ensures that you're never completely relying on muscle memory during performance, and are in full control.
+
+.. note:: Reminder: "Slow Practice" is about fast motions at a slower tempo, not playing things in slow motion!
