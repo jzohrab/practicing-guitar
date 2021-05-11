@@ -39,6 +39,7 @@ Also see the :ref:`techniqueindex` and the :ref:`techniqueratingindex`.
    hands-separate
    mental-practice
    rhythmic-variations
+   simplify
    slow-practice
    tempo-variations
    other
