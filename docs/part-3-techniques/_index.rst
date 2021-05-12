@@ -10,11 +10,9 @@ There's a fair amount of information here, so take it bit by bit.  Pick one or t
 
 But be sure to give each technique a good effort, as sometimes things take a while to click. Give it all you’ve got, with full concentration, and spend some time with it.  If, after an honest effort, it's still not working, discard it.  And maybe later that discarded material will be useful, as you understand something different about it and your playing.  No rush, no fuss.
 
-To see if a given practice technique works for you, the best thing you can do is put it to the test: take two similar passages or licks, and learn one lick without the practice technique, and the other with it.  Do this for a while, record results, and draw your conclusions.
-
 I’ve assigned arbitrary ratings to each technique, based on how useful I think they might be to a newcomer; see the :ref:`techniqueratingindex`.  All of them are useful in some respect, though.
 
-Lastly, for repertoire, don’t get hung up on these techniques!  All of these practice tricks are done to thoroughly learn and ingrain movements.  Once you've learned everything, just play and enjoy the music.
+Lastly, particularly for repertoire (songs and licks), don’t get hung up on these techniques!  All of these practice tricks are done to thoroughly learn and ingrain movements.  Once you've learned it, just play and enjoy the music.
 
 .. tech:techniquelist::
 

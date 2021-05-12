@@ -3,6 +3,7 @@ Chaining
 
 .. tech:technique:: chaining
    :displayname: Chaining
+   :rating: 3
 
    Play the two notes at either end of a passage at speed.  Then add notes before it (back chaining) of after it (forward chaining), until you've chained them all together to make the full passage.
 

@@ -3,6 +3,7 @@ Tempo Variations
 
 .. tech:technique:: tempovariations
    :displayname: Tempo Variations
+   :rating: 5
 
    If aiming for a goal tempo, try going much faster and much slower, to learn how you need to do it.
 

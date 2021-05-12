@@ -3,7 +3,7 @@ Bursts
 
 .. tech:technique:: bursts
    :displayname: Speed Bursts
-   :rating: 5
+   :rating: 3
 
    Play parts of a passage at half speed, and parts at full speed.
 

@@ -3,6 +3,7 @@ Chunking
 
 .. tech:technique:: chunking
    :displayname: Chunking
+   :rating: 5
 
    Take one long phrase or idea, and break it up into chunks, with clearly identified "target notes" at the start of each chunk.  When practicing and playing, aim for these target notes.
 

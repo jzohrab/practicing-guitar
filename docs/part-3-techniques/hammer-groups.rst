@@ -3,6 +3,7 @@ Hammer Groups
 
 .. tech:technique:: hammergroups
    :displayname: Hammer Groups
+   :rating: 4
 
    Work on fretting hand issues by reducing consecutive notes to a single chord (effecively playing those chunks at infinite speed), and then play them as a lightning-fast arpeggio by offsetting each note extremely slightly.
 

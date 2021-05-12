@@ -3,6 +3,7 @@ Simplify
 
 .. tech:technique:: simplify
    :displayname: Simplify
+   :rating: 5
 
    Don't try to do too much at once -- break it down to small components and master those first.
 
