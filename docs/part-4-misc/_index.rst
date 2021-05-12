@@ -8,6 +8,8 @@ Part IV - Miscellaneous
    :glob:
 
    self
-   *
+   improvisation
+   memorization
+   mental-health
 
 .. todo:: Fix part intro
