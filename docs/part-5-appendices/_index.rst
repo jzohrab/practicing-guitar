@@ -7,7 +7,6 @@ Part V - Appendices
 .. toctree::
    :glob:
 
-   self
    references
    scores/index
    theory/index
@@ -15,5 +14,3 @@ Part V - Appendices
    change-log
    indices
    todo
-
-.. todo:: Fix part intro
