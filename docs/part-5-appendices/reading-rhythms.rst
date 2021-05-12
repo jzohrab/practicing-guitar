@@ -1,7 +1,7 @@
 .. _reading-rhythms:
 
-Reading rhythms
-===============
+Rhythmic Notation
+=================
 
 *Just enough* notation for you to read any examples in this book.  (There's much more to this topic: ties, rests, tuples, etc.)
 

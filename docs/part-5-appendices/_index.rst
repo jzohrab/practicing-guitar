@@ -8,8 +8,8 @@ Part V - Appendices
    :maxdepth: 5
 
    references
+   reading-rhythms
    scores/index
-   theory/index
    examples/index
    change-log
    indices
