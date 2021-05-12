@@ -1,8 +1,8 @@
-.. _part-5-appendices:
+.. _part-4-appendices:
 
-###################
-Part V - Appendices
-###################
+####################
+Part IV - Appendices
+####################
 
 .. toctree::
    :maxdepth: 5

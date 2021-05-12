@@ -7,6 +7,6 @@ Outline
 
 * :ref:`part-3-techniques` is the most involved and interesting part.  It offers several practice techniques you can use to help you master techniques, licks, and songs more quickly and thoroughly.
 
-* :ref:`part-5-appendices` is reference material.
+* :ref:`part-4-appendices` is reference material.
 
 There's a fair amount of material in here, so take it bit by bit.  Parts I, II, and IV should be quick-ish to read.  Part III, the practice techniques, are things to try out as you feel you need them.
