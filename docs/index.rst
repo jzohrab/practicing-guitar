@@ -21,8 +21,6 @@ A curated source of ideas and techniques for electric and acoustic guitar practi
      - How long to practice, experimenting and observing, and a possible practice routine
    * - :ref:`part-3-techniques`
      - Practice techniques and variations to learn licks, technique, and repertoire more quickly and thoroughly
-   * - :ref:`part-4-misc`
-     - Notes on the bigger picture: repertoire, improvisation, memorization, etc.
    * - :ref:`part-5-appendices`
      - References
 
@@ -36,6 +34,5 @@ A curated source of ideas and techniques for electric and acoustic guitar practi
    part-1-on-technique/_index
    part-2-getting-organized/_index
    part-3-techniques/_index
-   part-4-misc/_index
    part-5-appendices/_index
    feedback
