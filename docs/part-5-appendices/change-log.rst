@@ -8,18 +8,18 @@ A summary of document changes for each release.
    Run the below in docs:
 
    pushd part-5-appendices
+   echo .. as at commit `git log -n 1 --pretty=format:"%h"` >> change-log.rst
    git log <prev sha or tag>..HEAD --pretty=format:"  * %as - %s" --reverse >> change-log.rst
    popd
 
    or for initial entry:
 
    pushd part-5-appendices
+   echo .. as at commit `git log -n 1 --pretty=format:"%h"` >> change-log.rst
    git log --pretty=format:"  * %as - %s" --reverse >> change-log.rst
    popd
 
-   Pipe that to this file, and then edit the output.
-
-.. todo:: when draft complete, push tag, and change TODOs below
+   Then edit the output that's been appended.
 
 * TODO date here: Initial draft publication (TODO tag here)
 
