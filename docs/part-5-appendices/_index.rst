@@ -12,5 +12,4 @@ Part V - Appendices
    scores/index
    examples/index
    change-log
-   indices
    todo
