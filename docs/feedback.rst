@@ -1,13 +1,13 @@
 .. _feedback:
 
-Feedback
---------
+Feedback and Questions
+----------------------
 
 I'd love to hear from you!
 
-Please send any and all feedback via `GitHub Issues <https://github.com/jzohrab/practicing-guitar/issues/new/choose>`_ (you'll need a GitHub account) or via email at jzohrab [at] gmail [dot] com.
+Please send any and all feedback or questions via `GitHub Issues <https://github.com/jzohrab/practicing-guitar/issues/new/choose>`_ (you'll need a GitHub account) or via email at jzohrab [at] gmail [dot] com.
 
-Let me know:
+For feedback, let me know:
 
 * Did any idea really work for you?
 * Did any idea really *not* work for you?  Some of the material requires time to master; however, if you’ve given something an honest effort to no avail, then the material likely needs clarification.
