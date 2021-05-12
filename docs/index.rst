@@ -7,7 +7,7 @@
 Practicing Guitar
 =================
 
-A curated source of ideas and techniques for guitar practicing.
+A curated source of ideas and techniques for electric and acoustic guitar practice.
 
 .. list-table::
    :widths: 25 50

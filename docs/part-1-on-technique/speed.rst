@@ -41,6 +41,12 @@ By *far* the best video I've seen for guitarists on this topic is by Troy Grady,
 
 I also put together a `short video on picking <https://www.youtube.com/watch?v=0w0Snc40ejY>`__, with some techniques that helped me.  It is not as generally informative as Troy Grady's video above, but perhaps it will help you as well.
 
+I've also found the following practice techniques listed in this book helpful:
+
+* :tech:ref:`tempovariations`
+* :tech:ref:`rhythmicvariations`
+* :tech:ref:`hammergroups`
+
 Part 2: Assess and clean up
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 

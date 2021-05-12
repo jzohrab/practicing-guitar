@@ -7,6 +7,7 @@ Part V - Appendices
 .. toctree::
    :glob:
 
+   self
    *
    scores/index
    theory/index

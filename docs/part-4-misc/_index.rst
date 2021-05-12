@@ -7,6 +7,7 @@ Part IV - Miscellaneous
 .. toctree::
    :glob:
 
+   self
    *
 
 .. todo:: Fix part intro
