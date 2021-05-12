@@ -1,33 +1,68 @@
 Tempo Variations
 ----------------
 
-.. todo:: complete this
-
 .. tech:technique:: tempovariations
    :displayname: Tempo Variations
-   :status: TODO
 
-   If aiming for a goal tempo, overshoot it, hit it, and undershoot it.
+   If aiming for a goal tempo, try going much faster and much slower, to learn how you need to do it.
 
+Method 1: Floor It, then refine
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Shawn Lane style variations
+Suppose you want to play the :ref:`kreutzer_etude_no_5` at 160 BPM:
 
+.. vextab::
 
-Jason Sulliman style working up to it
+   tabstave notation=true key=Eb time=12/8
+   notes :8 3/1 6/1 4/1 3/1 6/2 4/2 3/2 6/2 4/2 3/2 5/3 3/3 | 4/2 3/1 6/2 4/2 3/2 5/3 4/3 7/3 5/3 4/3 7/4 5/4 |
 
-Then, once you have it roughly working at the top tempo, you slow it down.  But start from a target tempo and drop the metronome, and aim to play that.  Then chart how that tempo works.  eg if the top tempo is 175, try to play it at 175.  If you can't play it perfectly, drop the tempo again, and so on down until you reach the point where you play it perfectly.  Maybe today you had to drop it down to 130.  You play through it a few times at that tempo.  Then the next day, start at 175, and drop until you play it perfectly -- maybe it's 132 or 135.  And so on. (Note this is from Jason Sulliman)
+If you can't quite get it, setting the metronome at 160 and repeating endlessly won't give you or your body much chance to experiment and learn about playing.  Shake it up a bit!
 
+1. Ensure you have a rough idea of how you will play it -- work out basics at a comfortable tempo.
 
-Tempo variations
+2. Floor it!  Put the metronome *beyond* the target speed -- sometimes far beyond it, and see what happens.  Here's the metronome at 200!
 
-Very the tempo to test out variations in your technical approach.
+.. vextab::
+   :width: 500
 
-If you are trying to play a given passage at a particular goal temple, you can jump around with the metronome speed and try things out and learn about how your body handles things. This variation also helps your body sort out how to do motions.
+   tabstave notation=true key=Eb time=12/8
+   notes :8 3/1 6/1 4/1 3/1 6/2 4/2 3/2 6/2 4/2 3/2 5/3 3/3
 
-In summary, floret, and see what happens, and then back off the gas a bit, and clean it up.
+Work on that for a short while, at most one minute.
 
-Then floor it again. And back it off again. And Florida again. Always testing things, and finding what works for you. When you floret, you need to stay as loose as you can. That’s how you’re going to learn how to do it.
+.. warning:: It is very important that you continue to stay loose -- if you tighten up to hit tempo, you're teaching your body the wrong thing!  Always aim for ease in playing.
 
-For example, suppose you want to play this étude at 150 BPM. Footnote I’m assuming hear that you have acquired some level of speed, perhaps not 150 BPM but at least enough to know that it’s within striking distance. You might try various practice techniques in order to get a very rough very sloppy feel for this leak at 150 BPM. It might feel totally rough and unreliable, but you can sort of manage it.
+3. Take the metronome back down to the target tempo, see how it feels:
 
-Instead of leaving the metronome at 1:50 and repeatedly attempting the same thing over and over, it can be productive to shake it up a bit. Put the metronome beyond 150, put the speed up to 180 and see if you can play a few notes. Work on that for a short while, at most one minute. Then take it back down to 150 and see how it feels. Then, give yourself a break, and take it down to 120, or 100, and see how easy it feels at that tempo. Then take it back up to 180, and try it again, seeing if you can bring forward any of the ease that you had at the lower tempo.  Keep going back and forth, up and down, with the tempo, sprinting a little bit at high speed, relaxing and cleaning up at lower speed, always exploring and trying to keep things accurate and loose.
+.. vextab::
+   :width: 500
+
+   tabstave notation=true key=Eb time=12/8
+   notes :8 3/1 6/1 4/1 3/1 6/2 4/2 3/2 6/2 4/2 3/2 5/3 3/3
+
+4. Then, give yourself a break, and take it down to 120, or 100, and see how easy it feels at that tempo.
+
+.. vextab::
+   :width: 500
+
+   tabstave notation=true key=Eb time=12/8
+   notes :8 3/1 6/1 4/1 3/1 6/2 4/2 3/2 6/2 4/2 3/2 5/3 3/3
+
+5. Then take it back up to the target tempo of 160, and try it again, seeing if you can bring forward any of the ease that you had at the lower tempo.
+
+Keep going back and forth, up and down, with the tempo, sprinting a little bit at high speed, relaxing and cleaning up at lower speed, always exploring and trying to keep things accurate and loose.
+
+Method 2: Slowing down from fast
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Once you can get through a passage -- even roughly -- another way of working on it, as explained by `Jason Sulliman, trombonist and educator <https://www.youtube.com/watch?v=f9X4h-cY1uw&t=12m43s>`__, is to try at the top speed, and then bring it down:
+
+* Start at target tempo (160 here), and try to play the passage.  Drop the tempo until you can play it perfectly.  e.g., on day 1, you might need to drop it to 130.  Note that tempo in your practice journal.
+* The next day, start at the target, try to play it, and again drop the tempo until you can play it perfectly.  e.g. on day 2, you might drop it to 132.
+* And so on.
+
+Why this works
+^^^^^^^^^^^^^^
+
+* By keeping the goal tempo firmly in mind, and always incorporating it into your practice, you don't build a "speed wall"
+* Cleaning things up at slower tempos keeps your accuracy high, but continuing to spend time at fast tempos keeps the goal of speed and ease in mind.
