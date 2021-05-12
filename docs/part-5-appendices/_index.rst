@@ -8,9 +8,12 @@ Part V - Appendices
    :glob:
 
    self
-   *
+   references
    scores/index
    theory/index
    examples/index
+   change-log
+   indices
+   todo
 
 .. todo:: Fix part intro

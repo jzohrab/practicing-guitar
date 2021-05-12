@@ -38,5 +38,4 @@ A curated source of ideas and techniques for electric and acoustic guitar practi
    part-3-techniques/_index
    part-4-misc/_index
    part-5-appendices/_index
-   todo
    feedback
