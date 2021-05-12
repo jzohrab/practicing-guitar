@@ -5,17 +5,15 @@ Practicing Repertoire
 
 Playing pieces -- songs, licks, solos -- is fun, but it's extremely easy to play through a piece and either gloss over tough sections, or try to work on the whole thing at once.
 
-For practicing repertoire, the 20 minute rule is still in effect, but the important aspect is this: you should have a passage **perfect** at the end of that 20 minutes.  (A passage can be a single measure, or a single component of a piece, such as the thumb picking of Travis picking.)
+For practicing repertoire, the 20 minute rule is still in effect, but the important aspect is this: you should have a passage **perfect** at the end of that 20 minutes.  A passage can be a single measure, or a single component of a piece, such as the thumb picking of Travis picking.
 
-If it is taking more than that, then the passage you chose to work on is too big, or contains too many challenges to be tackled in 20 minutes.
+If it is taking more than that, then the passage you chose to work on is too big.  Cut the passage in half and work on that, making it **perfect** within the 20 minutes.  Continue cutting in half if necessary!  Provided there aren't any fundamental motor skill challenges, you can always reduce any passage down to even two notes, perfect them, and build from there.
 
-If those challenges are fundamental motor skill challenges, isolate those.
+Most people, including me, try to do too much at once. This leads to endlessly practising for hours on end without visible improvement, which is discouraging.  Be smart, and break it down.
 
-If the challenges are musical or technical, cut the passage in half and work on that, making it **perfect** within the 20 minutes.  Continue cutting in half if necessary!  Provided there aren't any fundamental motor skill challenges, anyone can take any passage, and boil it down to even two notes, perfect them, and build from there.
+The next day when you come to practice, repeat the above process with the *same passage*.  You may not notice any improvement at the start of the second day, it might feel just as bad as the first.  But when you practice that passage on day two, it will take you less time to get that small section perfect.  Depending on the difficulty, you may need to repeat the above process for the passage, even for a few days.  But you will make progress on this section, and in doing so will acquire the tools you need to surmount the next obstacle.
 
-Most people select bits that are bigger than they can chew. This leads to endlessly practising for hours on end without visible improvement, which leads to fatigue and discouragement. Don't do that, do the clever thing and make the passage smaller.
-
-The next day when you come to practice, you should repeat the above process with the *same passage*.  Depending on the difficulty, you may need to repeat the above process, even for a few days.  But you will make progress on this section, and in doing so will acquire the tools you need to surmount the next obstacle.
+Try this method out!  In some ways it will feel slower, but over the not-too-long haul, you can make real progress.
 
 The best explanation I've found yet about this comes from pianostreet.com:
 
