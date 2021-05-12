@@ -5,7 +5,7 @@ Part V - Appendices
 ###################
 
 .. toctree::
-   :glob:
+   :maxdepth: 5
 
    references
    scores/index

@@ -1,9 +1,7 @@
 Scores
 ======
 
-A collection of scores which *I hope* to use to demonstrate the practice techniques.
-
-.. todo:: Should this even be included?
+A sort collection of partial or complete scores referenced in the book.
 
 .. toctree::
    :glob:
