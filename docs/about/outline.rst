@@ -7,4 +7,4 @@ Outline
 
 * :ref:`part-3-techniques` is the most involved and interesting part.  It offers several practice techniques you can use to help you master techniques, licks, and songs more quickly and thoroughly.
 
-There's a fair amount of material in here, so take it bit by bit.  Parts I, II, and IV should be quick-ish to read.  Part III, the practice techniques, are things to try out as you feel you need them.
+There's a fair amount of material in here, so take it bit by bit.  Parts I and II should be quick to read, though you might ponder them if they're new or interesting.  Part III, the practice techniques, are things to add to your practice routine.

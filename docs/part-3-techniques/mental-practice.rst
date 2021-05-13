@@ -25,7 +25,7 @@ Take any short passage you're currently working on, less than 10 seconds long.  
 4. Play through the passage again, noting any new details.  Then again, in your mind, recreate everything as faithfully as you can.
 5. Repeat until your mind tires.  Don't overdo it, it's mentally tiring.  If your attention wanders, that's enough for the day!
 
-Sometimes, you notice that you're not *really* hearing what you're playing!  If you can't sing or hum the notes in your passage (transposing for your voice), then maybe you were going by your hands, and not your ears.  That's ok, it's something to work on.  Sometimes you really have to play something slowly, even just one single note, in order to really hear it.
+Sometimes, you notice that you're not *really* hearing what you're playing!  If you can't sing or hum the notes in your passage (transposing for your voice), then maybe you were going by your hands, and not your ears.  No problem, it's something to work on.  Sometimes you really have to play something slowly, even just one single note, in order to really hear it.
 
 The above drill might result in increased presence and alertness while you are actually playing and improvising.  It will also improve your retention and retrieval (from memory) of the passage, which means less mental tension, easing your playing.  The faster you can think, the better you can play.
 

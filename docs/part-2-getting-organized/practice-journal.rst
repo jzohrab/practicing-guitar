@@ -19,7 +19,7 @@ At the next session -- next day, or later in the same day depending on your sche
 
 What gets measured gets improved.
 
-Different people have different journaling systems [#]_, and you can buy practice journals [#]_ if you're so inclined.  But if you're starting out with this idea, it can be overwhelming and paralyzing.  So start small, and refine ... let your system guide you, don't be a slave to it.
+Different people have different systems [#]_, and you can buy practice journals [#]_ if you're so inclined.  But if you're starting out with this idea, it can be overwhelming and paralyzing.  So start small, and refine ... let your system guide you, don't be a slave to it.
 
 .. [#] The book `Atomic Habits <https://jamesclear.com/atomic-habits>`_ recommends this.  It's a super book.
 .. [#] This one is really extensive: https://www.robknopper.com/blog/2016/6/25/what-my-practice-journal-looks-like ... wow.

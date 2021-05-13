@@ -9,14 +9,14 @@ If playing is about the central nervous system functioning at a high level, then
 
   Practicing ... is mainly practicing of the central nervous system, whether we are aware of it or not. Misconceptions of the past have led to inefficient practicing, unproductive expenditure of time, and often deplorable results. `Kochevitsky, "The Art of Piano Playing: A Scientific Approach" <https://www.amazon.ca/Art-Piano-Playing-Scientific-Approach-ebook/dp/B017O7R4SC>`__
 
-For improvement to happen, your practice sessions need to send a clear message to your nervous system about what you're trying to accomplish.  You can clearly say, "I want to do this," and can also try to mimic the motions used by other players, but then your subconscioun and reflexes take over.  You must sit back and carefully observe what's happening, listening to the quality of the tone you're getting, and observing any accumulated physical tension or stiffness which might indicate a problem, consciously making mindful adjustments if necessary.  The conscious mind can also help push you along -- "faster, faster, easier, easier."
+For improvement to happen, your practice sessions need to send a clear message to your nervous system about what you're trying to accomplish.  You can clearly say, "I want to do this," and can also try to mimic the motions used by other players, but then your subconscious and reflexes take over.  You must sit back and carefully observe what's happening, listening to the quality of the tone you're getting, and observing any accumulated physical tension or stiffness which might indicate a problem, consciously making mindful adjustments if necessary.  The conscious mind can also help push you along -- "faster, faster, easier, easier."
 
 .. _excitation_and_inhibition:
 
 Excitation and inhibition
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-When you play guitar, your brain sends nerve impulses to muscles to contract at precise times.  Just as important as this contraction is the cessation of contraction when the required movement is complete, so the muscle is ready for the next impules.  If a muscle doesn't completely relax, residual tension can accumulate.
+When you play guitar, your brain sends nerve impulses to muscles to contract at precise times.  Just as important as this contraction is the cessation of contraction when the required movement is complete, so the muscle is ready for the next impulse.  If a muscle doesn't completely relax, residual tension can accumulate.
 
 In addition to the excitation of the muscles, there is a process called inhibition, which suppresses superfluous (or even harmful) excitation.  Inhibition is just as important as excitation, as both of these basic processes of nervous activity must be precisely balanced for fast and smooth technique.  It's also harder to train.  Some of the exercises given in :ref:`part-3-techniques` specifically target inhibitory processes, and might be interesting for you to try, if you're a more advanced guitarist.
 
@@ -36,7 +36,7 @@ Rest
 
 Once you've practiced a section, and a clear message has been given to the subconscious mind and nervous system about what you're aiming for, effectively your practice of that particular skill or passage is done!
 
-Your nervous system takes time to sythesize all of the information given to it, and to adapt to the new stresses by forming or strengthening nerve pathways and connections in the brain.  That synthesis happens during rest, and not during practicing.  A good night's sleep is often the best, but you may even find that you can practice something hard for 5 to 10 minutes, take several hours' break, and then come back to it.
+Your nervous system takes time to synthesize all of the information given to it, and to adapt to the new stresses by forming or strengthening nerve pathways and connections in the brain.  That synthesis happens during rest, and not during practicing.  A good night's sleep is often the best, but you may even find that you can practice something hard for 5 to 10 minutes, take several hours' break, and then come back to it.
 
    Sometimes excessive industry and strenuous practicing can result in failure. The more persistently one tries, the worse the results. Fatigue of the central nervous system, which is not noticed by the player, is the reason for this failure. When in despair he abandons his efforts and later resumes his work, he notices that many, if not all, obstacles are miraculously gone. Fatigue is alleviated by rest. With a fresh start, the results of previous practicing show themselves clearly.  `Kochevitsky, "The Art of Piano Playing: a Scientific Approach <https://books.google.ca/books?id=J6ZyCgAAQBAJ&pg=PA29&lpg=PA29#v=onepage&q&f=false>`__
 

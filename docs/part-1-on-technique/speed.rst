@@ -19,10 +19,10 @@ You learn how to play fast by trying to play fast, finding what works for you, a
 Part 1: Start with speed
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-If this is your first attempt to alternate pick with speed, start with tremelo picking one single note on a single string:
+If this is your first attempt to alternate pick with speed, start with tremolo picking one single note on a single string:
 
 1. Ensure that you have a good feel with a basic picking motion - slow, or even mid-tempo, downstrokes and upstrokes.  Any tempo is fine, as long as it doesn't feel clumsy.  You should feel reasonably relaxed and secure with a slow motion.
-2. Shake out any excess tension, and then tremelo pick at a good clip (sixteenth notes at 160 bpm) for a few seconds, and see and feel what happens.
+2. Shake out any excess tension, and then tremolo pick at a good clip (sixteenth notes at 160 bpm) for a few seconds, and see and feel what happens.
 3. Stop, take a break and shake out your hand and arm.  Identify any tension and try to get rid of it.
 4. Try again from step 1.  Repeat this process for up to 20 minutes ... any longer and you're probably just accumulating tension.
 5. Take a longer break, an hour or so, and come back to it, see if it has come together.

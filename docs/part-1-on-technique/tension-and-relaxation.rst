@@ -17,7 +17,7 @@ Causes of tension
 
 Tension accumulates when your muscles don't relax completely at the right time.
 
-Any cyclic movement involves antagonistic muscle groups.  First one muscle group poles one way, and then it relaxes while another muscle group pulls the other way.  If that first muscle hasn't completely relaxed, the second has to fight it to accomplish its own task.  It the second muscle also can't relax due to the higher stress placed on it, things will spiral and tension will accumulate.  The term "relaxation" in playing refers to releasing a muscle before its counterpart contracts. Learning to realease and contract in time is a matter of coordination, not a matter of strength.
+Any cyclic movement involves antagonistic muscle groups.  First one muscle group poles one way, and then it relaxes while another muscle group pulls the other way.  If that first muscle hasn't completely relaxed, the second has to fight it to accomplish its own task.  It the second muscle also can't relax due to the higher stress placed on it, things will spiral and tension will accumulate.  The term "relaxation" in playing refers to releasing a muscle before its counterpart contracts. Learning to release and contract in time is a matter of coordination, not a matter of strength.
 
 Another source of accumulated tension is mental tension.  With this, your brain can send misguided impulses to other completely unrelated muscle groups. For example, you might be tensing your shoulders, or your neck, or your for head while playing.
 

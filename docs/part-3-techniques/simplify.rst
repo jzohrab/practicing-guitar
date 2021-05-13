@@ -28,7 +28,7 @@ Same with this:
 
    :16 7d-9u-10d-7u-9d-10u/4 7d-10u/3 :q 9d/3 | :16 7d-7u-7d-7u-7d-7u/4 9d-9u/3 :q 9d/3
 
-If I can't pick the second one well, I won't be able to do the first (which is more complicated due to hand syncronizing).
+If I can't pick the second one well, I won't be able to do the first (which is more complicated due to hand synchronizing).
 
 And a crosspicking example (all alternate picked).  Before I do this fast:
 

@@ -11,7 +11,7 @@ If that resonates with you, here's some material I've found helpful:
 
 * "With Your Own Two Hands", by Seymour Bernstein
 * "Seymour: an Introduction", a documentary by Ethan Hawke about Seymour Bernstein
-* "Effortless Mastery", by Kenner Werner
+* "Effortless Mastery", by Kenny Werner
 
 Anything in which we invest a significant amount of our time, thought, and energy, can lead to frustration.  There's always so much stuff to do!  And a list of practice techniques or suggestions like those in this book might leave some overwhelmed.  If that is the case for you, I hope that you can reframe everything I've presented here so that it becomes part of your own dialogue with yourself, rather than as something foreign that's been pushed upon you.
 

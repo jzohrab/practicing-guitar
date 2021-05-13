@@ -81,7 +81,7 @@ If, like an utter madman, you wanted to play this lick at some ungodly tempo, yo
 Outlining
 ---------
 
-Chunking simplifies your thoughts: rather than think of many indivudual notes, you can deal with larger logical groups.
+Chunking simplifies your thoughts: rather than think of many individual notes, you can deal with larger logical groups.
 
 You can use this concept during practice of tricky sections by playing just the first note of each group.  This helps your ear and brain clearly hear the targets it has to hit.  For the lick above, that looks like this (that marking about the note means staccato -- very short):
 

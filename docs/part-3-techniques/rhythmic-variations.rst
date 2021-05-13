@@ -52,7 +52,7 @@ Why this works
 
 Rhythmic variations are a **super** technique for several reasons:
 
-1. When playing fast passages, there are many things going on - your fingers, hands, and mind are all working hard.  If any one one of them tense up or stumble, things fall parant.  The long note gives your mind and body time to think about and prepare for the next note.
+1. When playing fast passages, there are many things going on - your fingers, hands, and mind are all working hard.  If any one one of them tense up or stumble, things fall apart.  The long note gives your mind and body time to think about and prepare for the next note.
 
 2. The short break afforded by the longer dotted note gives you time to release any accumulated tension.
 
@@ -66,7 +66,7 @@ Rhythmic variations are a **super** technique for several reasons:
    notes =|: :16 5d-7-5-4/3 =:: :8d 5d/3 :16 7u/3 :8d 5d/3 :16 4u/3 =:: :16 5d/3 :8d 7u/3 :16 5d/3 :8d 4u/3 =:|
    options space=20
 
-The first variation is one beat (four 16ths), but the last two are both 2 beats, so the last two are "slower" ... however, the second and fourth notes of all of these variations are still 16th notes, and are just as fast as the first variation.  For these fast notes, you will still have to make the same motions in the same timeframe as you would for the initial straight-16ths version, but your hands and brain will have a lot of time to rest and prepare.  Because of this, you can push your practice tempo even higher, and get a workout of these very short bursts of speed.
+The first variation is one beat (four 16ths), but the last two are both 2 beats, so the last two are "slower" ... however, the second and fourth notes of all of these variations are still 16th notes, and are just as fast as the first variation.  For these fast notes, you will still have to make the same motions in the same length of time as you would for the initial straight-16ths version, but your hands and brain will have a lot of time to rest and prepare.  Because of this, you can push your practice tempo even higher, and get a workout of these very short bursts of speed.
 
 You can also try lengthening the long note even further, if it helps:
 

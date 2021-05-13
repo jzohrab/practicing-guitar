@@ -43,7 +43,7 @@ Tone and articulation variations
 Varying the tone and articulation can exercise your playing muscles in interesting ways.  For example:
 
 * Staccato picking: When picking a string, immediately after the pick has gone through the string to the other side, lightly place the side of your pick against the string.  The note will be short and staccato.  The great Rick Graham calls this "planting technique" and demonstrates it `here <https://www.youtube.com/watch?v=7JSCmIBzabU>`__.  As Rick discusses, this promotes an economy of movement.  I believe that it's also effective because it works on the regulating the amount of force you're using for the downstroke (see :ref:`excitation_and_inhibition`).
-* Altering pick angle: changing the angle of hte pick changes its tone.  If you can't easily alter the angle of your pick, it may be a sign of tension.  Try it out, see how it works.
+* Altering pick angle: changing the angle of the pick changes its tone.  If you can't easily alter the angle of your pick, it may be a sign of tension.  Try it out, see how it works.
 * Volume variation is already covered in :tech:ref:`dynamics`.
 * Fretting hand articulations and dynamics are challenging.  Try altering the volume of your slurs (hammer-ons and pull-offs), or make them staccato.
 

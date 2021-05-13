@@ -14,7 +14,7 @@ Playing a short section of a lick at half speed (a.k.a. half time) can let your 
    tabstave notation=true
    notes =|: :16 6-8-6-5/2 6-8-6-5/2 =:|
 
-Playing a short section of the lick at half speed can let you really feel the beat, and a clear beat helps your body "fit the playing to the time alloted", if that makes sense.  The slower portion also gives your nervous system a chance to relax and prepare for the next attempt.
+Playing a short section of the lick at half speed can let you really feel the beat, and a clear beat helps your body "fit the playing to the time allotted", if that makes sense.  The slower portion also gives your nervous system a chance to relax and prepare for the next attempt.
 
 .. vextab::
 

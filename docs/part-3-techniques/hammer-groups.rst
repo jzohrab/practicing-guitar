@@ -5,7 +5,7 @@ Hammer Groups
    :displayname: Hammer Groups
    :rating: 4
 
-   Work on fretting hand issues by reducing consecutive notes to a single chord (effecively playing those chunks at infinite speed), and then play them as a lightning-fast arpeggio by offsetting each note extremely slightly.
+   Work on fretting hand issues by reducing consecutive notes to a single chord (effectively playing those chunks at infinite speed), and then play them as a lightning-fast arpeggio by offsetting each note extremely slightly.
 
 Hammer Groups are groups of notes that can be hammered simultaneously with your fretting hand, like a chord.  You then "slow it down" to a very fast speed by slightly offsetting the contact time of each finger, keeping the time interval between each finger drop as accurate as possible.  Try different fingerings and positions to sort out the most comfortable one for your hand.
 

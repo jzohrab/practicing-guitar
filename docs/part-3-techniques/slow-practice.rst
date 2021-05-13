@@ -20,7 +20,7 @@ For example, take the following opening of the :ref:`kreutzer_etude_no_5`:
 Picking hand
 ^^^^^^^^^^^^
 
-For slow tempo picking, do stacatto picking:  with a small "twitch", move your pick very quickly through the string, and immediately stop the string from ringing by resting the pick on the other side of the string.  There is no large muscle involvement, it should be a very short sharp motion, with just enough twitch to get the pick through the string -- you can still get a good loud tone with a fast twitch.
+For slow tempo picking, do staccato picking:  with a small "twitch", move your pick very quickly through the string, and immediately stop the string from ringing by resting the pick on the other side of the string.  There is no large muscle involvement, it should be a very short sharp motion, with just enough twitch to get the pick through the string -- you can still get a good loud tone with a fast twitch.
 
 .. vextab::
 
