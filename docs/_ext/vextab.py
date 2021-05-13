@@ -160,6 +160,7 @@ def print_pending_examples(app, exception):
 def print_needs_examples(app, exception):
     if hasattr(app.env, 'vextab_needs_examples'):
         exs = list(set(app.env.vextab_needs_examples))
+        exs.sort()
         print('\nVextab, need examples:')
         e = [ "* {0}".format(s) for s in exs ]
         print('\n'.join(e))
