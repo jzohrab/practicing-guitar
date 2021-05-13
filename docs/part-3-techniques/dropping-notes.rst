@@ -10,7 +10,7 @@ With polyphonic (multi-voice) music, such as in Travis picking or fingerstyle pi
 
 A better method:
 
-1. Master each "voice" completely separately, with correct fingering and motions.   Each voice should be ingrained and automatic, you should be able to hold a conversation, for example, while playing each one individually.
+1. Master each "voice" completely separately, with *correct fingering and motions*.   Each voice should be ingrained and automatic, you should be able to hold a conversation, for example, while playing each one individually.
 2. Choose one voice, and play it, looping over a small section.  Then "drop in" the first note from the other voice.  Your aim is to keep the first voice going no matter what. In other words, the "dropping" of the other note should not interfere with the first voice's ongoing movement. Repeat as many times as needed to be able to drop the other note without interfering with the first voice.
 3. Keep adding notes to the other voice, note-by-note, playing each one perfectly.  Always keep the first voice rock-steady!
 4. When you've built the complete line, you can repeat the process, but starting with the other voice, and dropping notes from the first.
@@ -45,7 +45,8 @@ Rather than look at this as one long string of notes, it's better to think of th
    tabstave notation=true
    notes :8 3/5 $3$ 2/4 $2$ 3/6 $3$ 2/4 $2$ | 3/5 $3$ 2/4 $2$ 3/6 $3$ 2/4 $2$ 
 
-Per the method, we'll start with the bass voice.  Each note is played with the thumb, so you'd practice this until it feels natural and automatic.  You can even practice it beyond the target tempo, to ensure that it's effortless.  Use the correct fretting fingering as well, to ensure that things can be re-integrated!
+Per the method, we'll start with the bass voice.  Each note is played with the thumb, so you'd practice this until it feels natural and automatic.  You can even practice it beyond the target tempo, to ensure that it's effortless.  Make sure you use the fretting fingering you'll use in the final rendition as well, to ensure that things can be re-integrated! [#]_
+
 
 .. vextab::
    :width: 400
@@ -220,3 +221,5 @@ Then you add it to the mix.  How you do that is up to you:
 * Repeat the bass-and-melody process above, but use the new voice in place of the bass or melody (some piano teachers highly recommend you work on each possible voice combination, especially for Bach's counterpoint pieces)
 
 .. note:: This may seem exhaustive, and exhausting, when you read it!  But it really works, give it a shot, small section by small section.
+
+.. [#] I once practiced a walking bass line until it was grooving and automatic, and then realized my fingering was all wrong when I tried adding other voices.  A small waste of time.
