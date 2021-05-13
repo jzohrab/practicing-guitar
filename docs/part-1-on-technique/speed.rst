@@ -16,6 +16,8 @@ Acquiring Speed
 
 You learn how to play fast by trying to play fast, finding what works for you, and then refining.  Starting slowly and building up speed does not work (see :ref:`start_slow_fails`).
 
+.. note: In my opinion, before attempting speed, you should have at least a *reasonable* basic technique: i.e., the pick feels natural in your hand, and you can easily alternate pick, say, eighth notes and sixteenth notes at 60 bpm.
+
 Part 1: Start with speed
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -54,6 +56,6 @@ When things start to click at a high tempo, it's time to slow down, reverse engi
 
 Slowing down is essential *once you have the base motions in place*.  You can assess your levels of tension and accuracy, and ensure that you're actually getting the tone you want to get while playing.  Accuracy is vital.  If you play so fast that you miss notes, or you lose rhythmic accuracy, your playing will sound messy, and actually somehow feel slower.
 
-Continue pushing the envelope, but always make sure that your fundamentals are solid!
+Continue pushing the envelope, but *always* make sure that your fundamentals are solid!
 
 .. [#] This is why you sometimes can't readily explain what you've just played when you play something fast -- you might have to stop and think.  Your conscious mind has to replay and analyze.
