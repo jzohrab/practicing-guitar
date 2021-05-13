@@ -1,9 +1,10 @@
-Examples
-========
+:orphan:
+
+Examples THIS IS NOT INCLUDED IN THE OUTPUT YET
+===============================================
 
 Examples demonstrating how the ideas in this book have been applied to real-life licks and ideas.
 
-.. todo:: add some examples
 
 .. Reactivate toctree when done.
 
