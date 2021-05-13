@@ -16,6 +16,8 @@ For example, take this G minor arpeggio from the :ref:`bach_bwv_1004_gigue`, whi
 
 Instead of trying to play the whole thing in one shot, you can build it up, note by note (or small groups of notes if you feel up to it), so your body can sort out how it should flow.  You can do both backwards and forwards chaining.
 
+Chains can sometimes create new difficulties -- see :ref:`trouble_with_bursts` for more.  It's still a great technique for technical and repertoire practicing though.
+
 .. tip:: Try chaining the same passage both backwards and forwards: sometimes you'll end up with different choices that are more accurate or easier to play, because they’re better suited for your mind and hands.
 
 Backwards chaining
