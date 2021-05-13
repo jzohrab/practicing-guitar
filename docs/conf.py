@@ -30,6 +30,7 @@ extensions = [
     'sphinx.ext.autosectionlabel',
     'ytsphinx.youtube',
     'sphinx_rtd_theme',
+    'sphinxcontrib.spelling',
 
     # custom code in _ext/
     'vextab',

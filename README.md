@@ -7,7 +7,7 @@ Written in restructuredtext (RST).
 # Prereqs
 
 Python 3
-
+enchant (for spelling) - see https://pyenchant.github.io/pyenchant/install.html
 
 # Special directives and notes
 
@@ -205,3 +205,8 @@ make html
 # or:
 # make clean html
 ```
+
+## Building to check spelling
+```
+cd project-root
+sphinx-build -b spelling docs docs/_build/
