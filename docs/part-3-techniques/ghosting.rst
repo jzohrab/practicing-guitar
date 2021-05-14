@@ -20,7 +20,7 @@ For example, here's a simple arrangement of the first few bars of the tune "Frei
    voice
    notes :8 3/5 2/4 3/6 2/4 3/5 2/4 3/6 2/4 | 3/6 3/4 5/5 3/4 3/6 3/4 5/5 3/4
 
-If you weren't satisfied with how you're expressing the melody, just play that, continuing to position all fingers (fretting and plucking hand) where they would be if you were playing the full piece:
+If you weren't satisfied with how you're expressing the melody, just play that, continuing to position and move all fingers (fretting and plucking hand), including non-melody ones, where they would be if you were playing the full piece (note -- though the notes are marked as "X", they're not muted/muffled notes, they're just here as a reminder):
 
 .. vextab::
 
