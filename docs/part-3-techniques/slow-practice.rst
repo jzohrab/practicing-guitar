@@ -13,6 +13,7 @@ Slow and fast practice are both necessary for technique and repertoire, and comp
 For example, take the following opening of the :ref:`kreutzer_etude_no_5`:
 
 .. vextab::
+   :example: techniques/slow-practice/Kreutzer-etude-intro.mp3
 
    tabstave notation=true key=Eb time=12/8
    notes :8 3d/1 6u/1 4d/1 3u/1 6d/2 4u/2 3/2 $etc$ 6/2 4/2 3/2 5/3 3/3 | 4/2 3/1 6/2 4/2 3/2 5/3 4/3 7/3 5/3 4/3 7/4 5/4
