@@ -11,7 +11,7 @@ Prep
 
 * Consider your time available, and break it up into 20-minute blocks, writing your plan in your practice journal.
 * For each block, either work on one item (for repertoire/licks/exploratory technical work), or several interleaved items (for refining technique, or if you can manage it, for repertoire)
-* Quickly check yourself for tension, and stretch things out if needed.
+* Check yourself for tension, and do some light stretches.
 
 Go
 +++
