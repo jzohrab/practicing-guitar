@@ -10,6 +10,7 @@ Chaining
 For example, take this G minor arpeggio from the :ref:`bach_bwv_1004_gigue`, which you're aiming to play at 80 bpm, strict alternate picking:
 
 .. vextab::
+   :example: techniques/chaining/arpeggio.mp3
 
    tabstave notation=true key=F time=12/8
    notes :16 3d/6 6/6 5/5 5/4 8/4 7/3 8d/2 6/1 8/2 7/3 8/4 5/4
@@ -25,18 +26,20 @@ Backwards chaining
 
 With backwards chaining, you start at the end, and build your chain backwards.  At each step, you ensure that you can play it *more or less* perfectly.  The idea here is that we're putting the big picture together of how things should flow.
 
-First, start with the two notes at the end, and make sure you can play them up to the target tempo.
+First, start with the two notes at the end, and repeat until they smooth out and you can play them at the target tempo.
 
 .. vextab::
    :width: 250
+   :example: techniques/chaining/chain,_2_notes.mp3
 
    tabstave notation=true key=F time=12/8
    notes :16 8d/4 5u/4
 
-Then add the note prior, playing things up to tempo.    Note I'm using an upstroke for the first note, because that's how it's played in the original lick:
+Then add the note prior, playing until it smooths out at target tempo.    Note I'm using an upstroke for the first note, because that's how it's played in the original lick:
 
 .. vextab::
    :width: 300
+   :example: techniques/chaining/chain,_3_notes.mp3
 
    tabstave notation=true key=F time=12/8
    notes :16 7u/3 8d/4 5u/4
@@ -45,6 +48,7 @@ Then the next note, etc.
 
 .. vextab::
    :width: 350
+   :example: techniques/chaining/chain,_4_notes.mp3
 
    tabstave notation=true key=F time=12/8
    notes :16 8d/2 7u/3 8d/4 5u/4
@@ -53,7 +57,7 @@ And so on until you reach the beginning.
 
 As you add new notes, you might find that previously secure segments fall apart.  That's your body and brain sorting out how to integrate all of this information into one big "chunk".  If things completely explode, take some time with it -- perhaps you've hit some kind of technical limit that needs further exploration.
 
-You may also occasionally find that when you add another link to the chain, you have to re-orchestrate all subsequent fingers, due to an incorrect fingering or position choice.  It’s a small annoyance, so you might want to use Forwards Chaining as well to work out the “big picture”.
+You may also occasionally find that when you add another link to the chain, you have to re-orchestrate all subsequent fingers, due to an incorrect fingering or position choice.  It’s a small annoyance, so you might want to use Forwards Chaining as well to work out the “big picture”.  And don't worry if things which used to be secure fall apart, that's part of the process.
 
 Why this works
 ^^^^^^^^^^^^^^
@@ -73,6 +77,7 @@ First, you start with the two notes at the beginning, and play them up to tempo:
 
 .. vextab::
    :width: 250
+   :noexample:
 
    tabstave notation=true key=F time=12/8
    notes :16 3d/6 6/6
@@ -81,6 +86,7 @@ Then add the next note, repeating the process:
 
 .. vextab::
    :width: 300
+   :noexample:
 
    tabstave notation=true key=F time=12/8
    notes :16 3d/6 6/6 5/5
@@ -89,6 +95,7 @@ Then the next note:
 
 .. vextab::
    :width: 350
+   :noexample:
 
    tabstave notation=true key=F time=12/8
    notes :16 3d/6 6/6 5/5 5/4
