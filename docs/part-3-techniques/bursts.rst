@@ -10,13 +10,15 @@ Bursts
 Playing a short section of a lick at half speed (a.k.a. half time) can let your brain "lock in" to the rhythm that the lick should fit into.  For example, if you play the following 2-beat lick for several beats, your mind can quickly wander, muscles tire, and you lose accuracy:
 
 .. vextab::
+   :example: techniques/bursts/sixteenths.mp3
 
    tabstave notation=true
    notes =|: :16 6-8-6-5/2 6-8-6-5/2 =:|
 
-Playing a short section of the lick at half speed can let you really feel the beat, and a clear beat helps your body "fit the playing to the time allotted", if that makes sense.  The slower portion also gives your nervous system a chance to relax and prepare for the next attempt.
+Playing a short section of the lick at half speed lets you relax for the fast attempt, and you can compare your relaxation of the fast attempt to the slow portion, and try to sustain the relaxation.  Also, you can let you really feel the beat, which helps "fit the playing to the time allotted", if that makes sense.
 
 .. vextab::
+   :example: techniques/bursts/sixteenths,_with_bursts.mp3
 
    tabstave notation=true
    notes =|: :q 6-8-6-5/2 | :16 6-8-6-5/2 6-8-6-5/2 :h 6/2 =:|
@@ -24,6 +26,7 @@ Playing a short section of the lick at half speed can let you really feel the be
 For sextuplet licks, try playing parts of the lick in slower triples:
 
 .. vextab::
+   :example: techniques/bursts/sextuplets.mp3
 
    tabstave notation=true time=12/8
    notes :16 =|: 8-5-7-8-7-5/1 8-5-7-8-7-5/1 =:|
@@ -31,6 +34,7 @@ For sextuplet licks, try playing parts of the lick in slower triples:
 And with bursts:
 
 .. vextab::
+   :example: techniques/bursts/sextuplets,_with_bursts.mp3
 
    tabstave notation=true time=12/8
    notes =|: :8 8-5-7-8-7-5/1 :16 8-5-7-8-7-5/1 8-5-7-8-7-5/1 =:|
@@ -38,6 +42,7 @@ And with bursts:
 In the mid-90's Paul Gilbert had advised guitarists learning sweep picking to work on small sections, and ensure rhythmic accuracy.  The lick he suggested used this idea of "bursts", though he didn't call it that:
 
 .. vextab::
+   :noexample:
 
    tabstave notation=true
    notes =|: :8 8d/1 5u/1 6u/2 5u/3 8d/1 5u/1 6u/2 5u/3 |
@@ -54,6 +59,7 @@ One small issue with bursts to be aware of is that it creates a slightly differe
 For example, if you're playing a steady stream of 16ths:
 
 .. vextab::
+   :noexample:
 
    tabstave notation=true tablature=false
    notes =|: :16 5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5/1 =:|
@@ -62,6 +68,7 @@ For example, if you're playing a steady stream of 16ths:
 That's quite different for your nerves than playing this:
 
 .. vextab::
+   :noexample:
 
    tabstave notation=true tablature=false
    notes =|: :q 5-5-5/1 :16 5-5-5-5/1 =:|
@@ -69,6 +76,7 @@ That's quite different for your nerves than playing this:
 In the first example, you're doing a "steady-state" motion, with regular movements and impulses.  In the second, you're starting and stopping, more or less, and it can create subtle difficulties.  For example, when I first started using bursts, I'd actually start them from nothing, like so:
 
 .. vextab::
+   :noexample:
 
    tabstave notation=true tablature=false
    notes =|: :q ## :16 5-5-5-5/1 :q 5/1 ## =:|
