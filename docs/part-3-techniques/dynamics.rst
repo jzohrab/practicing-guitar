@@ -12,7 +12,7 @@ A fantastic exercise for speed and accuracy is to take something that you can al
 Here's the start of :ref:`kreutzer_etude_no_5`:
 
 .. vextab::
-   :example: techniques/dynamics/Kreutzer-etude-intro.mp3
+   :example: techniques/dynamics/Kreutzer_etude_intro.mp3
 
    tabstave notation=true key=Eb time=12/8
    notes :8 3/1 6/1 4/1 3/1 6/2 4/2 3/2 6/2 4/2 3/2 5/3 3/3 | 4/2 3/1 6/2 4/2 3/2 5/3 4/3 7/3 5/3 4/3 7/4 5/4 |
@@ -20,9 +20,12 @@ Here's the start of :ref:`kreutzer_etude_no_5`:
 Rather than play it through at a single dynamic, try using a cleaner tone or acoustic, and play it through softly, loudly, and increasing and decreasing volume:
 
 .. vextab::
+   :example: techniques/dynamics/piano_(soft).mp3; techniques/dynamics/forte_(loud).mp3; techniques/dynamics/crescendo.mp3; techniques/dynamics/decrescendo.mp3
 
    tabstave notation=true key=Eb time=12/8
    notes :8 3/1 6/1 4/1 3/1 6/2 4/2 3/2 6/2 4/2 3/2 5/3 3/3 | 4/2 3/1 6/2 4/2 3/2 5/3 4/3 7/3 5/3 4/3 7/4 5/4 |
+
+You can also try accent variations.
 
 This is good for two reasons:
 
