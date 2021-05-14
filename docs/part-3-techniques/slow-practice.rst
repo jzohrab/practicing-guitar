@@ -6,9 +6,9 @@ Slow Practice
 
    Practice at a slow tempo -- but not in slow motion -- to complement your fast practice.
 
-First, an important definition: "Slow Practice" does *not* mean playing things in slow motion. Your motions should still be energetic, sharp and swift, but they should be clearly separated from each other.  That's key!
+First, an important definition: "Slow Practice" does *not* mean playing things in slow motion. Your motions should still be energetic, sharp and swift, but they should be clearly separated from each other, with as much time between them as needed to stay completely relaxed and alert.  That's key!
 
-Slow and fast practice are both necessary for technique and repertoire, and complement each other.  You learn how to play fast by playing fast (see :ref:`start_slow_fails`), but once you have some speed and smoothness, slowing down is important:
+Slow and fast practice are both necessary for technique and repertoire, and complement each other.  You learn how to play fast by playing fast (see :ref:`start_slow_fails`), but once you have some speed and smoothness, slowing down is vital.
 
 For example, take the following opening of the :ref:`kreutzer_etude_no_5`:
 
@@ -71,12 +71,13 @@ Playing notes:
 Why this works
 ^^^^^^^^^^^^^^
 
-Slow practicing is great, and is much more mentally tiring than physically.
+Slow practicing is vital, and is much more mentally tiring than physically.
 
-* It ensures that you are playing the right stuff. It is easy to go full out, and not notice irregularities in timing or tone. Slow and extremely even practice works out the bumps.
+* It lets you observe your tension levels in your whole body and mind.
+* You can fine-tune necessary motions and suppress (inhibit) unnecessary ones, which you can then apply to your fast playing.
 * Your body can accurately "feel" the motions internally.  "Proprioception" refers to the body's ability to perceive its own position and motion, and the body's analysis and synthesis of these proprioceptive signals is important for motor skill acquisition.  When we practice fast material, we're throwing a pile of information at our nervous system, and slowing down ensures that the proprioceptive sensations are clear and distinct.
-* It you observe and fine-tune necessary motions and suppress (inhibit) unnecessary ones, which you can then apply to your fast playing.
+* It ensures that you are playing the right stuff. It is easy to go full out, and not notice irregularities in timing or tone. Slow and extremely even practice works out the bumps.
 
 For repertoire, once you have a piece down pat, slow practice has the same benefits, plus it ensures that you're never completely relying on muscle memory during performance, and are in full control.
 
-.. note:: Reminder: "Slow Practice" is about fast motions at a slower tempo, not playing things in slow motion!
+.. note:: Reminder: "Slow Practice" is about fast motions at a slower tempo, or even no tempo, not playing things in slow motion!
