@@ -40,4 +40,4 @@ So, I'll be preachy:
 
 .. tip:: Pay attention to what you're doing!
 
-... and hope that the above tip comes across with the right tone.
+... and I hope that the above tip comes across in the spirit it's intended!
