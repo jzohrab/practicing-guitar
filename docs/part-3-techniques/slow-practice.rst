@@ -24,6 +24,7 @@ Picking hand
 For slow tempo picking, do staccato picking:  with a small "twitch", move your pick very quickly through the string, and immediately stop the string from ringing by resting the pick on the other side of the string.  There is no large muscle involvement, it should be a very short sharp motion, with just enough twitch to get the pick through the string -- you can still get a good loud tone with a fast twitch.
 
 .. vextab::
+   :example: techniques/slow-practice/picking.mp3
 
    tabstave notation=true key=Eb
    notes :q 3d/1 $.a./top.$ 6u/1 $.a./top.$ 4d/1 $.a./top.$ 3u/1 $.a./top.$ 6d/2 $.a./top.$ 4u/2 $.a./top.$
@@ -43,6 +44,7 @@ There are two different ways I can suggest for slow-practicing your fretting han
 1. Soft, staccato
 
 .. vextab::
+   :example: techniques/slow-practice/staccato_hammers.mp3
 
    tabstave notation=true key=Eb
    notes :q 3/1 $.a./top.$ 6/1 $.a./top.$ 4/1 $.a./top.$ 3/1 $.a./top.$ 6/2 $.a./top.$ 4/2 $.a./top.$
@@ -59,6 +61,7 @@ This is tiring work, for the central nervous system.
 2. Firm, legato
 
 .. vextab::
+   :example: techniques/slow-practice/legato_hammers.mp3
 
    tabstave notation=true key=Eb
    notes :q 3/1 6/1 4/1 3/1 6/2 4/2
