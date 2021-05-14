@@ -4,6 +4,7 @@ Kreutzer Etude #5
 -----------------
 
 .. vextab::
+   :noexample:
 
    tabstave notation=true key=Eb time=12/8
    notes :8 3/1 6/1 4/1 3/1 6/2 4/2 3/2 6/2 4/2 3/2 5/3 3/3 | 4/2 3/1 6/2 4/2 3/2 5/3 4/3 7/3 5/3 4/3 7/4 5/4 |

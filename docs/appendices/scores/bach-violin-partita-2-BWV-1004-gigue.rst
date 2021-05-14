@@ -6,6 +6,7 @@ Gigue, BWV 1004 Violin Partita no. 2, J.S. Bach
 (First half)
 
 .. vextab::
+   :noexample:
 
    # First three measures.
    tabstave notation=true key=Dm time=12/8
