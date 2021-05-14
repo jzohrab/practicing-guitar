@@ -20,6 +20,7 @@ For example, take this scalar lick, strictly alternate picked, which you're aimi
 If you try to play this passage without dividing it into several groups with regular accents, then each movement of each single finger would need a separate impulse from the central nervous system:
 
 .. vextab::
+   :noexample:
 
    notes :16 5-7-5-4-5/3
    text  :16,.12,go,go,go,go,blarg...
@@ -31,6 +32,7 @@ The faster and smoother we want to play, the greater the number of tones that ha
 For this particular lick, it makes sense to group things on every beat, so each impulse is associated with four notes:
 
 .. vextab::
+   :noexample:
 
    notes :16 5-7-5-4/3 5-7/3 5-6/2 8-5-6-8/2 5-7-8-7/1 | :h 8/1
    text  :q,.12,go,go,go,go,:h,.12,nice!
@@ -74,6 +76,7 @@ Larger chunks for faster music
 If, like an utter madman, you wanted to play this lick at some ungodly tempo, you'd want to make your chunks even chunkier:
 
 .. vextab::
+   :noexample:
 
    notes :32 5/3 $.a>/top.$ 7-5-4-5-7/3 5-6/2 8/2 $.a>/top.$ 5-6-8/2 5-7-8-7/1 | :h 8/1
    text  :q,.22,ehr,mah,:h,.22,gerd

@@ -29,7 +29,7 @@ Example: Travis picking
 Here's a typical picking pattern (it's not as scary as the notation suggests):
 
 .. vextab::
-   :debug:
+   :example: techniques/dropping-notes/Travis_picking.mp3
 
    notes :16 3/5 0/3 2/4 1/2 3/6 0/3 :8 2/4 | :16 3/5 0/3 2/4 1/2 3/6 0/3 :8 2/4
    text :w,.1,let all notes ring
@@ -37,6 +37,7 @@ Here's a typical picking pattern (it's not as scary as the notation suggests):
 Rather than look at this as one long string of notes, it's better to think of this as two voices, a bass providing a steady 8th note pulse, and an accompaniment (fingerings shown below each):
 
 .. vextab::
+   :noexample:
 
    options beam-rests=false scale=0.85 font-style=italic
    tabstave notation=true
@@ -49,6 +50,7 @@ Per the method, we'll start with the bass voice.  Each note is played with the t
 
 
 .. vextab::
+   :example: techniques/dropping-notes/bass_voice.mp3
    :width: 400
 
    :8 3/5 $3$ 2/4 $2$ 3/6 $3$ 2/4 $2$ =:|
@@ -59,7 +61,8 @@ When both feel *ingrained and automatic* up to tempo (you can do them while chat
 
 .. vextab::
    :width: 400
-
+   :example: techniques/dropping-notes/bass_plus_1_melody_note.mp3
+   
    options beam-rests=false scale=0.85 font-style=italic
    tabstave notation=true
    voice
@@ -73,6 +76,7 @@ Then add another note, still keeping the bass steady and up to tempo:
 
 .. vextab::
    :width: 400
+   :example: techniques/dropping-notes/bass_plus_2_melody_notes.mp3
 
    options beam-rests=false scale=0.85 font-style=italic
    tabstave notation=true
@@ -85,6 +89,7 @@ And finally the last note, all automatic and up to tempo:
 
 .. vextab::
    :width: 500
+   :example: techniques/dropping-notes/bass_plus_3_melody_notes.mp3
 
    options beam-rests=false scale=0.85 font-style=italic
    tabstave notation=true
@@ -103,6 +108,7 @@ Example: Bach
 Here's a more complicated example from Bach.
 
 .. vextab::
+   :example: techniques/dropping-notes/Bach,_all_voices.mp3
 
    tabstave notation=true
    voice
@@ -117,6 +123,7 @@ Here's a more complicated example from Bach.
 Though it's not apparent from the rather messy notation, this is actually four independent voices.  Here they are on separate staves, with fingerings added below each note:
 
 .. vextab::
+   :noexample:
 
    options space=20 scale=0.8
    tabstave notation=true
@@ -134,7 +141,7 @@ Though it's not apparent from the rather messy notation, this is actually four i
    tabstave notation=true
    notes :q 7/6 $3$ 7/6 $3$ 0/5 0/5                            | 4/6 $3$ 0/5 7/6 $3$ 4/6 $1$
 
-If you tried to play the initial tab as written ... well, it's tough.  It's hard to keep the different lines distinct.
+If you try to play the initial tab as written without breaking it down ... well, it's tough.  It's hard to keep the different lines distinct.
 
 Applying the method, you'd first start playing each line completely separately, *using the correct fingering and motions for that voice* (otherwise you won't be able to put everything back together).
 
@@ -146,10 +153,12 @@ Joining two voices
 We'll start with the bottom (bass) and top (melody) voices, first mastering each independently, so we can play them without thinking.
 
 .. vextab::
+   :example: techniques/dropping-notes/bach_bass.mp3
 
    notes :q 7/6 7/6 0/5 0/5
 
 .. vextab::
+   :example: techniques/dropping-notes/bach_melody.mp3
 
    :8 6/4 $2$ h7/4 $4$ :q 0/2 :8 T0/2 5/3 $4$ :q 3/2 $2$
 
@@ -159,6 +168,7 @@ Once those are mastered, we'll play the full measure of the bass, and just drop 
 
 .. vextab::
    :width: 400
+   :example: techniques/dropping-notes/bach_bass_plus_1.mp3
 
    voice
    notes :w 6/4
@@ -168,6 +178,7 @@ Once those are mastered, we'll play the full measure of the bass, and just drop 
 Then add a note, playing until it's automatic:
 
 .. vextab::
+   :example: techniques/dropping-notes/bach_bass_plus_2.mp3
 
    voice
    notes :8 6/4 h7/4 :hd T7/4
@@ -177,6 +188,7 @@ Then add a note, playing until it's automatic:
 And so on, gradually chaining notes together in the top voice:
 
 .. vextab::
+   :example: techniques/dropping-notes/bach_bass_plus_3.mp3; techniques/dropping-notes/bach_bass_plus_4.mp3
 
    tabstave notation=true
    voice
@@ -187,22 +199,26 @@ And so on, gradually chaining notes together in the top voice:
 Until you reach the end.  Then, depending on how you feel, you can repeat the process going the other way:
 
 .. vextab::
+   :example: techniques/dropping-notes/bach_melody_plus_1.mp3
 
    tabstave notation=true
    voice
-   notes :8 6/4 h7/4 :q 0/2 :8 t0/2 5/3 :q 3/2
+   notes :8 6/4 h7/4 :q 0/2 :8 T0/2 5/3 :q 3/2
    voice
    notes :w 7/6
 
 .. vextab::
+   :example: techniques/dropping-notes/bach_melody_plus_2.mp3
 
    tabstave notation=true
    voice
-   notes :8 6/4 h7/4 :q 0/2 :8 t0/2 5/3 :q 3/2
+   notes :8 6/4 h7/4 :q 0/2 :8 T0/2 5/3 :q 3/2
    voice
-   notes :q 7/6 7/6 :h t7/6
+   notes :q 7/6 7/6 :h T7/6
 
 and so on.
+
+This example may feel contrived due to the simplicity of the bass line, but the tricky part here is the fingering and voice balance.  With other material, like bass-chord-melody fingerstyle arrangements with lots of rhythms, this method is great.
 
 Adding another voice
 ++++++++++++++++++++
@@ -212,6 +228,7 @@ Once you have these two voices down for this measure, and can feel them working 
 First, you ensure that you can play that third voice independently and automatically.
 
 .. vextab::
+   :noexample:
 
    :q ## :8 0/4 7/5 $4$ :qd 3/4 $1$ :8 0/4 | :w 2/4 $1$
 
