@@ -7,7 +7,6 @@ Part II - Getting Organized
 A big part of effective practice is about getting organized, and chunking your practice routine so that your body gets a clear message to adapt to new requirements.
 
 .. toctree::
-   :hidden:
 
    self
    time-and-schedule
