@@ -13,6 +13,7 @@ Ghosting lets you focus on the melody, without forgetting about the rest of the 
 For example, here's a simple arrangement of the first few bars of the tune "Freight Train":
 
 .. vextab::
+   :example: techniques/ghosting/freight_train_intro.mp3
 
    tabstave notation=true
    voice
@@ -20,9 +21,10 @@ For example, here's a simple arrangement of the first few bars of the tune "Frei
    voice
    notes :8 3/5 2/4 3/6 2/4 3/5 2/4 3/6 2/4 | 3/6 3/4 5/5 3/4 3/6 3/4 5/5 3/4
 
-If you weren't satisfied with how you're expressing the melody, just play that, continuing to position and move all fingers (fretting and plucking hand), including non-melody ones, where they would be if you were playing the full piece:
+If you aren't satisfied with how you're expressing the melody, try playing just that, continuing to position and move all fingers (fretting and plucking hand), including non-melody ones, where they would be if you were playing the full piece:
 
 .. vextab::
+   :example: techniques/ghosting/melody_with_ghosted_bass.mp3
 
    options tab-stems=true scale=0.85
    tabstave
@@ -31,11 +33,11 @@ If you weren't satisfied with how you're expressing the melody, just play that, 
    voice
    notes :8 X/5 X/4 X/6 X/4 X/5 X/4 X/6 X/4 | X/6 X/4 X/5 X/4 X/6 X/4 X/5 X/4
 
-*The ghosted notes here are marked as "X": they're not muted or muffled, simply pretend to play them.*
+*The ghosted notes here are marked as "X": they're not muted or muffled, simply pretend to play them, or play them as quietly as you can.*
 
 Everything should be the same for all other voices.  Experiment with fretting or simply placing the other non-melody fingers.
 
 Why this works
 ^^^^^^^^^^^^^^
 
-For complex pieces, it's easy to get absorbed in the mechanics of playing, and accidentally lose the melody.  By ghosting non-melody voices, you'll be able to catch all of the subtleties of the melody, and focus on them, but in a realistic manner.
+For complex pieces, it's easy to get absorbed in the mechanics of playing, and accidentally lose the melody.  By ghosting non-melody voices, you'll be able to sort out the mechanics of the melody within the proper context of the full piece, so you can focus on bringing it out and expressing it better.
