@@ -20,16 +20,18 @@ For example, here's a simple arrangement of the first few bars of the tune "Frei
    voice
    notes :8 3/5 2/4 3/6 2/4 3/5 2/4 3/6 2/4 | 3/6 3/4 5/5 3/4 3/6 3/4 5/5 3/4
 
-If you weren't satisfied with how you're expressing the melody, just play that, continuing to position and move all fingers (fretting and plucking hand), including non-melody ones, where they would be if you were playing the full piece (note -- though the notes are marked as "X", they're not muted/muffled notes, they're just here as a reminder):
+If you weren't satisfied with how you're expressing the melody, just play that, continuing to position and move all fingers (fretting and plucking hand), including non-melody ones, where they would be if you were playing the full piece:
 
 .. vextab::
 
-   options tab-stems=true
+   options tab-stems=true scale=0.85
    tabstave
    voice
    notes :q 3/1 0/1 3/2 0/2 | :q 4/3 :8 3/1 6/2 :h T6/2
    voice
    notes :8 X/5 X/4 X/6 X/4 X/5 X/4 X/6 X/4 | X/6 X/4 X/5 X/4 X/6 X/4 X/5 X/4
+
+*The ghosted notes here are marked as "X": they're not muted or muffled, simply pretend to play them.*
 
 Everything should be the same for all other voices.  Experiment with fretting or simply placing the other non-melody fingers.
 
