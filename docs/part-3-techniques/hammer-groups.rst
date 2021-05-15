@@ -17,6 +17,7 @@ Example
 Here's the G minor arpeggio from the :ref:`bach_bwv_1004_gigue` (fingerings are below each note):
 
 .. vextab::
+   :noexample:
 
    tabstave notation=true key=F time=12/8
    notes :16 3/6 $1$ 6/6 $3$ 5/5 $2$ 5/4 $1$ 8/4 $3$ 7/3 $2$ 8/2 $4$ 6/1 $1$ 8/2 $4$ 7/3 $2$ 8/4 $3$ 5/4 $1$
@@ -25,14 +26,16 @@ We can take any part of it that contains notes that we can fret simultaneously, 
 
 .. vextab::
    :width: 400
+   :noexample:
 
    tabstave notation=true key=F
    notes :16 8/4 $3$ 7/3 $2$ 8/2 $4$ 6/1 $1$
 
-The above section uses each fretting finger once, so we can depress all of these notes as a chord.  We can lightly hammer-on all of them as a unit, and "bounce" up and down on the chord to ensure it's comfortable:
+The above section uses each fretting finger once, so we can depress all of these notes as a chord.  We can lightly hammer-on all of them as a unit, and "bounce" up and down on the chord to ensure our finger positions are comfortable:
 
 .. vextab::
    :width: 400
+   :example: techniques/hammer-groups/bouncing_the_group.mp3
 
    tabstave notation=true key=F
    notes :8 (8/4.7/3.8/2.6/1)  (8/4.7/3.8/2.6/1)  (8/4.7/3.8/2.6/1)
@@ -41,13 +44,17 @@ Now, if we *very slightly* offset the time at which each subsequent finger hits 
 
 .. vextab::
    :width: 400
+   :example: techniques/hammer-groups/hammer_group.mp3
 
    tabstave notation=true key=F
    notes :64 8/4 $3$ 7/3 $2$ 8/2 $4$ 6/1 $1$
 
+(At this point, I'm most interested in the rhythmic evenness of the group.  I'm doing this on an acoustic, and sounding this solely with hammer-ons isn't realistic, so this is all prep work for picking this arpeggio.  If on an electric, this might be sufficient to sound the notes.  Rhythmic evenness the most important thing; without that accuracy, it doesn't matter how fast you play it, it won't sound great.)
+
 You might want to do each pair of fingers separately first, before joining all four:
 
 .. vextab::
+   :example: techniques/hammer-groups/finger_pairs.mp3
 
    tabstave notation=true key=F
    notes :64 8/4 $3$ 7/3 $2$ | 7/3 $2$ 8/2 $4$ | 8/2 $4$ 6/1 $1$ | 8/4 $3$ 7/3 $2$ 8/2 $4$ 6/1 $1$
@@ -66,9 +73,10 @@ Other Hammer Groups
 The above arpeggio has other hammer groups.  All notes in each measure are hammered together as a chord, but the notes marked with an "x" won't sound because they're masked by higher frets on the same string:
 
 .. vextab::
+   :example: techniques/hammer-groups/other_groups.mp3
 
    tabstave notation=true key=F
-   notes :16 3/6 $x$ (6/6.5/5) | (6/6.5/5.5/4) | 5/4 $x$ (8/4.7/3.8/2) | (8/4.7/3.8/2.6/1) | (6/1.8/2.7/3.8/4) | 5/4 $x$ (8/2.7/3.8/4)
+   notes :16 3/6 $x$ (6/6.5/5) | (6/6.5/5.5/4) | 5/4 $x$ (8/4.7/3.8/2) | (8/4.7/3.8/2.6/1)
 
 You could take each group, and bounce them as a chord to get good initial finger placements, and then "slow them down" to very fast arpeggios:
 
@@ -80,6 +88,7 @@ Hammer groups have to be joined (alas), but here is one way to work on it.
 Let's take the first two hammer groups of the full arpeggio:
 
 .. vextab::
+   :example: techniques/hammer-groups/group_1_and_2.mp3
 
    tabstave notation=true key=F
    notes :32 3/6 $1$ 6/6 $3$ 5/5 $2$ | 5/4 $1$ 8/4 $3$ 7/3 $2$ 8/2 $4$ |
@@ -88,6 +97,7 @@ You should be able to play each of them lightning fast, each as a single "impuls
 
 .. vextab::
    :width: 400
+   :example: techniques/hammer-groups/group_1_and_jump.mp3
 
    tabstave notation=true key=F
    notes :32 3/6 $1$ 6/6 $3$ 5/5 $2$ | :q 5/4 $1$
@@ -97,6 +107,7 @@ Repeat that until the jump has started to meld into the "impulse group" of the f
 Maybe add a few notes from the second hammer group, just to be sure of the hand placement:
 
 .. vextab::
+   :noexample:
 
    tabstave notation=true key=F
    notes :32 3/6 $1$ 6/6 $3$ 5/5 $2$ | 5/4 $1$ :8 8/4 $3$ :q T8/4
@@ -104,6 +115,7 @@ Maybe add a few notes from the second hammer group, just to be sure of the hand 
 Then join these two impulse groups together:
 
 .. vextab::
+   :example: techniques/hammer-groups/joined_groups.mp3
 
    tabstave notation=true key=F
    notes :32 3/6 $1$ 6/6 $3$ 5/5 $2$ 5/4 $1$ 8/4 $3$ 7/3 $2$ 8/2 $4$ |
