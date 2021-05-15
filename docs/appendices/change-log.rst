@@ -21,6 +21,6 @@ A summary of document changes for each release.
 
    Then edit the output that's been appended.
 
-* TODO date here: Initial draft publication (TODO tag here)
+* 2021-05-14: First draft complete
 
   * Everything is brand new, so the only thing that changed is everything.
