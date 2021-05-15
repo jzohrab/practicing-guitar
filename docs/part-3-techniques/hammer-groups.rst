@@ -63,12 +63,12 @@ The fastest that you can play this hammer group with strict rhythmic accuracy is
 Other Hammer Groups
 +++++++++++++++++++
 
-The above arpeggio has other hammer groups.  All notes in each measure are hammered together as a chord, but the notes marked with an asterisk won't sound because they're masked by higher frets on the same string:
+The above arpeggio has other hammer groups.  All notes in each measure are hammered together as a chord, but the notes marked with an "x" won't sound because they're masked by higher frets on the same string:
 
 .. vextab::
 
    tabstave notation=true key=F
-   notes :16 3/6 $*$ (6/6.5/5) | (6/6.5/5.5/4) | 5/4 $*$ (8/4.7/3.8/2) | (8/4.7/3.8/2.6/1) | (6/1.8/2.7/3.8/4) | 5/4 $*$ (8/2.7/3.8/4)
+   notes :16 3/6 $x$ (6/6.5/5) | (6/6.5/5.5/4) | 5/4 $x$ (8/4.7/3.8/2) | (8/4.7/3.8/2.6/1) | (6/1.8/2.7/3.8/4) | 5/4 $x$ (8/2.7/3.8/4)
 
 You could take each group, and bounce them as a chord to get good initial finger placements, and then "slow them down" to very fast arpeggios:
 

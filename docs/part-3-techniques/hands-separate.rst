@@ -20,6 +20,7 @@ Example
 Take the G minor arpeggio from the :ref:`bach_bwv_1004_gigue`, and suppose you wanted to alternate pick every note:
 
 .. vextab::
+   :noexample:
 
    tabstave notation=true key=F time=12/8
    notes :16 3d/6 6u/6 5d/5 5u/4 8d/4 7u/3 8d/2 6u/1 8d/2 7u/3 8d/4 5u/4
@@ -33,6 +34,7 @@ This passage contains many difficulties:
 You can reduce the fretting hand to a series of hammer-ons (each note is hammered):
 
 .. vextab::
+   :noexample:
 
    tabstave notation=true key=F time=12/8
    notes :16 3/6 $H 1$ 6/6 $H 3$ 5/5 $H 2$ 5/4 $H 1$ 8/4 $H 3$ 7/3 $H 2$ 8/2 $H 4$ 6/1 $H 1$ 8/2 $H 4$ 7/3 $H 2$ 8/4 $H 3$ 5/4 $H 1$
@@ -40,6 +42,7 @@ You can reduce the fretting hand to a series of hammer-ons (each note is hammere
 For the picking work, you can just mute all the strings (and give your fretting hand a break), or just lay your middle finger across the 12th fret to get harmonics:
 
 .. vextab::
+   :noexample:
 
    tabstave notation=false time=12/8
    notes :16 12d/6 12u/6 12d/5 12u/4 12d/4 12u/3 12d/2 12u/1 12d/2 12u/3 12d/4 12u/4

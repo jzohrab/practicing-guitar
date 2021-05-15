@@ -17,6 +17,7 @@ Picking hand
 From a picking-only perspective, these measures are equivalent, though the notes are different:
 
 .. vextab::
+   :noexample:
 
    :16 3d/6 7u/6 5d/5 5u/4 9d/4 7u/3 8d/2 7u/1 | :16 3d/6 3u/6 5d/5 5u/4 5d/4 4u/3 3d/2 3u/1
 
@@ -25,6 +26,7 @@ The second measure is easier than the first, because the fretting hand can stay 
 Same with this:
 
 .. vextab::
+   :noexample:
 
    :16 7d-9u-10d-7u-9d-10u/4 7d-10u/3 :q 9d/3 | :16 7d-7u-7d-7u-7d-7u/4 9d-9u/3 :q 9d/3
 
@@ -33,6 +35,7 @@ If I can't pick the second one well, I won't be able to do the first (which is m
 And a crosspicking example (all alternate picked).  Before I do this fast:
 
 .. vextab::
+   :noexample:
 
    options scale=0.85 tab-stems=true tab-stem-direction=down
    tabstave time=12/8
@@ -41,6 +44,7 @@ And a crosspicking example (all alternate picked).  Before I do this fast:
 I need to be able to do this, completely fast and loose:
 
 .. vextab::
+   :noexample:
 
    options scale=0.85 tab-stems=true tab-stem-direction=down
    tabstave time=12/8
@@ -56,6 +60,7 @@ Fretting hand shifts to new chords can often be practiced independently for repe
 Another more fiendish example would be something like the following (part of a longer arpeggio sequence):
 
 .. vextab::
+   :noexample:
 
    :16 12d/1 7u/1 8d/2 9u/3 11d/1 8u/1 10d/2 11u/3
 
