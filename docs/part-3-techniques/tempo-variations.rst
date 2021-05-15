@@ -13,29 +13,32 @@ Method 1: Floor It, then refine
 Suppose you want to play the :ref:`kreutzer_etude_no_5` at 160 BPM:
 
 .. vextab::
+   :example: techniques/slow-practice/Kreutzer_etude_intro.mp3
 
    tabstave notation=true key=Eb time=12/8
    notes :8 3/1 6/1 4/1 3/1 6/2 4/2 3/2 6/2 4/2 3/2 5/3 3/3 | 4/2 3/1 6/2 4/2 3/2 5/3 4/3 7/3 5/3 4/3 7/4 5/4 |
 
 If you can't quite get it, setting the metronome at 160 and repeating endlessly won't give you or your body much chance to experiment and learn about playing.  Shake it up a bit!
 
-1. Ensure you have a rough idea of how you will play it -- work out basics at a comfortable tempo.
+1. Ensure you have a rough idea of how you will play it -- work out basics at a comfortable tempo, whatever you can do that feels relaxed, and is rhythmically even and accurate.
 
-2. Floor it!  Put the metronome *beyond* the target speed -- sometimes far beyond it, and see what happens.  Here's the metronome at 200!
+2. Floor it!  Put the metronome *beyond* the target speed -- sometimes far beyond it, and see what happens.
 
 .. vextab::
+   :noexample:
    :width: 500
 
    tabstave notation=true key=Eb time=12/8
    notes :8 3/1 6/1 4/1 3/1 6/2 4/2 3/2 6/2 4/2 3/2 5/3 3/3
 
-Work on that for a short while, at most one minute.
+Take a short snippet, and try it for a short while, at most one minute.
 
 .. warning:: It is very important that you continue to stay loose -- if you tighten up to hit tempo, you're teaching your body the wrong thing!  Always aim for ease in playing.
 
 3. Take the metronome back down to the target tempo, see how it feels:
 
 .. vextab::
+   :noexample:
    :width: 500
 
    tabstave notation=true key=Eb time=12/8
@@ -44,6 +47,7 @@ Work on that for a short while, at most one minute.
 4. Then, give yourself a break, and take it down to 120, or 100, and see how easy it feels at that tempo.
 
 .. vextab::
+   :noexample:
    :width: 500
 
    tabstave notation=true key=Eb time=12/8
