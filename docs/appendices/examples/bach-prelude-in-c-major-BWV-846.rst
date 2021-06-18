@@ -41,8 +41,6 @@ Items to cover:
 
 Practising the prelude
 
-This section shows how I have applied the techniques in this book to practising real repertoire and technique. I’m using myself as an example, because I want these to be realistic. Really, I can only speak from my own experience, but hopefully it’s useful. Take everything I say here as just suggestions or possibilities for your own practice. I if you have a specific question, let me know in the feedback. Good luck!
-
 For this piece, if you haven’t heard it already, check out a few renditions. This is originally a harpsichord piece, or early piano piece, I’m not sure. So listen to some piano performances or some other guitar arrangements, including mine, to hear some possibilities.
 
 For starting a piece like this, which appears simple but for me is quite challenging, it’s tempting to start at the beginning and play through to the end. Repeating this forever, and never really feeling secure.
