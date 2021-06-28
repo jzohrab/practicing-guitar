@@ -24,6 +24,15 @@ If you've done focused work during your 20 minutes, that's sufficient for your b
 
 .. tip:: Get a timer, set it to 20 minutes, and at the end of 20 minutes, stop!
 
+20 minutes is just a suggestion
+-------------------------------
+
+Though I've said "20 minutes" a few times above, it's not carved in stone (nothing is, really).  The key points are mentioned above: you need to be active, alert, mindful, relaxed, curious, and interested in what you're doing!  Sometimes, it's extremely interesting and useful to work on something for up to an hour, as you try different methods, musical expressions, physical approaches, etc.
+
+.. tip:: *Never* practice mindlessly.
+
+   Practicing on autopilot is not practicing, it's just moving your limbs and making sounds.  It can feel like practice, because you're *working hard, dammit,* but it's not.  Keep your brain and body engaged -- never "grind away" at it.  That will ultimately dull your musical self.
+
 Using 20 minutes
 ----------------
 
@@ -80,3 +89,18 @@ If your daily practicing is going well, you will soon get a feel for what kind o
 Sometimes things need some "baking time" to set.  I've found that if I practice a given technique very hard for a few days, I can take a day or so break from it, and work on something else.  And some pieces of repertoire need to seep into the unconscious.
 
 With that said, it's much better to work on something bit by bit over several days, rather than cram one long session.  The repeated exposure and rest is what causes your brain to grow.
+
+Don't forget fun
+----------------
+
+With all of the above, it's easy to forget that you need time to just *play*, *enjoy it*, and to *be musical*.  This can be anything like the following:
+
+* playing through your repertoire, either in performance or for your own enjoyment
+* playing along with records or backing tracks, really being expressive
+* free improvisation
+* writing songs
+* singing, playing other instruments
+* actively listening to stuff that really gets your motor going
+* making any kind of glorious noise
+
+Fun is important.  Have some!
