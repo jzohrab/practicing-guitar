@@ -3,40 +3,37 @@ Bach Prelude in C Major
 
 A "shorthand" version of the full score is at :ref:`bach_wtc_prelude_in_c_major`.
 
-.. todo:: fill in content here
+Introduction
+------------
 
 
-Items to cover:
+.. todo:: Items to cover:
 
-* add practice notes to book
-* started from the end
-* listened to 2 recordings
-* worked out trouble spots
-* had everything more or less memorized, but (along with general roughness) could isolate a few spots where things particularly fell apart.  Identified those and practiced them separately
-
-* simple piece, but some good things to cover
-* overview of piece, listening to examples
-* performance choices - articulation, etc
-* the practice schedule - 20 mins for each chunk, then move along to next one
-* mental practice of overall structure
-* backchaining for memorization
-* chaining to deal with problem sections
-  * final G with weird pull offs
-  * F - F#o
-  * F#o - Abo
-  * Go - Dm/F
-* simplify - just shifting chords
-* things that should have been easy, but weren't -- 7x20
-  * G7 with open strings
-  * first chords!!!
-* dropping notes - to pull out the bass line
-* slow practice, of course, for changes, right hand, tension everywhere
-* other technical notes:
-  * tension
-  * barre chords are tough
-* my own practice log for this piece
-
-.. todo:: consider pulling out examples to part 4!
+   * started from the end
+   * listened to 2 recordings
+   * practiced 20 mins
+   * worked out trouble spots
+   * had everything more or less memorized, but (along with general roughness) could isolate a few spots where things particularly fell apart.  Identified those and practiced them separately
+   * simple piece, but some good things to cover
+   * overview of piece, listening to examples
+   * performance choices - articulation, etc
+   * the practice schedule - 20 mins for each chunk, then move along to next one
+   * mental practice of overall structure
+   * chaining to deal with problem sections
+     * final G with weird pull offs
+     * F - F#o
+     * F#o - Abo
+     * Go - Dm/F
+   * simplify - just shifting chords
+   * things that should have been easy, but weren't -- 7x20
+     * G7 with open strings
+     * first chords!!!
+   * dropping notes - to pull out the bass line
+   * slow practice, of course, for changes, right hand, tension everywhere
+   * other technical notes:
+     * tension
+     * barre chords are tough
+   * my own practice log for this piece
 
 
 Practising the prelude
@@ -124,6 +121,3 @@ I just played these troublesome sections a few times a day, over several days, w
 Then, since piecemeal practising can get tedious, I would try to play those short sections in context, where the measure before and measure afterwards, playing it slow and relax just carrying forward the things I found during concentrated practice.
 
 The details here might seem overwhelming and pretty damn tedious. Are so it’s important to keep in mind, so while working on these sections, I was concentrating on the quality of sound, trying to make even the shortest sections something musical. It’s all just give-and-take you know it’s Leica 
-
-
-.. todo:: sort out rough notes
