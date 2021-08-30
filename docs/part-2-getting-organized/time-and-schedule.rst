@@ -8,7 +8,7 @@ As covered in :ref:`part-1-on-technique`, playing guitar is a nervous system act
 The ideal practice schedule:
 
 1. Practice hard for 20 minutes.
-2. Take a short break, noting any observations.  Shake things out, stretch.
+2. Take a short break.
 3. Go back to step 1, and work on *something different*.  You can repeat 20-minute chunks, but they should be spaced out during the day (see :ref:`repeating_chunks` below).
 
 .. note:: Practice as long as you want to, but be sure to break it into these 20-minute chunks.  This is key.
@@ -18,7 +18,6 @@ Why 20 minutes?
 
 * Playing is mostly a mental activity, and so you need to ensure your mind and body are at peak concentration.
 * There is a physical component to playing, so rest is essential for smaller muscles.
-* You need to reflect on the work you've done in those 20 minutes.
 
 If you've done focused work during your 20 minutes, that's sufficient for your brain and nervous system to process and adapt during your rest period.
 
@@ -58,10 +57,16 @@ For repertoire, the 20-minute rule is also applicable.  Take a passage and work 
 
 See :ref:`practicing_repertoire` for more.
 
-Rest
-----
+Taking a break
+--------------
 
-When you're done the 20 minutes, take a short break.  Stretch, relax, make notes.  Your mind, nerves, and muscles need to take a moment to refresh.
+When done your 20-minute session, do **nothing** for a couple of minutes.  Close your eyes and relax -- don't look at your phone, don't rush on to the next thing.
+
+This mindful pause gives your brain time to replay what it did during that practice session. [#]_
+
+.. tip:: Set your timer to 2 minutes, and close your eyes.  Have a mini-meditation break.
+
+When you've done that full mental rest, stretch and shake things out, make any notes, and get ready for the next 20 minutes.
 
 .. _repeating_chunks:
 
@@ -104,3 +109,6 @@ With all of the above, it's easy to forget that you need time to just *play*, *e
 * making any kind of glorious noise
 
 Fun is important.  Have some!
+
+
+.. [#] The importance of taking a complete break and letting your mind organize itself is discussed in the super podcast `How to Learn Skills Faster | Huberman Lab Podcast #20 <https://www.youtube.com/watch?v=xJ0IBzCjEPk>`__, at around the 48-minute mark.
