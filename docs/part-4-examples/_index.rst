@@ -1,5 +1,8 @@
-Examples
-========
+.. _part-4-examples:
+
+##################
+Part IV - Examples
+##################
 
 Applying the ideas in this book to pieces, licks, and techniques.
 
