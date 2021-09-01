@@ -1,5 +1,5 @@
 Tempo Variations
-----------------
+================
 
 .. tech:technique:: tempovariations
    :displayname: Tempo Variations
@@ -7,8 +7,21 @@ Tempo Variations
 
    If aiming for a goal tempo, try going much faster and much slower, to learn how you need to do it.
 
-Method 1: Floor It, then refine
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+This is one of the most versatile practice techniques.  Here are my favorite variations:
+
+.. contents::
+   :local:
+   :depth: 1
+
+Method 1: Slow-Fast-Slow-Fast
+-----------------------------
+
+.. todo:: fill this in
+
+See if notes in https://forum.troygrady.com/t/cliffs-of-dover-hybrid-nightmare/42399/57 help
+
+Method 2: Floor It, then refine
+-------------------------------
 
 Suppose you want to play the :ref:`kreutzer_etude_no_5` at 160 BPM:
 
@@ -57,8 +70,14 @@ Take a short snippet, and try it for a short while, at most one minute.
 
 Keep going back and forth, up and down, with the tempo, sprinting a little bit at high speed, relaxing and cleaning up at lower speed, always exploring and trying to keep things accurate and loose.
 
-Method 2: Slowing down from fast
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Why this works
+^^^^^^^^^^^^^^
+
+* By starting with fast, even if it's messy, you're giving your body and mind a chance to find suitable candidate motions that don't hit a speed wall.
+* Cleaning things up at slower tempos keeps your accuracy high, but continuing to spend time at fast tempos keeps the goal of speed and ease in mind.
+
+Method 3: Slowing down from fast
+--------------------------------
 
 Once you can get through a passage -- even roughly -- another way of working on it, as explained by `Jason Sulliman, trombonist and educator <https://www.youtube.com/watch?v=f9X4h-cY1uw&t=12m43s>`__, is to try at the top speed, and then bring it down:
 
@@ -70,4 +89,4 @@ Why this works
 ^^^^^^^^^^^^^^
 
 * By keeping the goal tempo firmly in mind, and always incorporating it into your practice, you don't build a "speed wall"
-* Cleaning things up at slower tempos keeps your accuracy high, but continuing to spend time at fast tempos keeps the goal of speed and ease in mind.
+* You can build up to your target tempo, but doing so by slowing down to today's practice tempo will ensure that you don't adopt bad motions.
