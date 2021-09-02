@@ -22,22 +22,35 @@ For example, suppose you're working on the hybrid picking technique in the Cliff
 
 .. vextab::
 
-   options scale=0.85
-   tabstave notation=true time=12/8
+   options scale=0.85 tab-stems=true
+   tabstave notation=false time=12/8
    notes :16 12d/2 8u/1 12d/3 8u/1 12d/4 8u/1 10d/4 8u/1 10d/3 8u/1 10d/2 8u/1
 
-.. todo:: fill this in
+After getting an idea of the motions required for this lick, you can play a few notes of this at half speed, and then the rest at full speed:
 
-See if notes in https://forum.troygrady.com/t/cliffs-of-dover-hybrid-nightmare/42399/57 help
+.. vextab::
+
+   options scale=0.85 tab-stems=true
+   tabstave notation=false
+   notes :8 12d/2 8u/1 12d/3 8u/1 :16 12d/4 8u/1 10d/4 8u/1 10d/3 8u/1 10d/2 8u/1
+
+During the slow part, pay close attention to how things feel internally (see :tech:ref:`slowpractice` for notes), and find reduce tension.  Then carry that forward into the fast part.  Use what you learn in the fast picking to adjust the slow picking, and so on, in a cycle of refinement.
+
+You can also start the slow picking on different parts of the lick to explore further:
+
+.. vextab::
+
+   options scale=0.85 tab-stems=true
+   tabstave notation=false
+   notes :8 12d/3 8u/1 12d/4 8u/1 :16 10d/4 8u/1 10d/3 8u/1 10d/2 8u/1 12d/2 8u/1
+
+Go as fast or as slow as needed.  Sometimes repeating the same part of a lick, cycling slow and fast, can be helpful.
 
 Why this works
 ^^^^^^^^^^^^^^
 
-Playing fast helps you find the right motions for you, but can also cause you to rapidly accumulate tension everywhere as you try to "push yourself".
-
-Playing slow lets you observe your body and playing, and lets you locate and release tension; however, it might not contribute to your progress if the motions you make aren't approximately the same as when you play fast, and if you can't apply what you learn while playing slow to your fast playing.
-
-.. todo:: complete this
+* Playing fast helps you find the right motions for you, but can also cause you to rapidly accumulate tension everywhere as you try to "push yourself".  Playing slow lets you observe your body and playing, and lets you locate and release tension; however, it might not contribute to your progress if the motions you make aren't approximately the same as when you play fast, and if you can't apply what you learn while playing slow to your fast playing.  Combining the two lets you rapidly refine both.
+* Adjusting the tempo helps keep your focus sharp, so your hands don't start running ahead of your brain.
 
 Method 2: Floor it, then refine
 -------------------------------

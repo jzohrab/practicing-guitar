@@ -41,6 +41,12 @@ ref: https://www.sphinx-doc.org/en/master/usage/extensions/todo.html
 
 ## Links
 
+Link to a technique:
+
+```
+Here is a link to :tech:ref:`slowpractice`
+```
+
 Linking to other .rst pages:
 
 * If the other page has a label defined with `.. _reading-rhythms:`, you can do this:
