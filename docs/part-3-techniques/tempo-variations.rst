@@ -16,11 +16,30 @@ This is one of the most versatile practice techniques.  Here are my favorite var
 Method 1: Slow-Fast-Slow-Fast
 -----------------------------
 
+By mindfully alternating between slow (say, quarter- or half-speed) and fast (full-speed or faster), you can quickly find good approaches to technical difficulties.
+
+For example, suppose you're working on the hybrid picking technique in the Cliffs of Dover intro (all downstrokes are with the pick, all upstrokes are with the middle finger of the picking hand):
+
+.. vextab::
+
+   options scale=0.85
+   tabstave notation=true time=12/8
+   notes :16 12d/2 8u/1 12d/3 8u/1 12d/4 8u/1 10d/4 8u/1 10d/3 8u/1 10d/2 8u/1
+
 .. todo:: fill this in
 
 See if notes in https://forum.troygrady.com/t/cliffs-of-dover-hybrid-nightmare/42399/57 help
 
-Method 2: Floor It, then refine
+Why this works
+^^^^^^^^^^^^^^
+
+Playing fast helps you find the right motions for you, but can also cause you to rapidly accumulate tension everywhere as you try to "push yourself".
+
+Playing slow lets you observe your body and playing, and lets you locate and release tension; however, it might not contribute to your progress if the motions you make aren't approximately the same as when you play fast, and if you can't apply what you learn while playing slow to your fast playing.
+
+.. todo:: complete this
+
+Method 2: Floor it, then refine
 -------------------------------
 
 Suppose you want to play the :ref:`kreutzer_etude_no_5` at 160 BPM:
