@@ -34,7 +34,7 @@ After getting an idea of the motions required for this lick, you can play a few 
    tabstave notation=false
    notes :8 12d/2 8u/1 12d/3 8u/1 :16 12d/4 8u/1 10d/4 8u/1 10d/3 8u/1 10d/2 8u/1
 
-During the slow part, pay close attention to how things feel internally (see :tech:ref:`slowpractice` for notes), and find reduce tension.  Then carry that forward into the fast part.  Use what you learn in the fast picking to adjust the slow picking, and so on, in a cycle of refinement.
+During the slow part, pay close attention to how things feel internally (see :tech:ref:`slowpractice` for notes), and find and reduce tension.  Then carry that forward into the fast part.  Use what you learn while working on the fast part to adjust how you play the slow part (e.g., hand position, muscle engagement, pick attack), and so on, in an ongoing cycle of refinement.
 
 You can also start the slow picking on different parts of the lick to explore further:
 
@@ -46,11 +46,11 @@ You can also start the slow picking on different parts of the lick to explore fu
 
 Go as fast or as slow as needed.  Sometimes repeating the same part of a lick, cycling slow and fast, can be helpful.
 
-Why this works
-^^^^^^^^^^^^^^
+Why slow-fast-slow-fast works
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * Playing fast helps you find the right motions for you, but can also cause you to rapidly accumulate tension everywhere as you try to "push yourself".  Playing slow lets you observe your body and playing, and lets you locate and release tension; however, it might not contribute to your progress if the motions you make aren't approximately the same as when you play fast, and if you can't apply what you learn while playing slow to your fast playing.  Combining the two lets you rapidly refine both.
-* Adjusting the tempo helps keep your focus sharp, so your hands don't start running ahead of your brain.
+* Adjusting the tempo helps keep your mind engaged, so you don't practice on autopilot.
 
 Method 2: Floor it, then refine
 -------------------------------
@@ -102,8 +102,8 @@ Take a short snippet, and try it for a short while, at most one minute.
 
 Keep going back and forth, up and down, with the tempo, sprinting a little bit at high speed, relaxing and cleaning up at lower speed, always exploring and trying to keep things accurate and loose.
 
-Why this works
-^^^^^^^^^^^^^^
+Why floor-it-then-refine works
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * By starting with fast, even if it's messy, you're giving your body and mind a chance to find suitable candidate motions that don't hit a speed wall.
 * Cleaning things up at slower tempos keeps your accuracy high, but continuing to spend time at fast tempos keeps the goal of speed and ease in mind.
@@ -117,8 +117,8 @@ Once you can get through a passage -- even roughly -- another way of working on 
 * The next day, start at the target, try to play it, and again drop the tempo until you can play it perfectly.  e.g. on day 2, you might drop it to 132.
 * And so on.
 
-Why this works
-^^^^^^^^^^^^^^
+Why slowing-down-from-fast works
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * By keeping the goal tempo firmly in mind, and always incorporating it into your practice, you don't build a "speed wall"
 * You can build up to your target tempo, but doing so by slowing down to today's practice tempo will ensure that you don't adopt bad motions.
