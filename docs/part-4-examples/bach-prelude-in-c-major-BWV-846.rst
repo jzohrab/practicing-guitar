@@ -7,33 +7,44 @@ Introduction
 ------------
 
 
-.. todo:: Items to cover:
+.. todo:: cover all items in mentioned.
 
-   * started from the end
-   * listened to 2 recordings
-   * practiced 20 mins
-   * worked out trouble spots
-   * had everything more or less memorized, but (along with general roughness) could isolate a few spots where things particularly fell apart.  Identified those and practiced them separately
-   * simple piece, but some good things to cover
-   * overview of piece, listening to examples
-   * performance choices - articulation, etc
-   * the practice schedule - 20 mins for each chunk, then move along to next one
-   * mental practice of overall structure
-   * chaining to deal with problem sections
-     * final G with weird pull offs
-     * F - F#o
-     * F#o - Abo
-     * Go - Dm/F
-   * simplify - just shifting chords
-   * things that should have been easy, but weren't -- 7x20
-     * G7 with open strings
-     * first chords!!!
-   * dropping notes - to pull out the bass line
-   * slow practice, of course, for changes, right hand, tension everywhere
-   * other technical notes:
-     * tension
-     * barre chords are tough
-   * my own practice log for this piece
+--------
+
+Items to cover:
+
+* started from the end
+* listened to 2 recordings
+* practiced 20 mins
+* worked out trouble spots
+* had everything more or less memorized, but (along with general roughness) could isolate a few spots where things particularly fell apart.  Identified those and practiced them separately
+* simple piece, but some good things to cover
+* overview of piece, listening to examples
+* performance choices - articulation, etc
+* the practice schedule - 20 mins for each chunk, then move along to next one
+* mental practice of overall structure
+* chaining to deal with problem sections
+  * final G with weird pull offs
+  * F - F#o
+  * F#o - Abo
+  * Go - Dm/F
+* simplify - just shifting chords
+* things that should have been easy, but weren't -- 7x20
+  * G7 with open strings
+  * first chords!!!
+* dropping notes - to pull out the bass line
+* slow practice, of course, for changes, right hand, tension everywhere
+* other technical notes:
+  * tension
+  * barre chords are tough
+* my own practice log for this piece
+
+--------
+
+This piece is deceptively simple.  The first few chords are straightforward, and the fingerpicking is simple.  In the past, I used to simply start practicing such pieces by just playing from the beginning, until I hit a tough spot.  I'd tackle a few of these tough spots but never get really confident or *secure* in playing them, so I'd stop playing it that day.  The next day I'd start from the beginning again, etc. etc., and eventually I'd get bored and stop trying because the rough spots weren't getting better.
+
+My "practicing" wasn't really practice!  This approach did work for some things, but for others I needed a better routine.
+
 
 
 Practising the prelude
@@ -46,17 +57,16 @@ Intelligent practising is often about organization.
 
 I establish your practice schedule. I always recommend many shorter practice. Rather than long ones. So, rather than try to play through the whole piece over a course of two hours, I approach things in 20 minute chunks, as outlined here link.
 
+Some great teachers and players advise to take things one section at a time, perfect them, and join sections. That’s great advice, but we can supplement that with some other thoughts and practice techniques.
+
 With this piece, I was working out the arrangement while practising it, so my usual practice method was kind of thrown out the window. So I’ll try to reconstruct how I would have practised if I had the arrangement prepared before hand.
 
 One interesting feature of this piece is that every measure is different, so really each measure is a new challenge. You can’t learn one verse and chorus that you repeat several times. As a result, this piece might take longer to master than you would expect.
 
-People commonly advise to take things small section by small section, perfect each section, and then join them. That’s great advice, but I think that we can improve it just a little bit.
 
 Overall approach
 
 A good technique for memorizing complex repertoire is back training link. So, for this piece I started practising measures from the end, and worked backwards. Then I would focus on the transitions between these sections using forward training, and dropping notes.  I would practice each section following the 7 x 20 rule, meaning I would try to play a section 7 times perfectly within 20 minutes, and then stopping. Since improvement happens during rest., It’s good to practice very concentrated for aperiod of time, and then MoveOn.  I wasn’t used to playing this kind of repertoire, and it took my hands and arms quite a while to find the right motions and to acclimate. You can see the full practice log for this piece down below.
-
-Sometimes, I would find something that really should have been dead simple for me, as a intermediate high intermediate guitarist. So, so much for that assessment. Of my skills.
 
 I’ll give you a rough overview of the process I used for this piece. Due to the fact that I was arranging and solving technical problems at the same time, my approach was very non-linear, but it was still methodical.
 
