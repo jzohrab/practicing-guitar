@@ -1,4 +1,4 @@
-Dropping notes
+Dropping Notes
 --------------
 
 .. tech:technique:: droppingnotes
