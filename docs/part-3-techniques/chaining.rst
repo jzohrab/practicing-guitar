@@ -21,10 +21,12 @@ Chains can sometimes create new difficulties -- see :ref:`trouble_with_bursts` f
 
 .. tip:: Try chaining the same passage both backwards and forwards: sometimes you'll end up with different choices that are more accurate or easier to play, because they’re better suited for your mind and hands.
 
+.. _backwards_chaining:
+
 Backwards chaining
 ------------------
 
-With backwards chaining, you start at the end, and build your chain backwards.  At each step, you ensure that you can play it *more or less* perfectly.  The idea here is that we're putting the big picture together of how things should flow.
+With backwards chaining, you start at the end, and build your chain backwards.  At each step, you ensure that you can play it *more or less* perfectly, and then you add more notes at the start.
 
 First, start with the two notes at the end, and repeat until they smooth out and you can play them at the target tempo.
 
@@ -62,14 +64,14 @@ You may also occasionally find that when you add another link to the chain, you 
 Why this works
 ^^^^^^^^^^^^^^
 
-With backwards chaining, you are always moving from new, less secure territory -- the new notes you add at the beginning of the chain -- into old, secure territory -- the notes at the end of the chain).  One of the determining factors in your speed is how quickly and securely your mind moves.  By playing from less secure to more secure material, your mind can quickly map out how to play the full line, and you can put the whole thing together quicker.
+With backwards chaining, you are always moving from new, less secure territory -- the new notes you add at the beginning of the chain -- into old, secure territory -- the notes at the end of the chain.  One of the determining factors in your speed is how quickly and securely your mind moves.  By playing from less secure to more secure material, your mind can quickly map out how to play the full line, and you can put the whole thing together quicker.
  
 Another reason this is a great technique is its emphasis on follow-through.  You've probably started a song or solo, but then got slightly lost in the middle section where it gets fuzzy and insecure.  There are many reasons for this, but one is that it's very easy to rehearse or think about the *start* of a passage, always working the beginning, and perhaps relying on auto-pilot for the rest.  With backward chaining, you practice the end more, avoiding auto-pilot, so it exposes and deals with the memory weaknesses.
 
 Lastly, breaking things down like this lets you deal with small slices of the problem at a time.  There are several things going on in any lick: fretting, string changes, hand shifts, stretches, etc.  It's much easier to deal with this bit by bit.
 
-Backwards Chaining for memorization
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Backwards chaining for repertoire
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Backwards chaining is exceptionally useful for learning new repertoire -- either licks, or full pieces -- for the same reasons that it's useful for technique.  If you start learning something from the end, rather than the beginning, you'll find that the "feeling" of memorization is quite different, because you're always pre-pending new material to material you've already mastered.
 
