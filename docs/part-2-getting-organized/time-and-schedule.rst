@@ -60,15 +60,14 @@ See :ref:`practicing_repertoire` for more.
 Taking a break
 --------------
 
-When done your 20-minute session, do **nothing** for a couple of minutes.  Close your eyes and relax -- don't look at your phone, don't rush on to the next thing.
+When done your 20-minute session, do **nothing** for a couple of minutes.  Close your eyes and relax -- don't look at your phone, don't rush on to the next thing.  This mindful pause gives you and your mind time to process what you worked on during that practice session. [#]_  I find this pause extremely calming, and it somehow feels *productive*, even though I'm doing nothing!  See if it works for you.
 
-This mindful pause gives your brain time to replay what it did during that practice session. [#]_
+Then start your "regular break".  Stretch, have some water, and shake things out.  Reflect and make notes on the last 20 minutes.  Then relax for whatever duration is good for you.  You might just need a few minutes, or you might need half an hour.  Here are a few thoughts to help you find that duration:
 
-.. tip:: Set your timer to 2 minutes, and close your eyes.  Have a mini-meditation break.
+* You feel ready, mentally and physically, for the next 20-minute session -- whatever "ready" means for you!  Hard technical work might call for a longer break to let things relax.
+* The `Pomodoro Technique <https://todoist.com/productivity-methods/pomodoro-technique/>`_ of time management suggests taking 5-minute breaks after every 25-minute session, and then taking a 15-to-30 minute break every four sessions.
 
-When you've done that full mental rest, stretch and shake things out, make any notes, and get ready for the next 20 minutes.
-
-.. _repeating_chunks:
+A good break should leave you refreshed and still in-the-groove.
 
 Repeating 20-minute chunks
 --------------------------

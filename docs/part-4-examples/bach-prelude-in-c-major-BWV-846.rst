@@ -7,6 +7,9 @@ A "shorthand" version of the full score is at :ref:`bach_wtc_prelude_in_c_major`
 
 -------
 
+.. contents::
+   :local:
+
 Overall approach
 ----------------
 
@@ -30,6 +33,10 @@ Backwards chaining is an interesting practice technique -- give it a shot!
 
 Day 1: Starting with the last G7
 --------------------------------
+
+.. note::
+
+   All tunings here are drop-D; i.e., detune the lower E by a whole step.
 
 I started with the last two measures:
 
@@ -109,106 +116,175 @@ For the next few measures, the fingerings and transitions were relatively clear,
 The Hard Part
 -------------
 
-There are several parts in this piece that are challenging, but the one longest line of toughness is the section in the last third of the piece, starting with F Major 7, going through some diminished chords, and ending on G7:
+There are several parts in this piece that are challenging, but the one longest line of toughness is the section in the last third of the piece, starting with F Major 7, going through some diminished chords, and ending on G7 [#]_:
 
 .. vextab::
 
    options scale=0.85
    # Fmaj7 - F#o - Abo - G7
    tabstave notation=true tuning=dropd
-   notes :16 3/6 3/4 2/3 1/2 0/1 | 4/6 $1$ 6/5 $3$ 7/4 $4$ 5/3 $2$ 4/2 $1$ | A@3_3/6 $2$ 8/5 $4$ 0/2 5/3 $1$ h7/3 $3$ | 5/6 $1$ 8/5 $4$ 0/3 $(P)$ 0/2 7/3 $3$ p0/3 0/2 7/3
+   notes :16 3/6 3/4 2/3 1/2 0/1 | 4/6 $1$ 6/5 $3$ 7/4 $4$ 5/3 $2$ E@5_2/2 $1$ | A@3_3/6 $2$ 8/5 $4$ 0/2 5/3 $1$ h7/3 $3$ | 5/6 $1$ 8/5 $4$ 0/3 $(P)$ 0/2 7/3 $3$ p0/3 0/2 7/3
    text :q,.1,Fmaj7,:16, ,|,:q,F#o,:16, ,|,:q,Abo,:16, ,|,:q,G7
-   options space=25
 
 .. note:: this is a "shorthand" version of the full score, each chord is played for a full measure.
 
-These are unusual chord shapes and fingerings, and it was very hard to find playable guitar chords that would accurately convey the harmony of the original piano score, and not compromise the melody voices.  Even with the simplest chords I could find, it's a challenge.
+After several attempts, I was still jumpy and tense when playing.  Instead of playing it over and over, or starting slow and gradually speeding up [#]_,  I spent about 10 minutes a day investigating it with different practice techniques, and then let my mind and hands adjust and adapt during rest periods.  Everything was experimental: I'd try something for a time, seeing how it felt, then I'd try something else, not frantically changing and also not getting attached to any method.
 
-.. todo:: CONTINUE HERE
+Fast chord changes
+^^^^^^^^^^^^^^^^^^
 
-When working on chunks, I used several techniques as necessary:
+The voicings in this section are unusual.  Since all of the difficulty is in the fretting hand, I practiced this :tech:ref:`handsseparate`, and simply shifted the left hand through different pairs of chords.  For example, for the F major 7 - F# diminished pair:
 
-* :tech:ref:`simplify` and :tech:ref:`handsseparate` for fast shifts of difficult chords
-* :tech:ref:`chaining` for clear chord transitions
-* :tech:ref:`slowpractice` to reduce tension
-* :tech:ref:`droppingnotes` to ensure a smooth and solid bass line
-* :tech:ref:`mentalpractice` between practice sessions
+.. vextab::
 
+   options scale=0.85
+   # Fmaj7 - F#o - Abo - G7
+   tabstave notation=true tuning=dropd
+   notes :h (3/6.3/4.2/3.1/2) (4/6.6/5.7/4.5/3.E@5_2/2) | (3/6.3/4.2/3.1/2) (4/6.6/5.7/4.5/3.E@5_2/2) | (3/6.3/4.2/3.1/2) (4/6.6/5.7/4.5/3.E@5_2/2)
 
+I wanted each chord shift to feel as natural as a regular chord change, such as from C to F in open position.  For each change, I concentrated on a few things:
 
-TheF section
+* Minimizing the fretting pressure applied to the first and second chords.
+* Releasing all tension in the fretting hand and arm during the shift.  It's easy to tense up when moving, or prior to moving, from one chord to the other.
+* Noting the feeling in the hand when in the required chord position -- relative finger placements, extensions, etc.  (This is "proprioception" as mentioned in :tech:ref:`slowpractice`, i.e., the body's ability to know its own position in space.)
 
-After playing after several attempts, after a few attempts, I wasn’t happy with how this section was feeling. It was way too jumpy way too tense. I mean it’s pretty hard there’s some very unusual chord shapes, and it’s easy to get lost in the small details.
+Steady rhythm
+^^^^^^^^^^^^^
 
-Instead of just hammering away at the courts, hoping that things would come together, I used a few different methods to break down the section.
+I had trouble keeping a strong, steady beat during these tough chord changes.  This piece is a simple bass line with arpeggiated chords on top, so I used :tech:ref:`droppingnotes` to gradually build up the full chords on a steady bass line.
 
-And the progress here again was really experimental. Trying something, seeing how it felt, then trying another technique, looking for something that would help. Not getting bogged down in it. Just short practice sessions 10 minutes maybe each day, again a lot of improvement that I get happens after practice sessions and in between practice sessions I can’t control it all that I can do is continually direct it continually refocus myself and just really disinterested or interested and gentle observation.
+Starting with the bass, ensuring I'm using the correct fingering for these notes as I would use in the final performance:
 
-Dropping notes. Since the courts since the piece is a simple baseline and arpeggiated chords on top, one way to approach it is to simply work on the baseline and forget about the top notes. Note that you still put your fingers in position as if you were going to play the top knots, and you use the correct figuring for the bass notes. So one practice session or a part of one practice session might look was me just playing this:
+.. vextab::
 
-Vicks tab example and recording
+   options scale=0.85
+   # Fmaj7 - F#o - Abo - G7
+   tabstave notation=true tuning=dropd
+   notes :16 3/6 $3$ :8d T3/4 $4$ :q T3/4 :16 3/6 :8d T3/4 :q T3/4 |
+   notes :16 4/6 $1$ :8d T6/5 $3$ :q T6/5 :16 4/6 :8d T6/5 :q T6/5 |
+   notes :16 A@3_3/6 $2$ :8d 8/5 $4$ :q T8/5 :16 A@3_3/6 :8d 8/5 :q T8/5 |
+   notes :16 5/6 $1$ :8d 8/5 $4$ :q T8/5 :16 5/6 :8d 8/5 :q T8/5 |
 
-I then tried playing just the bass notes, followed by one of the melody notes. This ensures that my hands my fingers were in roughly the right spots.
+When those are all steady and easy, I "dropped in" the next note, again using the correct fingering:
 
-Training to join measures.
+.. vextab::
 
-To join measures, I would do forward chaining for example to join the F major seven and F sharp diminished chord this chords., I would do something like this:
+   options scale=0.85
+   # Fmaj7 - F#o - Abo - G7
+   tabstave notation=true tuning=dropd
+   notes :16 3/6 $3$ 3/4 $4$ :8 2/3 $2$ :q T2/3 :16 3/6 3/4 :8 2/3 :q T2/3 |
+   notes :16 4/6 $1$ 6/5 $3$ :8 7/4 $4$ :q T7/4 :16 4/6 $1$ 6/5 $3$ :8 7/4 $4$ :q T7/4 |
+   notes :16 A@3_3/6 $2$ 8/5 $4$ :8 0/2 :q T0/2 :16 A@3_3/6 $2$ 8/5 $4$ :8 0/2 :q T0/2 |
+   notes :16 5/6 $1$ 8/5 $4$ :8 0/3 :q T0/3 :16 5/6 $1$ 8/5 $4$ :8 0/3 :q T0/3
+   text :w,.1,Fmaj7,|,:w,F#o,|,:w,Abo,|,:w,G7
 
-Backstab example and audio
+\... and so on, until all notes are filled in.
 
-With this, my focus was on rhythmic accuracy, and ensuring that the top melody note was sustained into the next court.
+Joining measures
+^^^^^^^^^^^^^^^^
 
-One thing I found interesting about this was that training would reveal certain efficiencies and economies in my finger movements. For example, when moving from the F major seven chord to the next F sharp diminished chord. 
+Sometimes transitions were extra tough, so I wanted to focus just on them.  I found :tech:ref:`chaining` sometimes very effective.  My focus was on rhythmic accuracy, and ensuring that the top melody note was sustained into the next chord.
 
-Slow practice. For every measure, but especially in these tricky ones, slow practice was really useful. I could really notice my finger position, and could observe tension throughout my body. This piece can be fairly demanding, with its big cords with this big sustained cord, So it’s easy to lose track of tension in your shoulders in and in your neck and in your arms, all of which will cause problems when you’re performing or recording it. Just a few minutes of slow practice was enough for me to observe what was going on.
+For example, for the F major 7 to F# diminished transition:
 
-Slow fast slow fast practice. As discussed here, link, I don’t like to practice slowly and gradually increase metronome speed over the course of days weeks or months. So, for this piece, or for whatever challenging measures, I practice slow fast like this sometimes combining that with training etc., I to figure out how to play it or to let my body figure out how to play it with ease.
+.. vextab::
 
+   options scale=0.85
+   # Fmaj7 - F#o
+   tabstave notation=true tuning=dropd
+   notes :16 3/6 $3$ 3/4 $4$ 2/3 $2$ 1/2 $1$ 0/1 2/3 1/2 0/1 | 4/6 $1$ 6/5 $3$ 7/4 $4$ 5/3 $2$ E@5_2/2 $1$ 7/4 $4$ 5/3 $2$ E@5_2/2 $1$
+   text :h,.1,Fmaj7,|,:h,.1,F#o
 
-No I don’t have any real real stats, I would guess that I spent at least 60% or 70% of my time working on just a handful of measures. A great piano teacher, Dorothy Taubman, once said or rather sad that every measure should be as easy to play as the simplest measure. So, take for example the very 1st quart of this piece, a simple cowboy Secord, very easy to play. But this F major 7 to F sharp diminished is for me much more difficult, much more. So by polishing these tough pieces and working out how to play them giving my body extra strategies to figure it out to work it out on its own reduces their complexity.  Each measure should be perfect, like a pearl, and he should be strung together your pieces of string of pearls.
+I used "forward chaining" to work on the transition, ensuring that each note sounded reasonably.  Starting with just one note in the F# chord:
 
-Are working on this one measure and bringing it to a high standard will raise my overall performance of this piece.
+.. vextab::
 
-Stubborn measures
+   options scale=0.85
+   # Fmaj7 - F#o
+   tabstave notation=true tuning=dropd
+   notes :16 3/6 $3$ 3/4 $4$ 2/3 $2$ 1/2 $1$ 0/1 2/3 1/2 0/1 | :h 4/6 $1$
+   text :h,.1,Fmaj7,|,:h,.1,F#o
 
-Sometimes there are measures that or sections that really just seem resistant to improvement. For me, in this piece there were three list here.
+When that was smooth, adding another note:
 
-These paragraphs were stubborn not due to any overwhelming technical difficulties like super fast speed. I have the basic technique to play them, but they just weren’t happening.
+.. vextab::
 
-Like everything else, it just takes quality practice time, concentrated quality practice time spread out so that your body can acclimate. So, I kept a short list of sections that I found difficult. The sections were sometimes just two or three notes, maybe maximum five notes that exposed the problem. For example, for the a minor to D7 transition the issue was keeping the top not ringing while playing the next chords:
+   options scale=0.85
+   # Fmaj7 - F#o
+   tabstave notation=true tuning=dropd
+   notes :16 3/6 $3$ 3/4 $4$ 2/3 $2$ 1/2 $1$ 0/1 2/3 1/2 0/1 | 4/6 $1$ 6/5 $3$ :8 T6/5 :q T6/5
+   text :h,.1,Fmaj7,|,:h,.1,F#o
 
-Example with audio
+Then the next:
 
-I just played these troublesome sections a few times a day, over several days, with slow relaxed focussed practice, to keep refining the image of the section to my brain and hands.
+.. vextab::
 
-Then, since piecemeal practising can get tedious, I would try to play those short sections in context, where the measure before and measure afterwards, playing it slow and relax just carrying forward the things I found during concentrated practice.
+   options scale=0.85
+   # Fmaj7 - F#o
+   tabstave notation=true tuning=dropd
+   notes :16 3/6 $3$ 3/4 $4$ 2/3 $2$ 1/2 $1$ 0/1 2/3 1/2 0/1 | 4/6 $1$ 6/5 $3$ :8 7/4 $4$ :q T7/4
+   text :h,.1,Fmaj7,|,:h,.1,F#o
 
-The details here might seem overwhelming and pretty damn tedious. Are so it’s important to keep in mind, so while working on these sections, I was concentrating on the quality of sound, trying to make even the shortest sections something musical. It’s all just give-and-take you know it’s Leica 
+\... and so on.
 
---------
+I found forward chaining quickly revealed useful efficiencies in my finger movements.
 
-.. todo:: cover all items in mentioned.
+.. tip:: Don't lose sight of the big picture!
 
-Items to cover:
+   Sometimes, working with laser intensity on small sections can lead
+   to an obsessive need to make each microsecond *perfect.* While that
+   can be useful, and make you dig deep for solutions and real musical
+   meaning, it can also prevent you from taking a larger view of your
+   work.
 
-* started from the end
-* listened to 2 recordings
-* practiced 20 mins
-* worked out trouble spots
-* had everything more or less memorized, but (along with general roughness) could isolate a few spots where things particularly fell apart.  Identified those and practiced them separately
-* overview of piece, listening to examples
-* performance choices - articulation, etc
-* mental practice of overall structure
-* chaining to deal with problem sections
-  * final G with weird pull offs
-  * F - F#o
-  * F#o - Abo
-  * Go - Dm/F
-* simplify - just shifting chords
-* dropping notes - to pull out the bass line
-* slow practice, of course, for changes, right hand, tension everywhere
-* other technical notes:
-  * tension
-  * barre chords are tough
-* my own practice log for this piece
+   You must absolutely work on the fine details.  But every so often,
+   take a step back.
 
+   For example, when working on this particular chord transition, I
+   found I needed to release some of the strings in the F major 7
+   chord sooner than others in order to make a clear transition to the
+   diminished chord.  When working on a very small section, that stood
+   out as an imperfection.  It was only when I played larger sections
+   together that I saw it as a mere ripple in the stream, and not
+   needing further work.
+
+Slow practice
+^^^^^^^^^^^^^
+
+For these tricky measures, :tech:ref:`slowpractice` was really useful.  I could take all the time I wanted to really notice my finger position, and could observe tension throughout my body.  This whole piece is fairly demanding, with its big chords and delicate musicality, so it’s easy to lose track of tension in your shoulders, neck, and arms.  Just a few minutes of slow practice was enough for me to observe what was going on.
+
+Troublesome sections
+--------------------
+
+As I continued work, there were some challenges I couldn't seem to crack.  They weren't fundamental technical challenges, they were more musical in nature: shape, articulation, emphasis, etc.  I could boil some of them down to a small handful of notes that exposed the problem (for example, keeping the top E ringing during the transition from F major 7 to F# diminished).
+
+I kept a short list of these "troublesome" sections, and played each of them a few times a day, trying different approaches and techniques, and letting them develop.   I didn't want to spend more dedicated sessions on them:
+
+* I figured they just needed time to "bake" in my mind and body, and would continue to improve during my rest periods.
+* In some cases, I wasn't happy with the arrangement, and needed to keep tinkering, but didn't want to get stuck.
+
+I would also play those short sections in context, seeing how it all fit together.  (Piecemeal practice gets pretty tedious.)
+
+.. tip:: Practice the hard parts
+
+   Though I didn't keep track, I would guess that I spent at least 60% or 70% of my time working on just a handful of measures.  A great piano teacher, Dorothy Taubman, once said (paraphrasing) that every measure in a piece should be as easy to play as the simplest measure.  In this piece, the first measure is dead simple, but later on, there are parts that I find more difficult -- much more. Spending my time polishing these difficult sections, doing my best to make them as efficient and musical as the first, makes this whole piece much more enjoyable to play.
+
+Putting it all together
+-----------------------
+
+When I had (finally!) worked my way back to the beginning of the piece, I was able to play it through from beginning to end.  I was still working on a few troublesome measures, but now shifted to focus to more musical matters of the full piece.
+
+I still alternated between playing at my chosen performance tempo, and playing very slowly.  Slow practice is extremely good for refining your efficient fast motions, and for carefully monitoring your playing and self for any tension and trouble.
+
+Final thoughts
+--------------
+
+It's just 20 minutes at a time.
+
+This whole process, all the detail on this page, may seem exhausting ... really, really exhausting, overwhelming, and tedious.  Having worked through it myself, though, I can say that it was an extremely satisfying process.  It took me longer than expected to reach performance level with the piece -- partly because the sustained melody that I wanted was so hard for me to achieve in the arrangement -- but I really enjoy playing it, look forward to the challenging parts, and am happy with how it sounds and feels.
+
+So, make your plan, and work your plan, just 20 minutes at a time.
+
+.. [#] These are unusual chord shapes and fingerings, and it was very hard to find playable guitar chords that would accurately convey the harmony of the original piano score, and not compromise the melody voices.  Even with the simplest chords I could find, it's a challenge.
+
+.. [#] "Start slow and gradually speed up" can easily lead to problems -- see :ref:`start_slow_fails`.
