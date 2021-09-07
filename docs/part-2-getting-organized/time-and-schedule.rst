@@ -69,6 +69,8 @@ Then start your "regular break".  Stretch, have some water, and shake things out
 
 A good break should leave you refreshed and still in-the-groove.
 
+.. _repeating_chunks:
+
 Repeating 20-minute chunks
 --------------------------
 

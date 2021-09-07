@@ -14,5 +14,3 @@ Practice notes:
 * in
 
 Practice log
-
-.. todo:: ensure referenced techniques show this item somewhere on their page
