@@ -15,6 +15,11 @@ Here's the tab, transposed down a bit.  All downstrokes are with the pick, all u
    tabstave notation=false time=12/8
    notes :16 12d/2 8u/1 12d/3 8u/1 12d/4 8u/1 10d/4 8u/1 10d/3 8u/1 10d/2 8u/1
 
+-------
+
+.. contents::
+   :local:
+
 Overall approach
 ----------------
 
