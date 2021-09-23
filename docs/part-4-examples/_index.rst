@@ -9,7 +9,7 @@ In this section I describe how I used the techniques in this book when practisin
 If you have any question, let me know in the feedback. Good luck!
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :name: examplestoc
    :glob:
 
