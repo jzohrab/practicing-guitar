@@ -100,9 +100,9 @@ To work through this, I used :tech:ref:`tempovariations`.  I had the basic motio
 
 The benefits of this approach are described in :tech:ref:`tempovariations`:
 
-.. include:: ../part-3-techniques/tempo-variations.rst
-   :start-after: start-why-slow-fast-slow-fast-works
-   :end-before: end-why-slow-fast-slow-fast-works
+   .. include:: ../part-3-techniques/tempo-variations.rst
+      :start-after: start-why-slow-fast-slow-fast-works
+      :end-before: end-why-slow-fast-slow-fast-works
 
 I also moved around to different starting points in the lick:
 
