@@ -1,9 +1,9 @@
 Bach Prelude in C Major
 =======================
 
-A "shorthand" version of the full score is at :ref:`bach_wtc_prelude_in_c_major`.
-
 *This piece starts off simply enough: the first few chords are straightforward, and the fingerpicking throughout is easy; however, it becomes quite challenging technically and harmonically.  Also, every measure is different, so it takes longer to master than you might expect.  Below are notes about how I approached it -- perhaps it will give you some ideas should you decide to tackle it as well.*
+
+A "shorthand" version of the full score is at :ref:`bach_wtc_prelude_in_c_major`.
 
 -------
 
