@@ -96,7 +96,7 @@ To work through this, I used :tech:ref:`tempovariations`.  I had the basic motio
 
    options scale=0.85 tab-stems=true
    tabstave notation=false
-   notes :8 12d/2 8u/1 12d/3 8u/1 :16 12d/4 8u/1 10d/4 8u/1 10d/3 8u/1 10d/2 8u/1
+   notes :q 12d/2 8u/1 12d/3 8u/1 :16 12d/4 8u/1 10d/4 8u/1 10d/3 8u/1 10d/2 8u/1
 
 The benefits of this approach are described in :tech:ref:`tempovariations`:
 
@@ -104,10 +104,23 @@ The benefits of this approach are described in :tech:ref:`tempovariations`:
       :start-after: start-why-slow-fast-slow-fast-works
       :end-before: end-why-slow-fast-slow-fast-works
 
-I also moved around to different starting points in the lick:
+I also moved around to different starting points in the lick, trying different rhythms:
 
 .. vextab::
 
    options scale=0.85 tab-stems=true
    tabstave notation=false
    notes :8 12d/3 8u/1 12d/4 8u/1 :16 10d/4 8u/1 10d/3 8u/1 10d/2 8u/1 12d/2 8u/1
+
+When these all worked, I quickly got to the full lick.
+
+.. vextab::
+
+   options scale=0.85 tab-stems=true
+   tabstave notation=false time=12/8
+   notes :16 12d/2 8u/1 12d/3 8u/1 12d/4 8u/1 10d/4 8u/1 10d/3 8u/1 10d/2 8u/1
+
+Final thoughts
+--------------
+
+Since this lick is completely different from anything that I usually play, all the motions were new.  I spent a long time initially just trying to practice it at various tempi (fast and slow), but didn't make progress as I was doing too much.  By breaking it down, and getting comfortable with each atomic unit of the technique, I could carry that forward as I gradually added new ideas.
