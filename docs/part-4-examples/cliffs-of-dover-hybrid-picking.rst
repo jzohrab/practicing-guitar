@@ -28,7 +28,7 @@ I worked on these components one at a time in succession until each was mastered
 20-minute chunks
 ^^^^^^^^^^^^^^^^
 
-For each different part, I stuck with the 20-minute practice session described in :ref:`practicing_repertoire`.  When acquiring new motions, e.g. for new techniques, overpracticing can be counterproductive, so keeping the sessions short and experimental let me find what worked for me.  I moved on to the next technique when the current one felt natural at the start of any practice session.
+For each different part, I stuck with the 20-minute practice session described in :ref:`practicing_repertoire`.  It takes time to acquire new motions, for example when working on new techniques, so keeping the sessions short and experimental let me find what worked, and gave my brain and body time to adapt.  I moved on to the next technique when the current one felt natural at the start of any practice session.
 
 The components
 --------------
@@ -77,7 +77,7 @@ I first worked on single trills (just a few notes), and gradually extended it un
 Trill and jump
 ^^^^^^^^^^^^^^
 
-When the trills were good, add the jump to the next string.  This is (finally) the kernal of the entire lick:
+When the trills were good, add the jump to the next string.  This is (finally) the kernel of the entire lick:
 
 .. vextab::
 
@@ -123,4 +123,4 @@ When these all worked, I quickly got to the full lick.
 Final thoughts
 --------------
 
-Since this lick is completely different from anything that I usually play, all the motions were new.  I spent a long time initially just trying to practice it at various tempi (fast and slow), but didn't make progress as I was doing too much.  By breaking it down, and getting comfortable with each atomic unit of the technique, I could carry that forward as I gradually added new ideas.
+Since this lick is completely different from anything that I usually play, all the motions were new.  I spent a long time initially just trying to practice it at various speeds, but didn't make progress as I was doing too much.  By breaking it down, and getting comfortable with each atomic unit of the technique, I could carry that forward as I gradually added new ideas.

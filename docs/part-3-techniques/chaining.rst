@@ -73,7 +73,7 @@ Lastly, breaking things down like this lets you deal with small slices of the pr
 Backwards chaining for repertoire
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Backwards chaining is exceptionally useful for learning new repertoire -- either licks, or full pieces -- for the same reasons that it's useful for technique.  If you start learning something from the end, rather than the beginning, you'll find that the "feeling" of memorization is quite different, because you're always pre-pending new material to material you've already mastered.
+Backwards chaining is exceptionally useful for learning new repertoire -- either licks, or full pieces -- for the same reasons that it's useful for technique.  If you start learning something from the end, rather than the beginning, you'll find that the "feeling" of memorization is quite different, because you're always prepending new material to material you've already mastered.
 
 If you memorize something starting at the beginning, there is the danger of just playing what you know for a few bars, and never really getting into the remainder of it: you start strong and then bluff your way through the rest.  I know I've been guilty of that.  Starting at the end ensures that you will end up *really* learning what you're working on!
 

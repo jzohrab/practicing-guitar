@@ -16,7 +16,9 @@ Sándor
 Taubman
 Todo
 Werner
+arpeggiated
 bach
+backchaining
 bernhard
 crosspicking
 downstroke
@@ -37,10 +39,14 @@ partita
 pianostreet
 pickstrokes
 practicers
+prepending
 proprioceptive
+proprioception
 reframe
 rst
 th
 ths
+tunings
 ve
+voicings
 you’ve

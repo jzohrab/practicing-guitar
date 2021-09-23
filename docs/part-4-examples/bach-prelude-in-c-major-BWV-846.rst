@@ -36,7 +36,7 @@ Day 1: Starting with the last G7
 
 .. note::
 
-   All tunings here are drop-D; i.e., detune the lower E by a whole step.
+   All tunings here are drop-D; i.e., tune the lower E down a whole step.
 
 I started with the last two measures:
 
@@ -49,7 +49,7 @@ I started with the last two measures:
    notes :16 3/5 $3$ p2/5 $2$ 0/3 0/2 h3/2 $3$ 1/1 $1$ 3/2 $3$ 4/3 $4$ 3/2 $3$ 4/3 $4$ 0/3 $.top.$ $P$ 0/2 $P$ 0/4 h3/4 $.bottom.$ $3$ p2/4 $2$ p0/4 | :w (3/5.2/4.0/3.1/2)
    text :w,.1,G7,|,:w,.1,C
 
-I found the G7 chord surprisingly tough!  The "pulloffs from nowhere" were an unusual technique for me, and it was hard to find the relaxed hand position that let me sustain the notes and still support the pulloffs as I wanted them.  I started off with just this, devoting about 15 minutes on that in my first day. It was a lot of gentle experimentation, trying to get the right sound, and to find a good hand and arm position so I could avoid any tension.
+I found the G7 chord surprisingly tough!  The "pull-offs from nowhere" were an unusual technique for me, and it was hard to find the relaxed hand position that let me sustain the notes and still support the pull-offs as I wanted them.  I started off with just this, devoting about 15 minutes on that in my first day. It was a lot of gentle experimentation, trying to get the right sound, and to find a good hand and arm position so I could avoid any tension.
 
 This alone was more than enough for me for the first session.  20 minutes might seem like a long time to spend on one small thing, but breaking things down to digestible chunks is the only way to make real progress, and having a short time limit ensures I don't burn myself out or overreach.
 
@@ -61,7 +61,7 @@ This alone was more than enough for me for the first session.  20 minutes might 
 Day 2: Repeat
 -------------
 
-The next day, I came back to the piece, and per :ref:`practicing_repertoire` I started again with the same measure, playing it to see if I had in fact mastered it. And I hadn’t.  I started my 20-minute timer, and practiced the exact same measure again, narrowing my scope to just the pull-offs.  I had lots of hand tension I had to get rid of!
+The next day, I came back to the piece, and per :ref:`practicing_repertoire` I started again with the same measure, playing it to see if I had in fact mastered it. And I hadn't.  I started my 20-minute timer, and practiced the exact same measure again, narrowing my scope to just the pull-offs.  I had lots of hand tension I had to get rid of!
 
 .. vextab::
 
@@ -75,7 +75,7 @@ A few more days
 
 Though it's a single measure, I spent a few more 20-minute sessions on this section alone.  When you're focused, 20 minutes flies by, and the rest between each session lets your body process and synthesize.
 
-Since this measure felt completely foreign to me, I wasn’t aiming for perfection at first. I just wanted a mid range temple that I could play evenly and rhythmically accurately, with no undue stress anywhere in my body.  I was going to spend a lot of time on the piece and let my mind, hands, and fingers acclimate.
+Since this measure felt completely foreign to me, I wasn't aiming for perfection at first. I just wanted a mid range temple that I could play evenly and rhythmically accurately, with no undue stress anywhere in my body.  I was going to spend a lot of time on the piece and let my mind, hands, and fingers acclimate.
 
 The next measure: F
 -------------------
