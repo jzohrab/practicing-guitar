@@ -49,8 +49,12 @@ Go as fast or as slow as needed.  Sometimes repeating the same part of a lick, c
 Why slow-fast-slow-fast works
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. start-why-slow-fast-slow-fast-works
+
 * Playing fast helps you find the right motions for you, but can also cause you to rapidly accumulate tension everywhere as you try to "push yourself".  Playing slow lets you observe your body and playing, and lets you locate and release tension; however, it might not contribute to your progress if the motions you make aren't approximately the same as when you play fast, and if you can't apply what you learn while playing slow to your fast playing.  Combining the two lets you rapidly refine both.
 * Adjusting the tempo helps keep your mind engaged, so you don't practice on autopilot.
+
+.. end-why-slow-fast-slow-fast-works
 
 Method 2: Floor it, then refine
 -------------------------------
