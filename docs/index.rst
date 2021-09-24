@@ -37,3 +37,4 @@ A curated source of ideas and techniques for electric and acoustic guitar practi
    part-4-examples/_index
    appendices/_index
    feedback
+   contributing
