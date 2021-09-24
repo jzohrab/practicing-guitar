@@ -21,6 +21,12 @@ The `youtube::` directive embeds a video in the HTML, eg:
    :height: 480
 ```
 
+You can specify the start time:
+
+```
+.. youtube:: 5Nd7EZ3k39s?start=124
+```
+
 ## Adding TAB and notation
 
 We use [Vextab](https://vexflow.com/vextab/).  The project includes Vextab's [div.prod.js](https://github.com/0xfe/vextab/blob/master/releases/div.prod.js) in html pages.
@@ -40,6 +46,12 @@ See `docs/_ext/vextab.py` for other examples and notes.
 ref: https://www.sphinx-doc.org/en/master/usage/extensions/todo.html
 
 ## Links
+
+Link to a technique:
+
+```
+Here is a link to :tech:ref:`slowpractice`
+```
 
 Linking to other .rst pages:
 
@@ -62,6 +74,11 @@ If the other page doesn't have a label, these work:
 :ref:`theory/reading-rhythms:The Basics`
 ```
 
+External links:
+
+```
+`Link text <http://target>`_
+```
 
 "to-do" items are indicated with the `.. todo::` directive, and output at `todo.html` using `make html`
 

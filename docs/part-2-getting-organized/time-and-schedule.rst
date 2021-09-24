@@ -8,7 +8,7 @@ As covered in :ref:`part-1-on-technique`, playing guitar is a nervous system act
 The ideal practice schedule:
 
 1. Practice hard for 20 minutes.
-2. Take a short break, noting any observations.  Shake things out, stretch.
+2. Take a short break.
 3. Go back to step 1, and work on *something different*.  You can repeat 20-minute chunks, but they should be spaced out during the day (see :ref:`repeating_chunks` below).
 
 .. note:: Practice as long as you want to, but be sure to break it into these 20-minute chunks.  This is key.
@@ -18,7 +18,6 @@ Why 20 minutes?
 
 * Playing is mostly a mental activity, and so you need to ensure your mind and body are at peak concentration.
 * There is a physical component to playing, so rest is essential for smaller muscles.
-* You need to reflect on the work you've done in those 20 minutes.
 
 If you've done focused work during your 20 minutes, that's sufficient for your brain and nervous system to process and adapt during your rest period.
 
@@ -58,10 +57,17 @@ For repertoire, the 20-minute rule is also applicable.  Take a passage and work 
 
 See :ref:`practicing_repertoire` for more.
 
-Rest
-----
+Taking a break
+--------------
 
-When you're done the 20 minutes, take a short break.  Stretch, relax, make notes.  Your mind, nerves, and muscles need to take a moment to refresh.
+When done your 20-minute session, do **nothing** for a couple of minutes.  Close your eyes and relax -- don't look at your phone, don't rush on to the next thing.  This mindful pause gives you and your mind time to process what you worked on during that practice session. [#]_  I find this pause extremely calming, and it somehow feels *productive*, even though I'm doing nothing!  See if it works for you.
+
+Then start your "regular break".  Stretch, have some water, and shake things out.  Reflect and make notes on the last 20 minutes.  Then relax for whatever duration is good for you.  You might just need a few minutes, or you might need half an hour.  Here are a few thoughts to help you find that duration:
+
+* You feel ready, mentally and physically, for the next 20-minute session -- whatever "ready" means for you!  Hard technical work might call for a longer break to let things relax.
+* The `Pomodoro Technique <https://todoist.com/productivity-methods/pomodoro-technique/>`_ of time management suggests taking 5-minute breaks after every 25-minute session, and then taking a 15-to-30 minute break every four sessions.
+
+A good break should leave you refreshed and still in-the-groove.
 
 .. _repeating_chunks:
 
@@ -72,6 +78,17 @@ For motor skill acquisition, it's very good to do short bursts of practice a few
 
 The rest period allows your body to make some quick adjustments.  Don't expect to see improvement within the same day, but after a longer rest, things might come together.  Especially with interleaved practice (of a few items), you can cover a lot of ground.
 
+20 minutes is just a suggestion
+-------------------------------
+
+Though I've said "20 minutes" a few times above, it's not carved in stone (nothing is, really).  The key points are mentioned above: you need to be active, alert, mindful, relaxed, curious, and interested in what you're doing!  Sometimes, it's extremely interesting and useful to work on something for up to an hour, as you try different methods, musical expressions, physical approaches, etc.
+
+.. tip:: *Never* practice mindlessly.
+
+   Practicing on autopilot is not practicing, it's just moving your limbs and making sounds.  It can feel like practice, because you're *working hard, dammit,* but it's not.  Keep your brain and body engaged -- never "grind away" at it.  Grinding doesn't hone your technique, it just dulls your brain and musicality.
+
+   Always be mindful, and always be musical.
+
 Day-to-day Schedule
 -------------------
 
@@ -80,3 +97,21 @@ If your daily practicing is going well, you will soon get a feel for what kind o
 Sometimes things need some "baking time" to set.  I've found that if I practice a given technique very hard for a few days, I can take a day or so break from it, and work on something else.  And some pieces of repertoire need to seep into the unconscious.
 
 With that said, it's much better to work on something bit by bit over several days, rather than cram one long session.  The repeated exposure and rest is what causes your brain to grow.
+
+Don't forget fun
+----------------
+
+With all of the above, it's easy to forget that you need time to just *play*, *enjoy it*, and to *be musical*.  This can be anything like the following:
+
+* playing through your repertoire, either in performance or for your own enjoyment
+* playing along with records or backing tracks, really being expressive
+* free improvisation
+* writing songs
+* singing, playing other instruments
+* actively listening to stuff that really gets your motor going
+* making any kind of glorious noise
+
+Fun is important.  Have some!
+
+
+.. [#] The importance of taking a complete break and letting your mind organize itself is discussed in the super podcast `How to Learn Skills Faster | Huberman Lab Podcast #20 <https://www.youtube.com/watch?v=xJ0IBzCjEPk>`__, at around the 48-minute mark.
