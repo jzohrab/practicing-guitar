@@ -5,9 +5,10 @@ Prelude in C, BWV 846, from the WTC, J.S. Bach
 
 .. note::
 
-   This is not a *full* score, it's more a "shorthand", as there is a great deal of repetition -- and I didn't have good software to score every detail I wanted.  If anyone is kind enough to create and share a full score, I'll gladly use it here!
+   This is not a *full* score, it's more a "shorthand", as there is a great deal of repetition.  Each "measure" below corresponds to a full measure in the piece - each measure is just four beats of steady sixteenth notes.  Some measures are fully scored to highlight special points, but most of them merely contain the notes present in the measure.
 
-Each measure below corresponds to a measure in the piece.  Some measures are fully scored to highlight special points, but most of them merely contain the notes present in the measure.  Fingerings are given under each staff where not obvious.
+   Fingerings are given under each staff where not obvious.
+
 
 .. vextab::
 
@@ -60,7 +61,7 @@ Each measure below corresponds to a measure in the piece.  Some measures are ful
 
    # Cmaj/G - G7sus4 - G7 - C7
    tabstave notation=true tuning=dropd
-   notes :16 5/6 7/5 5/4 5/3 8/2 | 5/6 $1$ 5/5 $1$ 5/4 $1$ 5/3 $1$ 6/2 $4$ | 5/6 $1 - 4$ 0/4 0/3 0/2 1/1 $1$ | 3/5 2/4 3/3 1/2 0/1
+   notes :16 5/6 7/5 5/4 5/3 8/2 | 5/6 $1$ 5/5 $1$ 5/4 $1$ 5/3 $1$ 6/2 $4$ | 5/6 $1 - 4$ 0/4 0/3 0/2 1/1 $1$ | 3/5 2/4 B@4_3/3 1/2 0/1
    text :q,.1,Cmaj/G,:16, ,|,:q,G7sus4,:16, ,|,:q,G7,:16, ,|,:q,C7
    options space=25
 

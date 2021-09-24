@@ -87,6 +87,8 @@ Though I've said "20 minutes" a few times above, it's not carved in stone (nothi
 
    Practicing on autopilot is not practicing, it's just moving your limbs and making sounds.  It can feel like practice, because you're *working hard, dammit,* but it's not.  Keep your brain and body engaged -- never "grind away" at it.  Grinding doesn't hone your technique, it just dulls your brain and musicality.
 
+   Always be mindful, and always be musical.
+
 Day-to-day Schedule
 -------------------
 
